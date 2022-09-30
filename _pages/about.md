@@ -8,6 +8,20 @@ redirect_from:
   - /about.html
 ---
 
+In the AI-based Sensing, Networking and Data Services (AI-SENDS), we are working on powering sensing, networking, and data-driven actuation network with computational intelligence. The core of our research is developing predictive models for smart AI-powered agents to learn the environment and take actions based on their anticipated consequences. My vision is applied research, and we work with domain researchers from different expertise to leverage the developed method in different applications areas. Examples of our research include: (i) developing AI-enabled wireless networking protocols for unmanned aerial systems by predicting network topology, user behavior, spectrum mobility, and traffic distribution, (ii) developing a safety analysis framework for regular and self-driving cars to extract the overall safety of traffic flow from augmented video and time-stamped crash data, (iii) developing image-based security solutions to leverage fabrication variability of nano-resolution optical identifiers for securing supply chains and the Internet of Things, (iv) developing autonomous aerial sensing platform for fire modeling and control, (v) developing networking and computational nodes for sparse networking.
+These projects involve concepts from information theory, signal processing, big data analysis, Bayesian inference, deep learning, graph theory, digital holography, and dimension reduction techniques.
+These projects are supported by NSF, US Airforce Research Laboratory, USDA, and Arizona Commerce Authority. For more information, check out my research project [here](https://arazi.people.clemson.edu/research.html) and feel free to send me an email at <a href="arazi@clemson.edu">arazi@clemson.edu</a>.
+
+(/images/IMG_0393.JPG)
+
+
+Open Positions: We have multiple open positions (MS and PhD) in our research group. If you are interested, please email your CV to the email with topic "Application for open positions".
+We also have funding to support part-time undergraduate and graduate research. If you have a good programming skill in MATLAB, Python, ROS, and C++, send us your CV.
+
+
+
+<!-- 
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -47,4 +61,6 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. 
+
+-->
