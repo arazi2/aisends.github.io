@@ -10,12 +10,11 @@ citation: 'Chen X, Wang H, Razi A, et al. DH-GAN: A Physics-driven Untrained Gen
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here]([http://academicpages.github.io/files/paper2.pdf](https://arxiv.org/pdf/2205.12920.pdf))
+[Download paper here](https://arxiv.org/pdf/2205.12920.pdf)
 
 Recommended citation: Chen X, Wang H, Razi A, et al. DH-GAN: A Physics-driven Untrained Generative Adversarial Network for 3D Microscopic Imaging using Digital Holography[J]. arXiv preprint arXiv:2205.12920, 2022.
 
 BibTeX:
-
 @article{chen2022dh,
   title={DH-GAN: A Physics-driven Untrained Generative Adversarial Network for 3D Microscopic Imaging using Digital Holography},
   author={Chen, Xiwen and Wang, Hao and Razi, Abofazl and Kozicki, Michael and Mann, Christopher},
