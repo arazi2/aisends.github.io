@@ -20,7 +20,7 @@ Current forest monitoring technologies including satellite remote sensing, manne
 ## Background
 In this project, we propose a drone-based wildfire monitoring system for remote and hard-to-reach areas. This system utilizes autonomous unmanned aerial vehicles (UAVs) with the main advantage of providing on-demand monitoring service faster than the current approaches of using satellite images, manned aircraft and remotely controlled drones.
 
-![Sample of Dataset](../images/flame.jpg)
+![Sample of Dataset](../images/FLAME2/flame.jpg)
 
 
 Avalible datasets for now:
@@ -36,7 +36,7 @@ This module only uses image processing method to detect flame zone on IR picture
 
 For codes, please go to: [Flame_detection](Flame_detection)
 
-![Flame detection](../images/Figure%202022-06-30%20001211.png)
+![Flame detection](../images/FLAME2/Figure%202022-06-30%20001211.png)
 <!-- <img src="./images/Figure%202022-06-30%20001211.png" width="500px"> -->
 
 
@@ -49,7 +49,7 @@ This part is only on experimental stage, but it's good to research the relations
 
 For codes, please go to: [Flame_GAN](Flame_GAN)
 
-![Flame GAN](../images/Figure%202022-06-16%20233050.png)
+![Flame GAN](../images/FLAME2/Figure%202022-06-16%20233050.png)
 <!-- <img src="./images/Figure%202022-06-16%20233050.png" width="500px"> -->
 
 
