@@ -58,7 +58,9 @@ the coordinates of natural features visible in the images and
 satellite imagery. A mean error of 0.705 m and a resolution
 of 7.6 cm/px were attained.
 
-![2D view of point cloud](../images/FLAME2/point_cloud_figure.jpg)
+<!-- ![2D view of point cloud](../images/FLAME2/point_cloud_figure.jpg) -->
+
+<img src="../images/FLAME2/point_cloud_figure.jpg" width="500px">
 
 
 
@@ -77,7 +79,9 @@ only modify some layers of the pre-trained models (their
 "classifiers") and train the classifiers on our dataset; then,
 those models can have good accuracy on our dataset.
 
-![Wildfire Classification](../images/FLAME2/FLAME_arc.jpg)
+<img src="../images/FLAME2/FLAME_arc.jpg" width="500px">
+
+<!-- ![Wildfire Classification](../images/FLAME2/FLAME_arc.jpg) -->
 
 ## RGB/IR Fusion
 The input of the model can be only RGB images
@@ -137,8 +141,8 @@ affected by smoke. Thus, our proposed framework is simple,
 stable, computationally efficient, and labor-free.
 
 
-![Flame detection](../images/FLAME2/flame_test.jpg)
-<!-- <img src="./images/Figure%202022-06-30%20001211.png" width="500px"> -->
+<!-- ![Flame detection](../images/FLAME2/flame_test.jpg) -->
+<img src="../images/FLAME2/flame_test.jpg" width="500px">
 
 
 ## Flame Images Generating
