@@ -12,7 +12,7 @@ In the AI-based Sensing, Networking and Data Services (AI-SENDS), we are working
 These projects involve concepts from information theory, signal processing, big data analysis, Bayesian inference, deep learning, graph theory, digital holography, and dimension reduction techniques.
 These projects are supported by NSF, US Airforce Research Laboratory, USDA, and Arizona Commerce Authority. For more information, check out my research project [here](https://arazi.people.clemson.edu/research.html) and feel free to send me an email at <a href="arazi@clemson.edu">arazi@clemson.edu</a>.
 
-[iSeND Lab Weekly Meeting](/images/IMG_0393.JPG)
+[iSeND Lab Weekly Meeting](/images/IMG_0393.png)
 
 
 Open Positions: We have multiple open positions (MS and PhD) in our research group. If you are interested, please email your CV to the email with topic "Application for open positions".
