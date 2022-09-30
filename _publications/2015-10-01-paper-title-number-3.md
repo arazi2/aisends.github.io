@@ -21,7 +21,7 @@ Wildfire flame detection based on deep learning & image processing
 ## Background
 In this project, we propose a drone-based wildfire monitoring system for remote and hard-to-reach areas. This system utilizes autonomous unmanned aerial vehicles (UAVs) with the main advantage of providing on-demand monitoring service faster than the current approaches of using satellite images, manned aircraft and remotely controlled drones.
 
-<img src="./images/flame.jpg" width="500px">
+![Sample of Dataset](./images/flame.jpg)
 
 
 Avalible datasets for now:
@@ -37,7 +37,8 @@ This module only uses image processing method to detect flame zone on IR picture
 
 For codes, please go to: [Flame_detection](Flame_detection)
 
-<img src="./images/Figure%202022-06-30%20001211.png" width="500px">
+![Flame detection](./images/flame.jpg)
+<!-- <img src="./images/Figure%202022-06-30%20001211.png" width="500px"> -->
 
 
 
@@ -49,7 +50,8 @@ This part is only on experimental stage, but it's good to research the relations
 
 For codes, please go to: [Flame_GAN](Flame_GAN)
 
-<img src="./images/Figure%202022-06-16%20233050.png" width="500px">
+![Flame GAN](./images/flame.jpg)
+<!-- <img src="./images/Figure%202022-06-16%20233050.png" width="500px"> -->
 
 
 
