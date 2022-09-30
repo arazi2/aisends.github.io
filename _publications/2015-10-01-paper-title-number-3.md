@@ -3,7 +3,7 @@ title: "Paper Title Number 3"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+date: 2022-04-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
@@ -18,13 +18,10 @@ Wildfire flame detection based on deep learning & image processing
 
 
 
-
-
-
 ## Background
 In this project, we propose a drone-based wildfire monitoring system for remote and hard-to-reach areas. This system utilizes autonomous unmanned aerial vehicles (UAVs) with the main advantage of providing on-demand monitoring service faster than the current approaches of using satellite images, manned aircraft and remotely controlled drones.
 
-<img src="https://github.com/bot0231019/Wildfire-Flame/blob/main/flame.jpg" width="500px">
+<img src="./images/flame.jpg" width="500px">
 
 
 Avalible datasets for now:
@@ -40,7 +37,7 @@ This module only uses image processing method to detect flame zone on IR picture
 
 For codes, please go to: [Flame_detection](Flame_detection)
 
-<img src="https://github.com/bot0231019/Wildfire-Flame/blob/main/Flame_detection/plot/Figure%202022-06-30%20001211.png" width="500px">
+<img src="./images/Figure%202022-06-30%20001211.png" width="500px">
 
 
 
@@ -52,7 +49,7 @@ This part is only on experimental stage, but it's good to research the relations
 
 For codes, please go to: [Flame_GAN](Flame_GAN)
 
-<img src="https://github.com/bot0231019/Wildfire-Flame/blob/main/Flame_GAN/plot/Figure%202022-06-16%20233050.png" width="500px">
+<img src="./images/Figure%202022-06-16%20233050.png" width="500px">
 
 
 
