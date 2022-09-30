@@ -16,13 +16,11 @@ Wildfire flame detection based on deep learning & image processing
 
 <!-- Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). -->
 
-![iSeND Lab Weekly Meeting](./images/IMG_0393.png)
-
 
 ## Background
 In this project, we propose a drone-based wildfire monitoring system for remote and hard-to-reach areas. This system utilizes autonomous unmanned aerial vehicles (UAVs) with the main advantage of providing on-demand monitoring service faster than the current approaches of using satellite images, manned aircraft and remotely controlled drones.
 
-![Sample of Dataset](./images/flame.jpg)
+![Sample of Dataset](../images/flame.jpg)
 
 
 Avalible datasets for now:
