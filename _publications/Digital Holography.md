@@ -1,7 +1,7 @@
 ---
 title: "DH-GAN: A Physics-driven Untrained Generative Adversarial Network for 3D Microscopic Imaging using Digital Holography"
 collection: publications
-permalink: /publication/Digital Holography.md
+permalink: /publication/Digital Holography
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-05-25
 venue: 'Journal 1'
