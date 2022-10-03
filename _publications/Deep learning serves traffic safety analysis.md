@@ -2,9 +2,9 @@
 title: "Deep learning serves traffic safety analysis: A forward-looking review"
 collection: publications
 permalink: /publication/Deep learning serves traffic safety analysis
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is published on The Institution of Engineering and Technology(IET).'
 date: 2022-08-27
-venue: 'Journal 1'
+venue: 'IET'
 paperurl: 'https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12257'
 citation: 'Razi A, Chen X, Li H, et al. Deep learning serves traffic safety analysis: A forward‐looking review[J]. IET Intelligent Transport Systems, 2022.'
 ---

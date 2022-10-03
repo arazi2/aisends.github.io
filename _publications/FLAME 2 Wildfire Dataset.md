@@ -2,16 +2,13 @@
 title: "FLAME 2 Wildfire Dataset"
 collection: publications
 permalink: /publication/FLAME 2 Wildfire Dataset
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This paper is currently under the review of IEEE Access.'
 date: 2022-09-16
 venue: 'TBD'
 paperurl: 'https://ieee-dataport.org/open-access/flame-2-fire-detection-and-modeling-aerial-multi-spectral-image-dataset'
 citation: 'TBD'
 ---
-
-# Abstract
-Current forest monitoring technologies including satellite remote sensing, manned/piloted aircraft, and observation towers leave uncertainties about a wildfire's extent, behavior, and conditions in the fire's near environment, particularly during its early growth. Rapid mapping and real-time fire monitoring can inform in-time intervention or management solutions to maximize beneficial fire outcomes. Drone systems' unique features of 3D mobility, low flight altitude, and fast and easy deployment make them a valuable tool for early detection and assessment of wildland fires, especially in remote forests that are not easily accessible by ground vehicles. In addition, the lack of abundant, well-annotated aerial datasets -- in part due to unmanned aerial vehicles' (UAVs') flight restrictions during prescribed burns and wildfires -- has limited research advances in reliable data-driven fire detection and modeling techniques. While existing wildland fire datasets often include either color or thermal fire images, here we present (1) a multi-modal UAV-collected dataset of dual-feed side-by-side videos including both RGB and thermal images of a prescribed fire in an open canopy pine forest in Northern Arizona and (2) a deep learning-based methodology for detecting fire and smoke pixels at accuracy much higher than the usual single-channel video feeds.  The collected images are labeled to "fire" or "no-fire" frames by two human experts using side-by-side RGB and thermal images to determine the label. To provide context to the main dataset's aerial imagery, the included supplementary dataset provides a georeferenced pre-burn point cloud, an RGB orthomosaic, weather information, a burn plan, and other burn information. By using and expanding on this guide dataset, research can develop new data-driven fire detection, fire segmentation, and fire modeling techniques.
-
+# Citation
 <!-- [Paper link:](http://academicpages.github.io/files/paper3.pdf) -->
 
 <!-- Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). -->
@@ -25,7 +22,12 @@ More information, please reference our previous paper:
 <a href="https://ieeexplore.ieee.org/abstract/document/8845309">Wildfire Monitoring in Remote Areas using Autonomous Unmanned Aerial Vehicles</a>
 
 
-## Background
+# Abstract
+Current forest monitoring technologies including satellite remote sensing, manned/piloted aircraft, and observation towers leave uncertainties about a wildfire's extent, behavior, and conditions in the fire's near environment, particularly during its early growth. Rapid mapping and real-time fire monitoring can inform in-time intervention or management solutions to maximize beneficial fire outcomes. Drone systems' unique features of 3D mobility, low flight altitude, and fast and easy deployment make them a valuable tool for early detection and assessment of wildland fires, especially in remote forests that are not easily accessible by ground vehicles. In addition, the lack of abundant, well-annotated aerial datasets -- in part due to unmanned aerial vehicles' (UAVs') flight restrictions during prescribed burns and wildfires -- has limited research advances in reliable data-driven fire detection and modeling techniques. While existing wildland fire datasets often include either color or thermal fire images, here we present (1) a multi-modal UAV-collected dataset of dual-feed side-by-side videos including both RGB and thermal images of a prescribed fire in an open canopy pine forest in Northern Arizona and (2) a deep learning-based methodology for detecting fire and smoke pixels at accuracy much higher than the usual single-channel video feeds.  The collected images are labeled to "fire" or "no-fire" frames by two human experts using side-by-side RGB and thermal images to determine the label. To provide context to the main dataset's aerial imagery, the included supplementary dataset provides a georeferenced pre-burn point cloud, an RGB orthomosaic, weather information, a burn plan, and other burn information. By using and expanding on this guide dataset, research can develop new data-driven fire detection, fire segmentation, and fire modeling techniques.
+
+
+
+# Background
 This work presents a methodology for identifying and
 mapping fire and smoke using high temporal and spatial-resolution observations from an integrated two sensor (mid-wave IR and visible bands) UAS-based imaging system. The paper also presents a unique dataset of side-by-side RGB/IR imagery collected during a prescribed fire near Flagstaff, Arizona in 2021 [20]. The images are jointly labeled by two human experts with fire/no-fire and smoke/no-smoke1 labels. In additional to aerial images, data on weather information, and georeferenced pre-burn point cloud data points are included in the dataset. It is expected that the methods developed to produce the FLAME2 dataset and others to follow can facilitate fire detection and modeling, as well as fire management.
 
@@ -65,7 +67,7 @@ of 7.6 cm/px were attained.
 
 
 
-## DL-Based Wildfire Classification
+# DL-Based Wildfire Classification
 First, we applied some widely used machine learning and
 deep learning classification models (i.e. "benchmarks"), in-
 cluding Logistic Regression, LetNet(1989), Vgg(2014)
@@ -104,7 +106,9 @@ domains.
 
 ![RGB/IR Fusion](../images/FLAME2/fusion.jpg)
 
-## Experimental Results - Fire Classification
+# Experimental Results
+
+## Fire Classification
 We perform ten experiments for each model. We use the
 ADAM optimizer with 1e−3 learning rate for the Flame
 network, and 1e−4 for the other models. The batch size is set
@@ -157,7 +161,7 @@ This part is only on experimental stage, but it's good to research the relations
 
 
 
-## Contributing
+# Contributing
 This project is contributed by: 
 
 <a href="xiwenc@g.clemson.edu">Xiwen Chen</a>

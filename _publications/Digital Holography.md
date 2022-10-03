@@ -2,15 +2,13 @@
 title: "DH-GAN: A Physics-driven Untrained Generative Adversarial Network for 3D Microscopic Imaging using Digital Holography"
 collection: publications
 permalink: /publication/Digital Holography
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper is currently under the review of The IEEE Transactions.'
 date: 2022-05-25
-venue: 'Journal 1'
+venue: 'TBD'
 paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://arxiv.org/abs/2205.12920)'
 citation: 'Chen X, Wang H, Razi A, et al. DH-GAN: A Physics-driven Untrained Generative Adversarial Network for 3D Microscopic Imaging using Digital Holography[J]. arXiv preprint arXiv:2205.12920, 2022.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](https://arxiv.org/pdf/2205.12920.pdf)
+# Citation
 
 Recommended citation: 
 
@@ -18,13 +16,14 @@ Chen X, Wang H, Razi A, et al. DH-GAN: A Physics-driven Untrained Generative Adv
 
 
 BibTeX:
-
 @article{chen2022dh,
   title={DH-GAN: A Physics-driven Untrained Generative Adversarial Network for 3D Microscopic Imaging using Digital Holography},
   author={Chen, Xiwen and Wang, Hao and Razi, Abofazl and Kozicki, Michael and Mann, Christopher},
   journal={arXiv preprint arXiv:2205.12920},
   year={2022}
 }
+
+[Download paper here](https://arxiv.org/pdf/2205.12920.pdf)
 
 
 # Abstract
