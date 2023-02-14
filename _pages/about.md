@@ -38,7 +38,7 @@ to follow can facilitate fire detection and modeling, as well as fire management
 
 
 <p align="center">
-  <img src="./images/FLAME2/flame_test.jpg" width="500px">
+  <img src="./images/FLAME2/Detection.gif">
 </p>
 
 More information, please reference our paper: <a href="https://ieeexplore.ieee.org/abstract/document/9953997/">FLAME 2</a>
