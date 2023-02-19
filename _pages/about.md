@@ -12,7 +12,7 @@ In the AI-based Sensing, Networking and Data Services (AI-SENDS), we are working
 These projects involve concepts from information theory, signal processing, big data analysis, Bayesian inference, deep learning, graph theory, digital holography, and dimension reduction techniques.
 These projects are supported by NSF, US Airforce Research Laboratory, USDA, and Arizona Commerce Authority. For more information, check out my research project [here](https://arazi.people.clemson.edu/research.html) and feel free to send me an email at <a href="arazi@clemson.edu">arazi@clemson.edu</a>.
 
-![iSeND Lab Weekly Meeting](./images/IMG_0393.png)
+![iSeND Lab Weekly Meeting](../images/IMG_0393.png)
 
 
 # Research Projects
@@ -33,12 +33,12 @@ in the dataset. It is expected that the methods developed to produce the FLAME2 
 to follow can facilitate fire detection and modeling, as well as fire management.
 
 <p align="center">
-  <img src="./images/FLAME2/flame.jpg" width="500px">
+  <img src="../images/FLAME2/flame.jpg" width="500px">
 </p>
 
 
 <p align="center">
-  <img src="./images/FLAME2/Detection.gif">
+  <img src="../images/FLAME2/Detection.gif">
 </p>
 
 More information, please reference our paper: <a href="https://ieeexplore.ieee.org/abstract/document/9953997/">FLAME 2</a>
@@ -55,11 +55,11 @@ is one of its kind that exhibits high transferability to similar samples, which 
 deployment in time-sensitive applications without the need for retraining the network
 
 <p align="center">
-  <img src="./images/DH/DH_lab_1.png">
+  <img src="../images/DH/DH_lab_1.png">
 </p>
 
 <p align="center">
-  <img src="./images/DH/phase_to_3D.png">
+  <img src="../images/DH/phase_to_3D.png">
 </p>
 
 
@@ -84,15 +84,15 @@ algorithms proposed for each step.
 
 
 <p align="center">
-  <img src="./images/Traffic Survey/v2.PNG">
+  <img src="../images/Traffic Survey/v2.PNG">
 </p>
 
 <p align="center">
-  <img src="./images/Traffic Survey/detectionfig_2.png">
+  <img src="../images/Traffic Survey/detectionfig_2.png">
 </p>
 
 <p align="center">
-  <img src="./images/Traffic Survey/Roadmap.png">
+  <img src="../images/Traffic Survey/Roadmap.png">
 </p>
 
 
