@@ -15,9 +15,9 @@ author_profile: true
 ### TBD
 
 
-&nbsp
-&nbsp
-&nbsp
+<br>
+<br>
+<br>
 
 
 # Teaching at Northern Arizona University
@@ -32,9 +32,9 @@ author_profile: true
 ### EE443/EE543-Pattern Recognition
 
 
-&nbsp
-&nbsp
-&nbsp
+<br>
+<br>
+<br>
 
 
 # Previous Teaching 
