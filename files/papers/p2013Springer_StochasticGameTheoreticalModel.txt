@@ -1,0 +1,10 @@
+@article{afghah2013stochastic,
+  title={Stochastic game theoretical model for packet forwarding in relay networks},
+  author={Afghah, Fatemeh and Razi, Abolfazl and Abedi, Ali},
+  journal={Telecommunication Systems},
+  volume={52},
+  number={4},
+  pages={1877--1893},
+  year={2013},
+  publisher={Springer}
+}

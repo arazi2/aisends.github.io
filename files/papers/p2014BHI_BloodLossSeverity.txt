@@ -1,0 +1,8 @@
+@inproceedings{razi2014blood,
+  title={Blood loss severity prediction using game theoretic based feature selection},
+  author={Razi, Abolfazl and Afghah, Fatemeh and Belle, Ashwin and Ward, Kevin and Najarian, Kayvan},
+  booktitle={Biomedical and Health Informatics (BHI), 2014 IEEE-EMBS International Conference on},
+  pages={776--780},
+  year={2014},
+  organization={IEEE}
+}

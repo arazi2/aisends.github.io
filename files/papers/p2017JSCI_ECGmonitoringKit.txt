@@ -1,0 +1,9 @@
+@article{chen2017remote,
+  title={Remote ECG monitoring kit to predict patient-specific heart abnormalities},
+  author={Chen, Jiaming and Peng, Han and Razi, Abolfazl},
+  journal={Journal of Systemics, Cybernetics and Informatics},
+  volume={15},
+  number={4},
+  pages={82--89},
+  year={2017}
+}

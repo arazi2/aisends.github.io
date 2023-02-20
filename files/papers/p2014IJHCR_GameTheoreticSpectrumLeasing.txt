@@ -1,0 +1,10 @@
+@article{afghah2014game,
+  title={Game theoretic study of cooperative spectrum leasing in cognitive radio networks},
+  author={Afghah, Fatemeh and Razi, Abolfazl},
+  journal={International Journal of Handheld Computing Research (IJHCR)},
+  volume={5},
+  number={2},
+  pages={61--74},
+  year={2014},
+  publisher={IGI Global}
+}

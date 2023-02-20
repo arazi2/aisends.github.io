@@ -1,0 +1,8 @@
+@inproceedings{razi2017delay,
+  title={Delay minimization by adaptive framing policy in cognitive sensor networks},
+  author={Razi, Abolfazl and Valehi, Ali and Bentley, Elizabeth},
+  booktitle={Wireless Communications and Networking Conference (WCNC), 2017 IEEE},
+  pages={1--6},
+  year={2017},
+  organization={IEEE}
+}

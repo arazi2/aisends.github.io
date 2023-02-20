@@ -1,0 +1,8 @@
+@inproceedings{tavakoli2016optimizing,
+  title={Optimizing low density parity check code for two parallel erasure links},
+  author={Tavakoli, Hassan and Razi, Abolfazl},
+  booktitle={Information Theory and Its Applications (ISITA), 2016 International Symposium on},
+  pages={394--397},
+  year={2016},
+  organization={IEEE}
+}

@@ -1,0 +1,10 @@
+@article{valehi2017maximizing,
+  title={Maximizing energy efficiency of cognitive wireless sensor networks with constrained age of information},
+  author={Valehi, Ali and Razi, Abolfazl},
+  journal={IEEE Transactions on Cognitive Communications and Networking},
+  volume={3},
+  number={4},
+  pages={643--654},
+  year={2017},
+  publisher={IEEE}
+}

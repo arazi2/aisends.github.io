@@ -1,0 +1,8 @@
+@inproceedings{afghah2014power,
+  title={Power allocation in parallel relay channels using a near-potential game theoretical approach},
+  author={Afghah, Fatemeh and Razi, Abolfazl and Abedi, Ali},
+  booktitle={Information Sciences and Systems (CISS), 2014 48th Annual Conference on},
+  pages={1--6},
+  year={2014},
+  organization={IEEE}
+}

@@ -1,0 +1,8 @@
+@inproceedings{razi2010hierarchical,
+  title={Hierarchical network development of wireless passive sensors},
+  author={Razi, Abolfazl and Afghah, Fatemeh and Abedi, Ali},
+  booktitle={Fly by Wireless Workshop (FBW), 2010 Caneus},
+  pages={30--31},
+  year={2010},
+  organization={IEEE}
+}

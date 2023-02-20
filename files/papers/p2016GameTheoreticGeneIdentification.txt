@@ -1,0 +1,10 @@
+@article{razi2016network,
+  title={Network-Based Enriched Gene Subnetwork Identification: A Game-Theoretic Approach},
+  author={Razi, Abolfazl and Afghah, Fatemeh and Singh, Salendra and Varadan, Vinay},
+  journal={Biomedical engineering and computational biology},
+  volume={7},
+  number={Suppl 2},
+  pages={1},
+  year={2016},
+  publisher={SAGE Publications}
+}

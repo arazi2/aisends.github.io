@@ -1,0 +1,9 @@
+@article{afghah2008fast,
+  title={Fast turbo codes concatenated with space-time block codes},
+  author={Afghah, Fatemeh and Ardebilipour, Mehrdad and Razi, Abolfazl},
+  journal={Journal of Applied Sciences},
+  volume={8},
+  number={16},
+  pages={2867--2873},
+  year={2008}
+}

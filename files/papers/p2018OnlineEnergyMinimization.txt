@@ -1,0 +1,10 @@
+@article{valehi2018online,
+  title={An Online Learning Method to Maximize Energy Efficiency of Cognitive Sensor Networks},
+  author={Valehi, Ali and Razi, Abolfazl},
+  journal={IEEE Communications Letters},
+  volume={22},
+  number={5},
+  pages={1050--1053},
+  year={2018},
+  publisher={IEEE}
+}

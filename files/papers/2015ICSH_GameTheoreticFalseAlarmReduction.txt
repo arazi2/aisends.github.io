@@ -1,0 +1,8 @@
+@inproceedings{afghah2015game,
+  title={A game theoretic predictive modeling approach to reduction of false alarm},
+  author={Afghah, Fatemeh and Razi, Abolfazl and Soroushmehr, SM Reza and Molaei, Somayeh and Ghanbari, Hamid and Najarian, Kayvan},
+  booktitle={International Conference on Smart Health},
+  pages={118--130},
+  year={2015},
+  organization={Springer}
+}

@@ -1,0 +1,8 @@
+@inproceedings{razi2015identifying,
+  title={Identifying gene subnetworks associated with clinical outcome in ovarian cancer using network based coalition game},
+  author={Razi, Abolfazl and Afghah, Fatemeh and Varadan, Vinay},
+  booktitle={Engineering in Medicine and Biology Society (EMBC), 2015 37th Annual International Conference of the IEEE},
+  pages={6509--6513},
+  year={2015},
+  organization={IEEE}
+}

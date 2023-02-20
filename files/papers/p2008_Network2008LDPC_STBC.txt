@@ -1,0 +1,9 @@
+@inproceedings{razi2008space,
+@inproceedings{afghah2008concatenation,
+  title={Concatenation of space-time block codes and LDPC codes},
+  author={Afghah, Fatemeh and Ardebilipour, Mehrdad and Razi, Abolfazl},
+  booktitle={Telecommunications Network Strategy and Planning Symposium, 2008. Networks 2008. The 13th International},
+  pages={1--5},
+  year={2008},
+  organization={IEEE}
+}

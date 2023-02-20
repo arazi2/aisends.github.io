@@ -1,0 +1,10 @@
+@article{razi2014convergence,
+  title={Convergence analysis of iterative decoding for binary CEO problem},
+  author={Razi, Abolfazl and Abedi, Ali},
+  journal={IEEE Transactions on Wireless Communications},
+  volume={13},
+  number={5},
+  pages={2944--2954},
+  year={2014},
+  publisher={IEEE}
+}

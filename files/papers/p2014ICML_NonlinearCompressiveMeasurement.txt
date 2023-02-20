@@ -1,0 +1,7 @@
+@inproceedings{wang2014nonlinear,
+  title={Nonlinear information-theoretic compressive measurement design},
+  author={Wang, Liming and Razi, Abolfazl and Rodrigues, Miguel and Calderbank, Robert and Carin, Lawrence},
+  booktitle={International Conference on Machine Learning},
+  pages={1161--1169},
+  year={2014}
+}

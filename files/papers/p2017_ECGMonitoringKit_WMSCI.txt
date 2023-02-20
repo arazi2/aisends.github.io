@@ -1,0 +1,8 @@
+@article{chen2017remoteECG_WMSCI,
+  title={Remote ECG monitoring kit to predict patient-specific heart abnormalities},
+  author={Chen, Jiaming and Peng, Han and Razi, Abolfazl},
+  journal={World Multi-Conference on. Systemics, Cybernetics and Informatics  (WMSCI)},
+  month={july},
+  pages={82--89},
+  year={2017}
+}

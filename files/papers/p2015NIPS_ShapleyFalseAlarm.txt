@@ -1,0 +1,6 @@
+@article{afghah2015shapley,
+  title={A Shapley Value Solution to Game Theoretic-based Feature Reduction in False Alarm Detection},
+  author={Afghah, Fatemeh and Razi, Abolfazl and Najarian, Kayvan},
+  journal={arXiv preprint arXiv:1512.01680},
+  year={2015}
+}

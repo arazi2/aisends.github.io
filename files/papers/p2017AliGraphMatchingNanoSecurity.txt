@@ -1,0 +1,8 @@
+@inproceedings{valehi2017graph,
+  title={A graph matching algorithm for user authentication in data networks using image-based physical unclonable functions},
+  author={Valehi, Ali and Razi, Abolfazl and Cambou, Bertrand and Yu, Weijie and Kozicki, Michael},
+  booktitle={Computing Conference, 2017},
+  pages={863--870},
+  year={2017},
+  organization={IEEE}
+}

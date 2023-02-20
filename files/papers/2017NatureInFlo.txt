@@ -1,0 +1,10 @@
+@article{dimitrova2017inflo,
+  title={InFlo: a novel systems biology framework identifies cAMP-CREB1 axis as a key modulator of platinum resistance in ovarian cancer},
+  author={Dimitrova, N and Nagaraj, AB and Razi, A and Singh, S and Kamalakaran, S and Banerjee, N and Joseph, P and Mankovich, A and Mittal, P and DiFeo, A and others},
+  journal={Oncogene},
+  volume={36},
+  number={17},
+  pages={2472},
+  year={2017},
+  publisher={Nature Publishing Group}
+}

@@ -1,0 +1,10 @@
+@article{razi2016channel,
+  title={Channel-adaptive packetization policy for minimal latency and maximal energy efficiency},
+  author={Razi, Abolfazl and Afghah, Fatemeh and Abedi, Ali},
+  journal={IEEE Transactions on Wireless Communications},
+  volume={15},
+  number={3},
+  pages={2407--2420},
+  year={2016},
+  publisher={IEEE}
+}

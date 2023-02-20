@@ -1,0 +1,8 @@
+@inproceedings{razi2011minimum,
+  title={On minimum number of wireless sensors required for reliable binary source estimation},
+  author={Razi, Abolfazl and Yasami, Keyvan and Abedi, Ali},
+  booktitle={Wireless Communications and Networking Conference (WCNC), 2011 IEEE},
+  pages={1852--1857},
+  year={2011},
+  organization={IEEE}
+}

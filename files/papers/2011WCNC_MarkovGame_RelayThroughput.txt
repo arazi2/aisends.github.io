@@ -1,0 +1,8 @@
+@inproceedings{afghah2011throughput,
+  title={Throughput optimization in relay networks using markovian game theory},
+  author={Afghah, Fatemeh and Razi, Abolfazl and Abedi, Ali},
+  booktitle={Wireless Communications and Networking Conference (WCNC), 2011 IEEE},
+  pages={1080--1085},
+  year={2011},
+  organization={IEEE}
+}

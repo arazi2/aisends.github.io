@@ -1,0 +1,10 @@
+@article{razi2013power,
+  title={Power optimized DSTBC assisted DMF relaying in wireless sensor networks with redundant super nodes},
+  author={Razi, Abolfazl and Afghah, Fatemeh and Abedi, Ali},
+  journal={IEEE Transactions on Wireless Communications},
+  volume={12},
+  number={2},
+  pages={636--645},
+  year={2013},
+  publisher={IEEE}
+}
