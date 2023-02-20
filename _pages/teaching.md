@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
@@ -15,6 +15,10 @@ author_profile: true
 ### TBD
 
 
+&nbsp
+&nbsp
+&nbsp
+
 
 # Teaching at Northern Arizona University
 ## Spring 2021
@@ -28,7 +32,9 @@ author_profile: true
 ### EE443/EE543-Pattern Recognition
 
 
-
+&nbsp
+&nbsp
+&nbsp
 
 
 # Previous Teaching 
