@@ -3,6 +3,8 @@ main:
   - title: "Research"
     url: /markdown/
 
+  - title: "Grants"
+    url: /portfolio/
 
   - title: "Teaching"
     url: /teaching/   
@@ -19,9 +21,6 @@ main:
   - title: "Professional Activities"
     url: /year-archive/
 
-
-  - title: "Portfolio"
-    url: /portfolio/
         
 
   - title: "Our Lab"
