@@ -39,19 +39,19 @@ author_profile: true
 
 # Previous Teaching 
 * Random Variables & Stochastic Processes
-Teaching Assistant, ECE department, University of Maine
+### Teaching Assistant, ECE department, University of Maine
 
 * Computer Structure & C++ Programming
-Lecturer, Payam Noor university, Tehran
+### Lecturer, Payam Noor university, Tehran
 
 * Wireless Networks, Structure & Services
-Instructor, Training course for MCI Company Employees 
+### Instructor, Training course for MCI Company Employees 
 
 * Wireless Networks, Structure & Services
-Training course for BS and MS Students in a joint Industry-Academia Program
+### Training course for BS and MS Students in a joint Industry-Academia Program
 
 * Smart Cards Structure, Standards & Capabilities
-Instructor, Training course for MCI Company Employees
+### Instructor, Training course for MCI Company Employees
 
 
 
