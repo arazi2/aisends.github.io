@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-
+<!-- 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -18,14 +18,25 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+ -->
+
+Chen, X., Li, H., Amin, R. and Razi, A., 2023. RD-DPP: Rate-Distortion Theory Meets Determinantal Point Process to Diversify Learning Data Samples. arXiv preprint arXiv:2304.04137.
 
 
+Wang, H., Chen, X. and Razi, A., 2022. Fast Key Points Detection and Matching for Tree-Structured Images. arXiv preprint arXiv:2211.03242.
+
+Wang, H., Chen, X. and Razi, A., 2022. Fast Key Points Detection and Matching for Tree-Structured Images. arXiv preprint arXiv:2211.03242.
+
+Xiwen Chen, Hao Wang, Abolfazl Razi, Michael Kozicki, and Christopher Mann, "DH-GAN: a physics-driven untrained generative adversarial network for holographic imaging," Opt. Express 31, 10114-10135 (2023)
+
+Chen, X., Wang, H., Razi, A., Russo, B., Pacheco, J., Roberts, J., Wishart, J., Head, L. and Baca, A.G., 2022. Network-level Safety Metrics for Overall Traffic Safety Assessment: A Case Study. IEEE Access.
+
+Chen, X., Hopkins, B., Wang, H., O’Neill, L., Afghah, F., Razi, A., Fulé, P., Coen, J., Rowell, E. and Watts, A., 2022. Wildland Fire Detection and Monitoring Using a Drone-Collected RGB/IR Image Dataset. IEEE Access, 10, pp.121301-121317.
+
+Razi A, Chen X, Li H, et al. Deep learning serves traffic safety analysis: A forward‐looking review[J]. IET Intelligent Transport Systems, 2022.
 
 
-
-
-
-# More Publications
+<!-- # More Publications -->
 
 ## Book Chapters
 A. Abedi, F. Afghah, A. Razi, "Resource Management in Cyber Physical Systems", Book: "Cyber-Physical System Design with Sensor Networking Technologies", The institution of Engineering and Technology (IET) (link)
