@@ -27,17 +27,31 @@ author_profile: true
   width: 50%;
 }
 
+/* CSS styles for the grid */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
 
+/* CSS styles for each cell */
+.peopleDiv {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+}
 
 figure {
-      display: flex;
+      /* display: flex; */
       /* float: left; */
-      padding: 15px;
+      /* padding: 15px; */
+      margin: 0;
     }
 
 figcaption {
-      padding: 15px;
+      /* padding: 15px; */
       /* width: 100px; */
+      margin-top: 10px;
     }
 
 
@@ -49,101 +63,91 @@ figcaption {
 <body>
 
 
-  
-<h1> Graduate Students: Update 2020 </h1>
 
 
-<p align="center">
-  <img src="../images/People/RaziTeam1.jpeg" width="90%">
-</p>
+<h1> Graduate Students (2023) </h1>
 
+<div class="grid">
+  <!-- First cell -->
+  <div class="peopleDiv">
+    <figure>
+    <img src="../images/People/Xiwen Chen 2022.jpg" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Xiwen Chen</h2>
+        <h2>PhD Student</h2>
+        <br>
+        <h3>Research:</h3><p>AI-Enabled Networking, Predictive Communications, IoT</p>
+    </figcaption>
+    </figure>
+  </div>
 
+  <!-- Second cell -->
+  <div class="peopleDiv">
+    <figure>
+    <img src="../images/People/Hao Wang.jpg" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Hao Wang</h2>
+        <h2>PhD Student</h2>
+        <br>
+        <h3>Research:</h3><p>Image Processing, Energy Management, Traffic Analysis, Computer Vision</p>
+    </figcaption>
+    </figure>
+  </div>
 
-<br>
+  <!-- Third cell -->
+  <div class="peopleDiv">
+    <figure>
+    <img src="../images/People/Sayed Pedram Haeri Boroujeni.jpg" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Sayed Pedram Haeri Boroujeni</h2>
+        <h2>Graduate Research Assistant</h2>
+        <br>
+        <h3>Research:</h3><p>Computer Vision, Machine Learning, Artificial Intelligence, Image Processing, Optimization, Bioinformatics.</p>
+    </figcaption>
+    </figure>
+  </div>
 
+  <!-- Fourth cell -->
+  <div class="peopleDiv">
+    <figure>
+    <img src="../images/People/Ahmad Sarlak.png" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Ahmad Sarlak</h2>
+        <h2>Graduate Research Assistant</h2>
+        <br>
+        <h3>Research:</h3><p>AI-based Networking, Wireless Network, Machine Learning, Autonomous Vehicles.</p>
+    </figcaption>
+    </figure>
+  </div>
 
-<div class="peopleDiv">
-  <figure>
-  <img src="../images/People/Arnau-Rovira.jpg" max-width="100%" height="100px">
-  <figcaption>
-      <h2>Arnau Sugranes</h2>
-      <br>
-      <h3>Research:</h3><p>Predictive Communications, Routing for Aerial Networks, Graph theoretic optimization, Wireless Sensor Networks</p>
-  </figcaption>
-  </figure>
+  <!-- Fifth cell -->
+  <div class="peopleDiv">
+    <figure>
+    <img src="../images/People/Hazim Alzorgan.png" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Hazim Alzorgan</h2>
+        <h2>PhD Student</h2>
+        <br>
+        <h3>Research:</h3><p>Dynamic Motion Planning, Robot Dynamics, Deep Reinforcement Learning, Optimization.</p>
+    </figcaption>
+    </figure>
+  </div>
+
+  <!-- Sixth cell -->
+  <div class="peopleDiv">
+    <figure>
+    <img src="../images/People/Uma Maheswara R Meleti.jpg" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Uma Maheswara R Meleti</h2>
+        <h2>Graduate Research Assistant</h2>
+        <br>
+        <h3>Research:</h3><p>Computer Vision, Image Processing, Deep Learning in Histopathology, Autonomous Vehicles, Machine Learning.</p>
+    </figcaption>
+    </figure>
+  </div>
+
+  <!-- Repeat the above pattern for additional rows -->
 </div>
-
-<br>
-
-<div class="peopleDiv">
-  <figure>
-  <img src="../images/People/HanPeng_2.png" max-width="100%" height="100px">
-  <figcaption>
-      <h2>Han Peng</h2>
-      <br>
-      <h3>Research:</h3><p>Mobility Prediction, Reinforcement Learning for UAV Networking, Video-based Action Recognition</p>
-  </figcaption>
-  </figure>
-</div>
-
-<br>
-
-<div class="peopleDiv">
-  <figure>
-  <img src="../images/People/Xiwen Chen.jpg" max-width="100%" height="100px">
-  <figcaption>
-      <h2>Xiwen Chen</h2>
-      <br>
-      <h3>Research:</h3><p>AI-Enabled Networking, Predictive Communications, IoT</p>
-  </figcaption>
-  </figure>
-</div>
-
-<br>
-
-<div class="peopleDiv">
-  <figure>
-  <img src="../images/People/Huayu Li.jpg" max-width="100%" height="100px">
-  <figcaption>
-      <h2>Huayu Li</h2>
-      <br>
-      <h3>Research:</h3><p>Digital Holography, Image Processing, Deep Learning</p>
-  </figcaption>
-  </figure>
-</div>
-
-<br>
-
-<div class="peopleDiv">
-  <figure>
-  <img src="" max-width="100%" height="100px">
-  <figcaption>
-      <h2>Pengkai Feng
-      </h2>
-      <br>
-      <h3>Research:</h3><p>Modeling gene transcription networking with graph neural networks Navigation, Adaptive Control</p>
-  </figcaption>
-  </figure>
-</div>
-
-<br>
-
-<div class="peopleDiv">
-  <figure>
-  <img src="" max-width="100%" height="100px">
-  <figcaption>
-      <h2>Vinod-Kumar Gummadi</h2>
-      <br>
-      <h3>Research:</h3><p>Internet of Things: Security and Information Flow</p>
-  </figcaption>
-  </figure>
-</div>
-
-
-
-<br>
-<br>
-<br>
 
 
 
@@ -151,197 +155,259 @@ figcaption {
 
 <h1> Alumni </h1>
 
-<div class="peopleDiv">
-  <figure>
-  <img src="../images/People/Mehrdad.jpg" max-width="100%" height="100px">
-  <figcaption>
-      <h2>Mehrdad Khaledi (Postdoc)
-      </h2>
-      <br>
-      <h3>Research:</h3><p>Game Theory and Mechanism Design, Spectrum Sharing, Resource Allocation in Wireless & Mobile Networks, Crowd-sourcing</p>
-  </figcaption>
-  </figure>
+<p align="center">
+  <img src="../images/People/RaziTeam1.jpeg" width="90%">
+</p>
+
+
+<br>
+
+
+
+<div class="grid">
+  <!-- First cell -->
+  <div class="peopleDiv">
+    <figure>
+      <img src="../images/People/HanPeng_2.png" alt="Han Peng" style="max-width: 100%; height: 100px;">
+      <figcaption>
+        <h2>Han Peng</h2>
+        <br>
+        <h3>Research:</h3>
+        <p>Mobility Prediction, Reinforcement Learning for UAV Networking, Video-based Action Recognition</p>
+      </figcaption>
+    </figure>
+  </div>
+
+  <!-- Second cell -->
+  <div class="peopleDiv">
+    <figure>
+    <img src="../images/People/Arnau-Rovira.jpg" style="max-width: 100%; height: 100px;">
+    <figcaption>
+        <h2>Arnau Sugranes</h2>
+        <br>
+        <h3>Research:</h3><p>Predictive Communications, Routing for Aerial Networks, Graph theoretic optimization, Wireless Sensor Networks</p>
+    </figcaption>
+    </figure>
+  </div>
+
+  <!-- Third cell -->
+  <div class="peopleDiv">
+    <figure>
+    <img src="../images/People/Huayu Li.jpg" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Huayu Li</h2>
+        <br>
+        <h3>Research:</h3><p>Digital Holography, Image Processing, Deep Learning</p>
+    </figcaption>
+    </figure>
+  </div>
+
+  <!-- Repeat the above pattern for additional rows -->
+
+  <!-- Fourth cell -->
+  <div class="peopleDiv">
+    <figure>
+    <img src="" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Pengkai Feng
+        </h2>
+        <br>
+        <h3>Research:</h3><p>Modeling gene transcription networking with graph neural networks Navigation, Adaptive Control</p>
+    </figcaption>
+    </figure>
+  </div>
+
+  <!-- Fifth cell -->
+  <div class="peopleDiv">
+    <figure>
+    <img src="" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Vinod-Kumar Gummadi</h2>
+        <br>
+        <h3>Research:</h3><p>Internet of Things: Security and Information Flow</p>
+    </figcaption>
+    </figure>
+  </div>
+
+  <!-- Sixth cell -->
+  <div class="peopleDiv">
+    <figure>
+    <img src="../images/People/Mehrdad.jpg" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Mehrdad Khaledi (Postdoc)
+        </h2>
+        <br>
+        <h3>Research:</h3><p>Game Theory and Mechanism Design, Spectrum Sharing, Resource Allocation in Wireless & Mobile Networks, Crowd-sourcing</p>
+    </figcaption>
+    </figure>
+  </div>
+
+  <!-- Repeat the above pattern for additional rows -->
+
+  <div class="peopleDiv">
+    <figure>
+    <img src="../images/People/AliValehi.jpg" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Ali Valehi (Masters Student)
+        </h2>
+        <br>
+        <h3>Research:</h3><p>Computational Framework Design for Molecular Interaction Modeling, Cognitive Radio, Reinforcement Learning, Image-based Security</p>
+    </figcaption>
+    </figure>
+  </div>
+
+
+  <div class="peopleDiv">
+    <figure>
+    <img src="../images/People/Jiaming Chen.jfif" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Jiaming Chen (Masters Student)
+        </h2>
+        <br>
+        <h3>Research:</h3><p>Machine learning, statistical modeling</p>
+    </figcaption>
+    </figure>
+  </div>
+
+  <div class="peopleDiv">
+    <figure>
+    <img src="../images/People/Qiyuan Huang qh33_2017.jpg" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Qiyuan Huan
+        </h2>
+        <br>
+        <h3>Research:</h3><p>Electronic Kit Design for Remote Heart Monitoring, Virtual Reality for Aerial Systems</p>
+    </figcaption>
+    </figure>
+  </div>
+
+
+  <div class="peopleDiv">
+    <figure>
+    <img src="../images/People/ZaoyiChi.png" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Zaoyi Chi
+        </h2>
+        <br>
+        <h3>Research:</h3><p>Graph Theory, Image-based Security, Nano-scaled image feature extraction</p>
+    </figcaption>
+    </figure>
+  </div>
+
+
+  <div class="peopleDiv">
+    <figure>
+    <img src="" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Jared Park	
+        </h2>
+        <br>
+        <h3>Master's Thesis Committee: </h3><p>Machine Learning for PUF Modeling</p>
+    </figcaption>
+    </figure>
+  </div>
+
+
+  <div class="peopleDiv">
+    <figure>
+    <img src="" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Abdulla Shamsuddin
+        </h2>
+        <br>
+        <h3>Master's Thesis Committee: </h3><p>UAVs for Wildlife Monitoring</p>
+    </figcaption>
+    </figure>
+  </div>
+
+    
+
+  <div class="peopleDiv">
+    <figure>
+    <img src="" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Kathryn Carpenter 	
+        </h2>
+        <br>
+        <h3>Undergraduate student</h3><p>Remote Heart Monitoring</p>
+    </figcaption>
+    </figure>
+  </div>
+
+
+
 </div>
-
-<br>
-
-<div class="peopleDiv">
-  <figure>
-  <img src="../images/People/AliValehi.jpg" max-width="100%" height="100px">
-  <figcaption>
-      <h2>Ali Valehi (Masters Student)
-      </h2>
-      <br>
-      <h3>Research:</h3><p>Computational Framework Design for Molecular Interaction Modeling, Cognitive Radio, Reinforcement Learning, Image-based Security</p>
-  </figcaption>
-  </figure>
-</div>
-
-<br>
-
-<div class="peopleDiv">
-  <figure>
-  <img src="../images/People/Jiaming Chen.jfif" max-width="100%" height="100px">
-  <figcaption>
-      <h2>Jiaming Chen (Masters Student)
-      </h2>
-      <br>
-      <h3>Research:</h3><p>Machine learning, statistical modeling</p>
-  </figcaption>
-  </figure>
-</div>
-
-<br>
-
-
-<div class="peopleDiv">
-  <figure>
-  <img src="../images/People/Qiyuan Huang qh33_2017.jpg" max-width="100%" height="100px">
-  <figcaption>
-      <h2>Qiyuan Huan
-      </h2>
-      <br>
-      <h3>Research:</h3><p>Electronic Kit Design for Remote Heart Monitoring, Virtual Reality for Aerial Systems</p>
-  </figcaption>
-  </figure>
-</div>
-
-<br>
-
-
-<div class="peopleDiv">
-  <figure>
-  <img src="../images/People/ZaoyiChi.png" max-width="100%" height="100px">
-  <figcaption>
-      <h2>Zaoyi Chi
-      </h2>
-      <br>
-      <h3>Research:</h3><p>Graph Theory, Image-based Security, Nano-scaled image feature extraction</p>
-  </figcaption>
-  </figure>
-</div>
-
-<br>
-
-
-
-<div class="peopleDiv">
-  <figure>
-  <img src="" max-width="100%" height="100px">
-  <figcaption>
-      <h2>Jared Park	
-      </h2>
-      <br>
-      <h3>Master's Thesis Committee: </h3><p>Machine Learning for PUF Modeling</p>
-  </figcaption>
-  </figure>
-</div>
-
-<br>
-
-
-
-<div class="peopleDiv">
-  <figure>
-  <img src="" max-width="100%" height="100px">
-  <figcaption>
-      <h2>Abdulla Shamsuddin
-      </h2>
-      <br>
-      <h3>Master's Thesis Committee: </h3><p>UAVs for Wildlife Monitoring</p>
-  </figcaption>
-  </figure>
-</div>
-
-<br>
-
-
-
-<div class="peopleDiv">
-  <figure>
-  <img src="" max-width="100%" height="100px">
-  <figcaption>
-      <h2>Kathryn Carpenter 	
-      </h2>
-      <br>
-      <h3>Undergraduate student</h3><p>Remote Heart Monitoring</p>
-  </figcaption>
-  </figure>
-</div>
-
-
-
-
-
-
-<br>
-<br>
-<br>
-
-
 
 
 
 <h1> Capstone Project Design </h1>
+<h2>EduPlatCommPro-S19</h2>
+<h3>The Educational Platform for Communication Protocols: AY2018-19<a href="https://www.cefns.nau.edu/capstone/projects/EE/2019/EduPlatCommPro-S19/">(Link)</h3>
+
+<div class="grid">
+  <!-- First cell -->
+  <div class="peopleDiv">
+    <figure>
+    <img src="" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Christopher Thompson
+        </h2>
+        <br>
+        <h3>Master's Thesis Committee: </h3><p>UAVs for Wildlife Monitoring</p>
+    </figcaption>
+    </figure>
+  </div>
+  
+  <!-- Second cell -->
+  <div class="peopleDiv">
+    <figure>
+    <img src="" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Abdulla Shamsuddin
+        </h2>
+        <br>
+        <h3>Master's Thesis Committee: </h3><p>UAVs for Wildlife Monitoring</p>
+    </figcaption>
+    </figure>
+  </div>
+
+  <!-- Third cell -->
+  <div class="peopleDiv">
+    <figure>
+    <img src="" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Abdulla Shamsuddin
+        </h2>
+        <br>
+        <h3>Master's Thesis Committee: </h3><p>UAVs for Wildlife Monitoring</p>
+    </figcaption>
+    </figure>
+  </div>
+
+  <!-- Repeat the above pattern for additional rows -->
+
+  <div class="peopleDiv">
+    <figure>
+    <img src="" max-width="100%" height="100px">
+    <figcaption>
+        <h2>Abdulla Shamsuddin
+        </h2>
+        <br>
+        <h3>Master's Thesis Committee: </h3><p>UAVs for Wildlife Monitoring</p>
+    </figcaption>
+    </figure>
+  </div>
 
 
-<div class="peopleDiv">
-  <figure>
-  <img src="" max-width="100%" height="100px">
-  <figcaption>
-      <h2>Christopher Thompson
-      </h2>
-      <br>
-      <h3>Master's Thesis Committee: </h3><p>UAVs for Wildlife Monitoring</p>
-  </figcaption>
-  </figure>
+
+
+
+
+
+
+
+
 </div>
-
-<br>
-
-<div class="peopleDiv">
-  <figure>
-  <img src="" max-width="100%" height="100px">
-  <figcaption>
-      <h2>Abdulla Shamsuddin
-      </h2>
-      <br>
-      <h3>Master's Thesis Committee: </h3><p>UAVs for Wildlife Monitoring</p>
-  </figcaption>
-  </figure>
-</div>
-
-<br>
-
-<div class="peopleDiv">
-  <figure>
-  <img src="" max-width="100%" height="100px">
-  <figcaption>
-      <h2>Abdulla Shamsuddin
-      </h2>
-      <br>
-      <h3>Master's Thesis Committee: </h3><p>UAVs for Wildlife Monitoring</p>
-  </figcaption>
-  </figure>
-</div>
-
-<br>
-
-<div class="peopleDiv">
-  <figure>
-  <img src="" max-width="100%" height="100px">
-  <figcaption>
-      <h2>Abdulla Shamsuddin
-      </h2>
-      <br>
-      <h3>Master's Thesis Committee: </h3><p>UAVs for Wildlife Monitoring</p>
-  </figcaption>
-  </figure>
-</div>
-
-<br>
-
-
 
 
 

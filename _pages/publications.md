@@ -20,89 +20,106 @@ author_profile: true
 {% endfor %}
  -->
 
-Chen, X., Li, H., Amin, R. and Razi, A., 2023. RD-DPP: Rate-Distortion Theory Meets Determinantal Point Process to Diversify Learning Data Samples. arXiv preprint arXiv:2304.04137.
+ 
 
-
-Wang, H., Chen, X. and Razi, A., 2022. Fast Key Points Detection and Matching for Tree-Structured Images. arXiv preprint arXiv:2211.03242.
-
-Wang, H., Chen, X. and Razi, A., 2022. Fast Key Points Detection and Matching for Tree-Structured Images. arXiv preprint arXiv:2211.03242.
-
-Xiwen Chen, Hao Wang, Abolfazl Razi, Michael Kozicki, and Christopher Mann, "DH-GAN: a physics-driven untrained generative adversarial network for holographic imaging," Opt. Express 31, 10114-10135 (2023)
-
-Chen, X., Wang, H., Razi, A., Russo, B., Pacheco, J., Roberts, J., Wishart, J., Head, L. and Baca, A.G., 2022. Network-level Safety Metrics for Overall Traffic Safety Assessment: A Case Study. IEEE Access.
-
-Chen, X., Hopkins, B., Wang, H., O’Neill, L., Afghah, F., Razi, A., Fulé, P., Coen, J., Rowell, E. and Watts, A., 2022. Wildland Fire Detection and Monitoring Using a Drone-Collected RGB/IR Image Dataset. IEEE Access, 10, pp.121301-121317.
-
-Razi A, Chen X, Li H, et al. Deep learning serves traffic safety analysis: A forward‐looking review[J]. IET Intelligent Transport Systems, 2022.
 
 
 <!-- # More Publications -->
 
 ## Book Chapters
-A. Abedi, F. Afghah, A. Razi, "Resource Management in Cyber Physical Systems", Book: "Cyber-Physical System Design with Sensor Networking Technologies", The institution of Engineering and Technology (IET) (link)
 
-R. Dias, B.R. Thomas, A. Razi, L.A. Chylek, S. Sirimulla, A.H.A. Clayton, W.S. Hlavacek, R.G. Posner, "BioNetFit User Manual'', Submitted, Publisher: Methods on Molecular Biology series, Submitted 2019 (preprint)
+A. Abedi, F. Afghah, A. Razi, "Resource Management in Cyber Physical Systems", Book: "Cyber-Physical System Design with Sensor Networking Technologies", The institution of Engineering and Technology (IET) <a href="http://digital-library.theiet.org/content/books/10.1049/pbce096e_ch8">(Link)</a>
 
-A. Razi, A. Abedi, "Information-flow in hard to reach areas: Source estimation using correlated streams'', Publisher: Artech House, Submitted 2017 (preprint)
+R. Dias, B.R. Thomas, A. Razi, L.A. Chylek, S. Sirimulla, A.H.A. Clayton, W.S. Hlavacek, R.G. Posner, "BioNetFit User Manual'', Submitted, Publisher: Methods on Molecular Biology series, Submitted 2019 () <a href="https://arazi.people.clemson.edu/papers/pBC2018BioNetFit.pdf">(Preprint)</a>
 
-A. Abedi, A. Razi, "Sensor Design for Harsh Environments: Material Science Perspective'', Publisher: Artech House, Submitted 2017 (preprint)
+A. Razi, A. Abedi, "Information-flow in hard to reach areas: Source estimation using correlated streams'', Publisher: Artech House, Submitted 2017 <a href="..files/papers/pBC2018DistributedCoding.pdf">(Preprint)</a>
+
+A. Abedi, A. Razi, "Sensor Design for Harsh Environments: Material Science Perspective'', Publisher: Artech House, Submitted 2017 <a href="..files/papers/pBC2018PassiveSensors.pdf">(Preprint)</a>
+
+
 
 ## Patents
-A. Razi, V. Varadan, N. Dimitrova, N. Banerjee, "Integrated method and system for identifying functional patient-specific somatic aberrations using multi-omics cancer profiles'', US 2018/0247010 A1, Aug 2018 (link)
+
+A. Razi, V. Varadan, N. Dimitrova, N. Banerjee, "Integrated method and system for identifying functional patient-specific somatic aberrations using multi-omics cancer profiles'', US 2018/0247010 A1, Aug 2018 <a href="https://patentimages.storage.googleapis.com/05/bf/26/aaea196ecfcd7f/US20180247010A1.pdf">(Link)</a>
 
 A. Razi, B. Cambou, "Securing Distributed Elements Connected to a Network with Addressable PUFs'', Submitted 2017, Application Number 62480200, D2017-19
 
-B. Cambou, A. Razi, "Authentication of Images Extracted from Unclonable Objects'', Filed, PCT/US20170235938, Aug 2017 (link)
+B. Cambou, A. Razi, "Authentication of Images Extracted from Unclonable Objects'', Filed, PCT/US20170235938, Aug 2017 <a href="http://www.freepatentsonline.com/y2017/0235938.html">(Link)</a>
 
 F. Afghah, A. Razi, "Roulette Transform for Signal Processing", Disclosure ID: D2018-007
 
-F. Afghah, A. Razi, Ashwin Belle, K. Najarian, "Hierarchical Game Theoretic Based Feature Selection in Heterogeneous Big Data Sets'', Invention Disclosure Filed in 2014.
+F. Afghah, A. Razi, Ashwin Belle, K. Najarian, "Hierarchical Game Theoretic Based Feature Selection in Heterogeneous Big Data Sets'', Invention Disclosure Filed in 2014. 
+
+
 
 ## Journal Papers
-A Razi, "Optimal Measurement Policy for Linear Measurement Systems with Applications to UAV Network Topology Prediction", IEEE Transactions on Vehicular Technology, Nov 2019
 
-Arnau Rovira-Sugranes, Abolfazl Razi, "Optimizing the Age of Information for Blockchain Technology With Applications to IoT Sensors", IEEE Communications Letters, vol. 24, no. 1, pp. 183-187, 2019
+Xiwen Chen, Hao Wang, Abolfazl Razi, Michael Kozicki, and Christopher Mann, "DH-GAN: a physics-driven untrained generative adversarial network for holographic imaging," Opt. Express 31, 10114-10135 (2023) <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-6-10114&id=527879">(Link)</a>
 
-J. Chen, A. Valehi, A. Razi, "Smart Heart Monitoring: Early Prediction of Heart Problems Through Predictive Analysis of ECG Signals", IEEE Access, Volume 7, August 2019
+Chen, X., Wang, H., Razi, A., Russo, B., Pacheco, J., Roberts, J., Wishart, J., Head, L. and Baca, A.G., 2022. Network-level Safety Metrics for Overall Traffic Safety Assessment: A Case Study. IEEE Access. <a href="https://ieeexplore.ieee.org/document/9954361">(Link)</a>
 
-A. Razi, "Bayesian Signal Recovery Under Measurement Matrix Uncertainty: Performance Analysis'', IEEE Access, vol. 7, no. 1, pp 102356-102365, Aug 2019
+Chen, X., Hopkins, B., Wang, H., O’Neill, L., Afghah, F., Razi, A., Fulé, P., Coen, J., Rowell, E. and Watts, A., 2022. Wildland Fire Detection and Monitoring Using a Drone-Collected RGB/IR Image Dataset. IEEE Access, 10, pp.121301-121317. <a href="https://ieeexplore.ieee.org/document/9953997">(Link)</a>
 
-F Afghah, A Razi, R Soroushmehr, H Ghanbari, K Najarian, "Game Theoretic Approach for Systematic Feature Selection; Application in False Alarm Detection in Intensive Care Units", Entropy, vol. 20, no. 30
+Razi A, Chen X, Li H, et al. Deep learning serves traffic safety analysis: A forward‐looking review[J]. IET Intelligent Transport Systems, 2022. <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12257">(Link)</a>
 
-H. Peng, A. Razi, F. Afghah, J. Ashdown, "A Unified Framework for Joint Mobility Prediction and Object Profiling of Drones in UAV Networks', to appear in JCN Special Issue on Amateur Drone and UAV Communications and Networks, 2018  (preprint)
+A Razi, "Optimal Measurement Policy for Linear Measurement Systems with Applications to UAV Network Topology Prediction", IEEE Transactions on Vehicular Technology, Nov 2019 <a href="https://ieeexplore.ieee.org/abstract/document/8915763">(Link)</a>
 
-A. Valehi, A. Razi, "An Online Learning Method to Maximize Energy Efficiency of Cognitive Sensor Networks'', IEEE Communications Letters, vol. 22, no. 5, May 2018  (link, pdf, bibtex)
+Arnau Rovira-Sugranes, Abolfazl Razi, "Optimizing the Age of Information for Blockchain Technology With Applications to IoT Sensors", IEEE Communications Letters, vol. 24, no. 1, pp. 183-187, 2019 <a href="https://ieeexplore.ieee.org/document/8883204">(Link)</a>
 
-J. Chen, H. Peng, A. Razi, "Remote ECG Monitoring Kit to Predict Patient-Specific Heart Abnormalities'', Journal of Systemics, Cybernetics and Informatics, vol 15, no. 4, pp 82-89, Nov 2017 (link, pdf, bibtex)
+J. Chen, A. Valehi, A. Razi, "Smart Heart Monitoring: Early Prediction of Heart Problems Through Predictive Analysis of ECG Signals", IEEE Access, Volume 7, August 2019 <a href="https://ieeexplore.ieee.org/document/8815772">(Link)</a>
 
-A. Valehi, A. Razi, "Maximizing Energy Efficiency of Cognitive Wireless Sensor Networks with Constrained Age of Information'', IEEE Transactions on Cognitive Communications and Networking, vol.3, no. 4, pp 643-654, Dec 2017 (link, pdf, bibtex)
+A. Razi, "Bayesian Signal Recovery Under Measurement Matrix Uncertainty: Performance Analysis", IEEE Access, vol. 7, no. 1, pp 102356-102365, Aug 2019 <a href="https://ieeexplore.ieee.org/document/8768029">(Link)</a>
 
-M.J. Jannati, A. Razi, A. Sayadian, "Speech naturalness improvement via e-closed extended vectors sets in voice conversion systems", Springer Multidimensional System Signal Processing, Jan 2017, DOI 10.1007/s11045-017-0470-3
-(link, pdf, bibtex)
+F Afghah, A Razi, R Soroushmehr, H Ghanbari, K Najarian, "Game Theoretic Approach for Systematic Feature Selection; Application in False Alarm Detection in Intensive Care Units", Entropy, vol. 20, no. 30 <a href="https://www.mdpi.com/1099-4300/20/3/190">(Link)</a>
 
-A. Razi, S. Singh, F. Afghah, V. Varadan, "Network-based Enriched Gene Subnetwork Identification: A Game Theoretic Approach", Biomedical Engineering and Computational Biology, vol. 7, no. 2, pp1-14, April 2016, PMID: 4822726 (link, pdf, bibtex)
-Vinay Varadan, Nevenka Dimitrova, Anil Belur Nagaraj, Abolfazl Razi, Salendra Singh, Sitharthan Kamalakaran, Nilanjana Banerjee, Peronne Joseph, Alexander Mankovich, Prateek Mittal, and Analisa DiFeo, "InFlo: A Novel Systems Biology Framework Identifies cAMP-CREB1 Axis as a Key Modulator of Platinum Resistance in Ovarian Cancer", Nature Oncogene, Nov 2016, PMID: 27819677 (link, pdf, bibtex)
+H. Peng, A. Razi, F. Afghah, J. Ashdown, "A Unified Framework for Joint Mobility Prediction and Object Profiling of Drones in UAV Networks", to appear in JCN Special Issue on Amateur Drone and UAV Communications and Networks, 2018 <a href="https://ieeexplore.ieee.org/document/8533579">(Link)</a>
 
-F. Afghah, A. Razi, S.M.Reza Soroushmehr, S. Molaei, H. Ghanbari and K. Najarian, "A Game Theoretic Predictive Modeling Approach to Reduction of False Alarm", Lecture Notes in Computer Science, vol. 9545, pp118-130, Springer, Jan 2016 (link)
+A. Valehi, A. Razi, "An Online Learning Method to Maximize Energy Efficiency of Cognitive Sensor Networks", IEEE Communications Letters, vol. 22, no. 5, May 2018 <a href="https://ieeexplore.ieee.org/document/8294225/">(Link)</a> <a href="..files/papers/p2018OnlineEnergyMinimization.pdf">(PDF)</a> <a href="https://arazi.people.clemson.edu/papers/p2018OnlineEnergyMinimization.txt">(Bibtex)</a>
 
-A. Razi, F. Afghah, A.Abedi, "Channel-Adaptive Packetization Policy For Minimal Latency and Maximal Energy Efficiency", IEEE transactions on Wireless Communications, vol 15, no. 3, pp 2407-2420, March 2016 (link, pdf, bibtex)
+J. Chen, H. Peng, A. Razi, "Remote ECG Monitoring Kit to Predict Patient-Specific Heart Abnormalities'', Journal of Systemics, Cybernetics and Informatics, vol 15, no. 4, pp 82-89, Nov 2017 <a href="https://www.mdpi.com/1099-4300/20/3/190">(Link)</a> <a href="https://pdfs.semanticscholar.org/6be2/d952719a319e2770218c9a027a85f9731c28.pdf">(PDF)</a> <a href="..files/papers/p2017JSCI_ECGmonitoringKit.txt">(Bibtex)</a>
 
-F. Afghah, A. Razi, "Game Theoretic Study of Cooperative Spectrum Leasing in Cognitive Radio Networks",  International Journal of Handheld Computing Research, vol. 5, no. 2, 2014 (link, pdf, bibtex)
+A. Valehi, A. Razi, "Maximizing Energy Efficiency of Cognitive Wireless Sensor Networks with Constrained Age of Information'', IEEE Transactions on Cognitive Communications and Networking, vol.3, no. 4, pp 643-654, Dec 2017 <a href="https://ieeexplore.ieee.org/document/8025774/">(Link)</a> <a href="..files/papers/p2017ALIenergyefficiencyCWSN.pdf">(PDF)</a> <a href="..files/papers/p2017ALIenergyefficiencyCWSN.txt">(Bibtex)</a>
 
-A. Razi, A. Abedi, “Convergence Analysis of Iterative Decoding for Binary CEO Problem”, IEEE transactions on Wireless  Communications, vol. 13, no. 5, pp 2944-2954, May 2014 (link, pdf, bibtex)
+M.J. Jannati, A. Razi, A. Sayadian, "Speech naturalness improvement via e-closed extended vectors sets in voice conversion systems", Springer Multidimensional System Signal Processing, Jan 2017, DOI 10.1007/s11045-017-0470-3 <a href="https://link.springer.com/article/10.1007/s11045-017-0470-3">(Link)</a> <a href="..files/papers/p2017Jannati_SpeechNaturalnessImprovement.pdf">(PDF)</a> <a href="..files/papers/p2017Jannati_SpeechNaturalnessImprovement.txt">(Bibtex)</a>
 
-A. Razi, A. Abedi, “Power Optimized DSTBC Assisted DMF Relaying in Wireless Sensor Networks with Redundant Super nodes”, IEEE transactions on Wireless Communications, vol. 12, no. 2, pp 636-645, Jan. 2013
-(link, pdf, bibtex)
+A. Razi, S. Singh, F. Afghah, V. Varadan, "Network-based Enriched Gene Subnetwork Identification: A Game Theoretic Approach", Biomedical Engineering and Computational Biology, vol. 7, no. 2, pp1-14, April 2016, PMID: 4822726 <a href="https://www.ncbi.nlm.nih.gov/pubmed/27081328">(Link)</a> <a href="..files/papers/p2016GameTheoreticGeneIdentification.pdf">(PDF)</a> <a href="..files/papers/p2016GameTheoreticGeneIdentification.txt">(Bibtex)</a>
 
-F. Afghah, A. Razi, A. Abedi, "Stochastic Game Theoretical Model for Packet Forwarding in Relay Networks", Special issues in Mobile Computing and Networking Technologies Journal, Springer, vol. 25, no. 4, pp 1877-1893, April 2013 (link, pdf, bibtex)
+Vinay Varadan, Nevenka Dimitrova, Anil Belur Nagaraj, Abolfazl Razi, Salendra Singh, Sitharthan Kamalakaran, Nilanjana Banerjee, Peronne Joseph, Alexander Mankovich, Prateek Mittal, and Analisa DiFeo, "InFlo: A Novel Systems Biology Framework Identifies cAMP-CREB1 Axis as a Key Modulator of Platinum Resistance in Ovarian Cancer", Nature Oncogene, Nov 2016, PMID: 27819677 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5415943/">(Link)</a> <a href="..files/papers/2017NatureInFlo.pdf">(PDF)</a> <a href="..files/papers/2017NatureInFlo.txt">(Bibtex)</a>
 
-K.Yasami, A.Razi, A.Abedi, "Analysis of Channel Estimation Error in Physical Layer Network Coding", IEEE Communications Letters, vol. 15, no. 10, pp1029-1031, Oct 2011 (link,  bibtex)
+F. Afghah, A. Razi, S.M.Reza Soroushmehr, S. Molaei, H. Ghanbari and K. Najarian, "A Game Theoretic Predictive Modeling Approach to Reduction of False Alarm", Lecture Notes in Computer Science, vol. 9545, pp118-130, Springer, Jan 2016 <a href="https://link.springer.com/chapter/10.1007/978-3-319-29175-8_11">(Link)</a>
 
-A. Razi, F. Afghah, A. Abedi, "Binary Source Estimation Using a Two-tiered Wireless Sensor Networks", IEEE Communications Letters, vol. 15, no. 14, pp 449-551, April 2011 (link, pdf, bibtex)
+A. Razi, F. Afghah, A.Abedi, "Channel-Adaptive Packetization Policy For Minimal Latency and Maximal Energy Efficiency", IEEE transactions on Wireless Communications, vol 15, no. 3, pp 2407-2420, March 2016 <a href="https://ieeexplore.ieee.org/document/7337449/">(Link)</a> <a href="..files/papers/p2016TWC_packetizationPolicy.pdf">(PDF)</a> <a href="..files/papers/p2016TWC_packetizationPolicy.txt">(Bibtex)</a>
 
-F. Afghah, M. Ardebilipour, A. Razi, "Fast Turbo Codes Concatenated with Space-Time Block Codes", ISI Journal of Applied Science, no. 8, pp 2867-2873, 2008 (link, pdf, bibtex)
+
+F. Afghah, A. Razi, "Game Theoretic Study of Cooperative Spectrum Leasing in Cognitive Radio Networks",  International Journal of Handheld Computing Research, vol. 5, no. 2, 2014 <a href="https://dl.acm.org/citation.cfm?id=2747425">(Link)</a> <a href="..files/papers/p2014IJHCR_GameTheoreticSpectrumLeasing.pdf">(PDF)</a> <a href="..files/papers/p2014IJHCR_GameTheoreticSpectrumLeasing.txt">(Bibtex)</a>
+
+
+A. Razi, A. Abedi, “Convergence Analysis of Iterative Decoding for Binary CEO Problem”, IEEE transactions on Wireless  Communications, vol. 13, no. 5, pp 2944-2954, May 2014 <a href="https://ieeexplore.ieee.org/document/6799320/">(Link)</a> <a href="..files/papers/p2014TWC_ConvergenceBinaryCEO.pdf">(PDF)</a> <a href="..files/papers/p2014TWC_ConvergenceBinaryCEO.txt">(Bibtex)</a>
+
+
+A. Razi, A. Abedi, “Power Optimized DSTBC Assisted DMF Relaying in Wireless Sensor Networks with Redundant Super nodes”, IEEE transactions on Wireless Communications, vol. 12, no. 2, pp 636-645, Jan. 2013 <a href="https://ieeexplore.ieee.org/document/6399489/">(Link)</a> <a href="..files/papers/p2013TWC_PowerOptimizedDTSBC.pdf">(PDF)</a> <a href="..files/papers/p2013TWC_PowerOptimizedDTSBC.txt">(Bibtex)</a>
+
+
+F. Afghah, A. Razi, A. Abedi, "Stochastic Game Theoretical Model for Packet Forwarding in Relay Networks", Special issues in Mobile Computing and Networking Technologies Journal, Springer, vol. 25, no. 4, pp 1877-1893, April 2013 <a href="https://link.springer.com/article/10.1007/s11235-011-9471-y">(Link)</a> <a href="..files/papers/p2013Springer_StochasticGameTheoreticalModel.pdf">(PDF)</a> <a href="..files/papers/p2013Springer_StochasticGameTheoreticalModel.txt">(Bibtex)</a>
+
+
+
+K.Yasami, A.Razi, A.Abedi, "Analysis of Channel Estimation Error in Physical Layer Network Coding", IEEE Communications Letters, vol. 15, no. 10, pp1029-1031, Oct 2011 <a href="https://ieeexplore.ieee.org/document/6005192/">(Link)</a> <a href="..files/papers/2011KayvanCLnetworkCoding.pdf">(PDF)</a> <a href="..files/papers/2011KayvanCLnetworkCoding.txt">(Bibtex)</a>
+
+A. Razi, F. Afghah, A. Abedi, "Binary Source Estimation Using a Two-tiered Wireless Sensor Networks", IEEE Communications Letters, vol. 15, no. 14, pp 449-551, April 2011 <a href="https://ieeexplore.ieee.org/document/5714764/">(Link)</a> <a href="..files/papers/p2011CL_BinarySourceTwoTieredWSN.pdf">(PDF)</a> <a href="..files/papers/p2011CL_BinarySourceTwoTieredWSN.txt">(Bibtex)</a>
+
+F. Afghah, M. Ardebilipour, A. Razi, "Fast Turbo Codes Concatenated with Space-Time Block Codes", ISI Journal of Applied Science, no. 8, pp 2867-2873, 2008 <a href="https://scialert.net/abstract/?doi=jas.2008.2867.2873">(Link)</a> <a href="..files/papers/p2008_JAppliedScience_FastTurboCodesSTBC.pdf">(PDF)</a> <a href="..files/papers/p2008_JAppliedScience_FastTurboCodesSTBC.txt">(Bibtex)</a>
+
+
+
 
 ## Conference Papers
+Chen, X., Li, H., Amin, R. and Razi, A., 2023. RD-DPP: Rate-Distortion Theory Meets Determinantal Point Process to Diversify Learning Data Samples. arXiv preprint arXiv:2304.04137. 
+
+Wang, H., Chen, X. and Razi, A., 2022. Fast Key Points Detection and Matching for Tree-Structured Images. arXiv preprint arXiv:2211.03242.
+
+Wang, H., Chen, X. and Razi, A., 2022. Fast Key Points Detection and Matching for Tree-Structured Images. arXiv preprint arXiv:2211.03242.
+
 H. Li, A. Razi, "MEDA: Multi-output Encoder-Decoder for Spatial Attention in Convolutional Neural Networks'', accepted in Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA , Nov 2019
 
 S. Islam, F. Afghah, A. Razi, "Fire Frontline Monitoring by Enabling UAV-Based Virtual Reality with Adaptive Imaging Rate'', accepted in Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, Nov 2019
