@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-<!-- 
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -18,7 +18,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
- -->
+
 
  
 
@@ -30,11 +30,11 @@ author_profile: true
 
 A. Abedi, F. Afghah, A. Razi, "Resource Management in Cyber Physical Systems", Book: "Cyber-Physical System Design with Sensor Networking Technologies", The institution of Engineering and Technology (IET) <a href="http://digital-library.theiet.org/content/books/10.1049/pbce096e_ch8">(Link)</a>
 
-R. Dias, B.R. Thomas, A. Razi, L.A. Chylek, S. Sirimulla, A.H.A. Clayton, W.S. Hlavacek, R.G. Posner, "BioNetFit User Manual'', Submitted, Publisher: Methods on Molecular Biology series, Submitted 2019 () <a href="https://arazi.people.clemson.edu/papers/pBC2018BioNetFit.pdf">(Preprint)</a>
+R. Dias, B.R. Thomas, A. Razi, L.A. Chylek, S. Sirimulla, A.H.A. Clayton, W.S. Hlavacek, R.G. Posner, "BioNetFit User Manual'', Submitted, Publisher: Methods on Molecular Biology series, Submitted 2019 () <a href=".files/papers/pBC2018BioNetFit.pdf">(Preprint)</a>
 
-A. Razi, A. Abedi, "Information-flow in hard to reach areas: Source estimation using correlated streams'', Publisher: Artech House, Submitted 2017 <a href="..files/papers/pBC2018DistributedCoding.pdf">(Preprint)</a>
+A. Razi, A. Abedi, "Information-flow in hard to reach areas: Source estimation using correlated streams'', Publisher: Artech House, Submitted 2017 <a href=".files/papers/pBC2018DistributedCoding.pdf">(Preprint)</a>
 
-A. Abedi, A. Razi, "Sensor Design for Harsh Environments: Material Science Perspective'', Publisher: Artech House, Submitted 2017 <a href="..files/papers/pBC2018PassiveSensors.pdf">(Preprint)</a>
+A. Abedi, A. Razi, "Sensor Design for Harsh Environments: Material Science Perspective'', Publisher: Artech House, Submitted 2017 <a href=".files/papers/pBC2018PassiveSensors.pdf">(Preprint)</a>
 
 
 
