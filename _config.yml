@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NetSec Lab - Clemson University"
+title                    : "AI-SEND Lab - Clemson University"
 title_separator          : "-"
-name                     : &name "NetSec Lab"
+name                     : &name "AI-SEND Lab"
 description              : &description "School of Computing"
 url                      : https://isend-clemson.github.io/iSeND-Website.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
