@@ -184,9 +184,20 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  #talks:    #razi commented
+  #  output: true
+  #  permalink: /:collection/:path/
+  people:    #razi copy pasted
+      output: true
+      permalink: /:collection/:path/
+  research:   #razi copy pasted
+      output: true
+      permalink: /:collection/:path/
+  lab:   #razi copy pasted
+      output: true
+      permalink: /:collection/:path/
+
+    
 
 
 # Defaults
@@ -242,6 +253,30 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _research   Razi copy pasted
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _lab   Razi copy pasted
+  - scope:
+      path: ""
+      type: lab
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _people   Razi copy pasted
+  - scope:
+      path: ""
+      type: people
+    values:
+      layout: single
       author_profile: true
       share: true
 
