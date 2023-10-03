@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Abolfazl Razi"
   avatar           : "A_Razi.jpg"
-  bio              : "Room #202, 821 McMillan Rd"
+  bio              : "Room #203, 821 McMillan Rd"
   location         : "Clemson, SC, 29631"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/"
-  googlescholar    : "https://scholar.google.com/citations?user=DhwC8gsAAAAJ&hl=en"
+  googlescholar    :  "https://scholar.google.com/citations?user=DhwC8gsAAAAJ&hl=en"
   email            :  "arazi@clemson.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  "https://arazi.people.clemson.edu/"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York #was America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
