@@ -1,33 +1,28 @@
 # main links links
 main:
 
-  # - title: "Home"
-  #   url: /about/
+   - title: "Home"
+     url: /about #was /about/   and also was commented
 
   - title: "Research"
-    url: /markdown/ #/research/   #was /markdown/
+    url: /research #/markdown/ #/research/   #was /markdown/
 
   - title: "Portfolio"
-    url: /portfolio/
+    url: /portfolio  #/
 
   - title: "Teaching"
-    url: /teaching/   
-
+    url: /teaching #/   
 
   - title: "Publications"
-    url: /publications/
-
+    url: /publications #/
 
   - title: "People"
-    url: /talks/  #/people/ #was /talks/    
-
+    url: /people   #/talks/  #/people/ #was /talks/    
 
   - title: "Professional Activities"
-    url: /year-archive/ #/prof/ #was /year-archive/
-
-        
+    url: /prof #/year-archive/ #/prof/ #was /year-archive/
 
   - title: "Our Lab"
-    url: /cv/
+    url: /lab  #was /cv/
     
 
