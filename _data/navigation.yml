@@ -5,7 +5,7 @@ main:
   #   url: /about/
 
   - title: "Research"
-    url: /markdown/
+    url: /research/   #was markdown
 
   - title: "Portfolio"
     url: /portfolio/
@@ -19,11 +19,11 @@ main:
 
 
   - title: "People"
-    url: /talks/    
+    url: /people/ #was /talks/    
 
 
   - title: "Professional Activities"
-    url: /year-archive/
+    url: /prof/ #was /year-archive/
 
         
 
