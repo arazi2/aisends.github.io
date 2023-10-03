@@ -2,27 +2,27 @@
 main:
 
    #- title: "Home"
-   #  url: /about/ #was /about/   and also was commented
+   #  URL: /about/ #was /about/   and also was commented
 
   - title: "Research"
-    url: /research/ #/markdown/ #/research/   #was /markdown/
+    URL: /research/ #/markdown/ #/research/   #was /markdown/
 
   - title: "Portfolio"
-    url: /portfolio/  #/
+    URL: /portfolio/  #/
 
   - title: "Teaching"
-    url: /teaching/ #/   
+    URL: /teaching/ #/   
 
   - title: "Publications"
-    url: /publications/ #/
+    URL: /publications/ #/
 
   - title: "People"
-    url: /people/   #/talks/  #/people/ #was /talks/    
+    URL: /people/   #/talks/  #/people/ #was /talks/    
 
   - title: "Professional Activities"
-    url: /prof/ #/year-archive/ #/prof/ #was /year-archive/
+    URL: /prof/ #/year-archive/ #/prof/ #was /year-archive/
 
   - title: "Our Lab"
-    url: /lab/  #was /cv/
+    URL: /lab/  #was /cv/
     
 
