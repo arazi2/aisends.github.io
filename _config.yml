@@ -187,9 +187,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  #talks:
-  #  output: true
-  #  permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
   people:
     output: true
     permalink: /:collection/:path/
@@ -256,7 +256,7 @@ defaults:
       path: ""
       type: people
     values:
-      layout: people #talk
+      layout: talk #people #talk
       author_profile: true
       share: true
 
@@ -270,7 +270,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York #America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
