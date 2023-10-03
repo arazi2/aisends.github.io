@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "AI-SEND Lab, Room 202A McAdam Hall, Clensom University"
-permalink: /cv/
+permalink: /lab/
 author_profile: true
-redirect_from:
-  - /resume
+#redirect_from:
+#  - /resume
 ---
 
 {% include base_path %}
