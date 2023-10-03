@@ -14,6 +14,15 @@ author_profile: true
 ## Spring 2022
 * CPSC 4820 AI Autonomous Vehicle
 
+## Fall 2022
+* CPSC 4420/6420  Artificial Intelligence
+
+## Spring 2023
+* CPSC 4820 AI Autonomous Vehicle
+
+## Fall 2023
+* CPSC 4420/6420  Artificial Intelligence
+
 
 <br>
 <br>
