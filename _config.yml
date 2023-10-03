@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "AI-SENDS Lab - Clemson University"
 title_separator          : "-"
-name                     : &name "AI-SEND Lab"
+name                     : &name "AI-SENDS Lab"
 description              : &description "School of Computing"
 url                      : https://arazi2.github.io/aisends.github.io/   #hwas ttps://isend-clemson.github.io/iSeND-Website.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
