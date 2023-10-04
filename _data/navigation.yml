@@ -4,7 +4,7 @@ main:
    #- title: "Home"
    #  URL: /about/ #was /about/   and also was commented
 
-  - title: "Research"
+  - title: "Research2"
     url: /research/ #/markdown/ #/research/   #was /markdown/
 
   #- title: "Portfolio"
