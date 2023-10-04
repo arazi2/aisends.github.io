@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "AI-SENDS Lab, Room 202A McAdam Hall, Clemson University"
-permalink: /cv/
+permalink: /lab/
 author_profile: true
 redirect_from:
-  - /cv
-  - /cv.html
+  - /lab
+  - /lab.html
 ---
 
 {% include base_path %}
