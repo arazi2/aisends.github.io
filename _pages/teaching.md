@@ -54,16 +54,16 @@ redirect_from:
 ### Teaching Assistant, ECE department, University of Maine
 
 * Computer Structure & C++ Programming
-### Lecturer, Payam Noor university, Tehran
+### Lecturer, Payam Noor University, Tehran
 
 * Wireless Networks, Structure & Services
-### Instructor, Training course for MCI Company Employees 
+### Instructor, Training Course for MCI Company Employees 
 
 * Wireless Networks, Structure & Services
-### Training course for BS and MS Students in a joint Industry-Academia Program
+### Training Course for BS and MS Students in a joint Industry-Academia Program
 
 * Smart Cards Structure, Standards & Capabilities
-### Instructor, Training course for MCI Company Employees
+### Instructor, Training Course for MCI Company Employees
 
 
 
