@@ -1,10 +1,10 @@
 # main links links
 main:
 
-   #- title: "Home"
-   #  URL: /about/ #was /about/   and also was commented
+   - title: "Home"
+     url: /about/ #was /about/   and also was commented
 
-  - title: "Research2"
+  - title: "Research"
     url: /research/ #/markdown/ #/research/   #was /markdown/
 
   #- title: "Portfolio"
