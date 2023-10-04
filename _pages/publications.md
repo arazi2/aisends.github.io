@@ -40,9 +40,11 @@ A. Abedi, A. Razi, "Sensor Design for Harsh Environments: Material Science Persp
 
 ## Patents
 
-A. Razi, V. Varadan, N. Dimitrova, N. Banerjee, "Integrated method and system for identifying functional patient-specific somatic aberrations using multi-omics cancer profiles'', US 2018/0247010 A1, Aug 2018 <a href="https://patentimages.storage.googleapis.com/05/bf/26/aaea196ecfcd7f/US20180247010A1.pdf">(Link)</a>
+A. Razi, V. Varadan, N. Dimitrova, N. Banerjee, "Integrated method and system for identifying functional patient-specific somatic aberrations using multi-omics cancer profiles'', US PAtent: US20180247010A1, Aug 2018 <a href="https://patents.google.com/patent/US20180247010A1/en">(Link)</a>
 
-A. Razi, B. Cambou, "Securing Distributed Elements Connected to a Network with Addressable PUFs'', Submitted 2017, Application Number 62480200, D2017-19
+A. Razi, B. Cambou, "Securing Distributed Elements Connected to a Network with Addressable physically unclonable functions", US Patent 11388013, July 2022, <a href="https://patents.google.com/patent/US11388013B2/en">(Link)</a>
+
+F. Afghah, A Razi, K. Najarian, S. Soroushmehr, "False Alarm Reduction Systems and Related methods", US Patent: US 10650667, 2020, <a href="https://patents.google.com/patent/US10650667/en">(Link)</a> 
 
 B. Cambou, A. Razi, "Authentication of Images Extracted from Unclonable Objects'', Filed, PCT/US20170235938, Aug 2017 <a href="http://www.freepatentsonline.com/y2017/0235938.html">(Link)</a>
 
