@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
+  - /publication/   #razi added!
+  - /publication.html
   - /publications/
   - /publications.html
 ---
