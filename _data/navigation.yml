@@ -2,11 +2,11 @@
 main:
 
   - title: "Home"
-    url: /about/ #was /about/   and also was commented
+    url: /about/ 
 
   - title: "Research"
-    url: /research/#/markdown/ #/research/   #was /markdown/
-
+    url: /research/
+    
   - title: "Portfolio"
     url: /portfolio/
 
@@ -17,12 +17,12 @@ main:
     url: /publications/
 
   - title: "People"
-    url: /people/#/talks/  #/people/ #was /talks/    
+    url: /people/    
 
   - title: "Professional Activities"
-    url: /prof/#/year-archive/ #/prof/ #was /year-archive/
+    url: /prof/
 
   - title: "Our Lab"
-    url: /lab/#was /cv/
+    url: /lab/
     
 
