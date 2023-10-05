@@ -10,9 +10,6 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Teaching"
-    url: /teaching/  
-
   - title: "Publications"
     url: /publications/
 
@@ -25,4 +22,6 @@ main:
   - title: "Our Lab"
     url: /lab/
     
+  - title: "Teaching"
+    url: /teaching/  
 
