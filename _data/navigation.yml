@@ -10,19 +10,19 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-#  - title: "Teaching"
-#    url: /teaching/  
+  - title: "Teaching"
+    url: /teaching/  
 
-#  - title: "Publications"
-#    url: /publications/
+  - title: "Publications"
+    url: /publications/
 
-#  - title: "People"
-#    url: /people/#/talks/  #/people/ #was /talks/    
+  - title: "People"
+    url: /people/#/talks/  #/people/ #was /talks/    
 
-#  - title: "Professional Activities"
-#    url: /prof/#/year-archive/ #/prof/ #was /year-archive/
+  - title: "Professional Activities"
+    url: /prof/#/year-archive/ #/prof/ #was /year-archive/
 
-#  - title: "Our Lab"
-#    url: /lab/#was /cv/
+  - title: "Our Lab"
+    url: /lab/#was /cv/
     
 
