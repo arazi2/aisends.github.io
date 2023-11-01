@@ -2,11 +2,11 @@
 title: "UAV Networks"
 collection: projects
 permalink: /project/UAV
-excerpt: 'TBD'
+# excerpt: 'TBD'
 date: 2023-10-31
-venue: 'TBD'
-paperurl: 'TBD'
-citation: 'TBD'
+# venue: 'TBD'
+# paperurl: 'TBD'
+# citation: 'TBD'
 ---
  
 # Project Synopsis
@@ -65,7 +65,7 @@ We are delighted that our activities resulted in several high-quality papers (4 
 
 # Project Team
 
-## PI: Abolfazl Razi [](arazi@clemson.edu)
+## PI: Dr. Abolfazl Razi [arazi@clemson.edu](arazi@clemson.edu)
 
 ## Graduate Students:
 - Xiwen Chen
@@ -129,7 +129,16 @@ Content for CPSC 4820/6820 titled "AI for Autonomous Vehicles", especially devel
 # Codes
 [DPP (Xiwen Chen)]()
 
+
+
+
+
 # Outreach
+
+
+
+
+
 
 
 # Broader Impacts
