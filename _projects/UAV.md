@@ -1,7 +1,7 @@
 ---
 title: "UAV Networks"
 collection: projects
-permalink: /projects/UAV
+permalink: /project/UAV
 excerpt: 'TBD'
 date: 2023-10-31
 venue: 'TBD'
