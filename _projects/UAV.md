@@ -3,7 +3,7 @@ title: "UAV Networks"
 collection: projects
 permalink: /project/UAV
 # excerpt: 'TBD'
-date: 2023-10-31
+# date: 2023-10-31
 # venue: 'TBD'
 # paperurl: 'TBD'
 # citation: 'TBD'
@@ -20,18 +20,30 @@ This project aims to implement an inverse learning framework for Autonomous Vehi
   Develop a unified framework for mobility prediction while offering sufficient flexibility to consider class-specific properties for both aerial and ground unmanned vehicles (UAV/UGV). Our approach integrates model-based kinematics equations with a learning-based data-driven generative mode to enable online learning of class-specific motion capabilities with adaptive processing. Our method addresses the three largely overlooked properties of current methods, including (i) considering class-specific motion properties, (ii) addressing mixed traffic in the presence of human-controlled and Al-based autonomous vehicles, and (iii) addressing rare but informative events.
 
 
-<img src="../images/UAV/uav_1.png" width = "80%">
+  <img src="../images/UAV/uav_1.png" width = "80%">
 
 
-<img src="../images/UAV/uav_2.png" width = "80%">
+  <img src="../images/UAV/uav_2.png" width = "80%">
+
+
+  <img src="../images/UAV/uav_3.png" width = "80%">
+
+
+
 
 
 ## Goal 2
  The second goal of our project is to develop a reverse engineering framework that monitors the environment and target's actions to discover its decision-making strategy, as a baseline to identify deviations from predicted behavior. The challenges include projecting the observer's perception of the environment to the target's perspective (seeing the world from the target's eyes), determining the target's ultimate goal and reward-generation process (reading the agent's brain), and including potentially unknown factors in the decision-making strategy.
 
 
+ <img src="../images/UAV/uav_4.png" width = "80%">
+
+
+
 ## Goal 3
  The third objective is utilizing the developed framework to predict network topology and channel conditions to enhance networking efficiency (Al-based networking) and identify malicious nodes that make networking decisions inconsistent with the network status based on their own decision-making approach.
+
+ <img src="../images/UAV/uav_5.png" width = "80%">
 
 
 <br>
@@ -79,7 +91,7 @@ We are delighted that our activities resulted in several high-quality papers (4 
 
 # Project Team
 
-## PI: Dr. Abolfazl Razi [arazi@clemson.edu](arazi@clemson.edu)
+## PI: Dr. Abolfazl Razi [arazi@clemson.edu](mailto:arazi@clemson.edu)
 
 ## Graduate Students:
 - Xiwen Chen
