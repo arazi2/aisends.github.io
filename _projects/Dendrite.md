@@ -8,7 +8,7 @@ venue: 'CSCI 2022'
 paperurl: 'https://arxiv.org/abs/2211.08678'
 citation: 'Wang, H., Chen, X. and Razi, A., 2022. Fast Key Points Detection and Matching for Tree-Structured Images. arXiv preprint arXiv:2211.03242.'
 ---
-
+ 
 # Project Overview
 
 We present a solution for secure monitoring in supply chains with nano-resolution visual identifiers-based cyber-physical systems.
@@ -16,7 +16,7 @@ In this project, nano-reoslution samples are used for identification and authent
 
 The dendritic samples are electro-chemical generated nano-materials and is customizable in terms of scale and morphology complexity. 
 
-<img src="../images/Nano/sample.png" width="80%">
+<img src="../images/Nano/sample.png" width = "80%">
 
 Compare to the conventional barcode or QR code-based methods, our solution provide high-level security due to the randomness and high entropy information of dendritic samples. Meanwhile, our computer vision-based algorithm provides a competitive computation cost.
 
