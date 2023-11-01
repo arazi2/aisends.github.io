@@ -1,9 +1,9 @@
 ---
-title: "UAV"
+title: "UAV Networks"
 collection: projects
 permalink: /projects/UAV
 excerpt: ''
-date: 
+date: 2023-10-31
 venue: ''
 paperurl: ''
 citation: ''
