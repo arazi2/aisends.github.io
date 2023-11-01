@@ -184,9 +184,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /:collection/:path/
+  # projects:
+  #   output: true
+  #   permalink: /:collection/:path/
   #talks:    #razi commented
   #  output: true
   #  permalink: /:collection/:path/
