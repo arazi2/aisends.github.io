@@ -8,10 +8,13 @@ date: 2023-10-31
 # paperurl: 'TBD'
 # citation: 'TBD'
 ---
- 
+<br>
+
 # Project Synopsis
 
 This project aims to implement an inverse learning framework for Autonomous Vehicles (AVs) for motion-based anomaly detection by modeling and discovering the target decision-making process. we consider the mobility of AVs as a key example of AI-based action planning and aim to identify suspicious activities taken by intruding nodes.
+
+
 
 ## Goal 1
   Develop a unified framework for mobility prediction while offering sufficient flexibility to consider class-specific properties for both aerial and ground unmanned vehicles (UAV/UGV). Our approach integrates model-based kinematics equations with a learning-based data-driven generative mode to enable online learning of class-specific motion capabilities with adaptive processing. Our method addresses the three largely overlooked properties of current methods, including (i) considering class-specific motion properties, (ii) addressing mixed traffic in the presence of human-controlled and Al-based autonomous vehicles, and (iii) addressing rare but informative events.
@@ -31,6 +34,9 @@ This project aims to implement an inverse learning framework for Autonomous Vehi
  The third objective is utilizing the developed framework to predict network topology and channel conditions to enhance networking efficiency (Al-based networking) and identify malicious nodes that make networking decisions inconsistent with the network status based on their own decision-making approach.
 
 
+<br>
+<br>
+<br>
 
 
 
@@ -58,9 +64,17 @@ Beyond the developed activities, we further extended the activities by developin
 
 
 
+<br>
+<br>
+<br>
+
 
 # Significant Results
 We are delighted that our activities resulted in several high-quality papers (4 accepted and 2 under review). The key achievement of our activities in the last year was bridging two independent research paradigms based (RD) on rate-distortion theory and determinantal point processes (DPP) which provides a mathematical foundation to assess the quality of defeated learning applications for autonomous ground and aerial vehicles. This work is completed for unconstrained networking, and we are working toward addressing constrained networking and dynamic conditions. We also have implemented an optimization framework by imposing fairness on class labels (instead of network resources) and using game theoretic optimization that implicitly promotes diversity among aggregated data batches. Beyond our planned activities and to broaden the impacts of the developed research, we explore new extensions by integrating the developed networking protocols with trajectory design for actuator drones and also to extend the developed strategies to secure networking in the supply chain. The preliminary results of these new dimensions are presented at two IEEE conferences (CCSI, and CCNC). 
+
+<br>
+<br>
+<br>
 
 
 # Project Team
@@ -80,6 +94,10 @@ We are delighted that our activities resulted in several high-quality papers (4 
 -	Rayid Alimasoo
 -	John Suchanek
 
+
+<br>
+<br>
+<br>
 
 
 
@@ -122,9 +140,21 @@ The following papers are the outcome of completing this project. 4 accepted, 1 u
   -	Chen, Xiwen, Huayu Li, Rahul Amin, and Abolfazl Razi. "Learning on Bandwidth Constrained Multi-Source Data with MIMO-inspired DPP MAP Inference." arXiv preprint arXiv:2306.02497 (2023). Under Preparation [potentially for IEEE Transactions on Machine Learning in Communications and Networking].
 
 
+<br>
+<br>
+<br>
+
 
 # Training Opportunities
 Content for CPSC 4820/6820 titled "AI for Autonomous Vehicles", especially developing several hands-on projects, training modules, and simulation scenarios in virtual environments (SUMO, Webots, Carla).
+
+
+
+<br>
+<br>
+<br>
+
+
 
 # Codes
 [DPP (Xiwen Chen)]()
@@ -132,11 +162,19 @@ Content for CPSC 4820/6820 titled "AI for Autonomous Vehicles", especially devel
 
 
 
+<br>
+<br>
+<br>
+
 
 # Outreach
 
 
 
+
+<br>
+<br>
+<br>
 
 
 
