@@ -2,11 +2,11 @@
 title: "UAV Networks"
 collection: projects
 permalink: /projects/UAV
-excerpt: ''
+excerpt: 'TBD'
 date: 2023-10-31
-venue: ''
-paperurl: ''
-citation: ''
+venue: 'TBD'
+paperurl: 'TBD'
+citation: 'TBD'
 ---
  
 # Project Synopsis
