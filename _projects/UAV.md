@@ -3,7 +3,7 @@ title: "UAV Networks"
 collection: projects
 permalink: /project/UAV
 # excerpt: 'TBD'
-# date: 2023-10-31
+date: 2023-10-31
 # venue: 'TBD'
 # paperurl: 'TBD'
 # citation: 'TBD'
@@ -72,7 +72,7 @@ This project aims to implement an inverse learning framework for Autonomous Vehi
   We also included two new undergraduate students to simulate the testing scenarios in simulation environments, including Carla (for AVs), and Microsoft AirSIM (for drones). These two students already graduated. We requested REU supplement funding to include two new undergraduate students in the coming year. We appreciate NSF for approving our requests. Currently, I am in the process of identifying and recruiting new two qualified students to work on implementing test scenarios in simulation environments and drone platforms to validate our previous research results and explore new research problems. 
 
 
-Beyond the developed activities, we further extended the activities by developing trajectory planning for drones equipped with overhead manipulators, with preliminary results published at the PiMRC conference. 
+### Beyond the developed activities, we further extended the activities by developing trajectory planning for drones equipped with overhead manipulators, with preliminary results published at the PiMRC conference. 
 
 
 
