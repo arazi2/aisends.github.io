@@ -27,7 +27,7 @@ This project aims to implement an inverse learning framework for Autonomous Vehi
   <img src="../images/UAV/uav_2.png" width = "80%">
 
 
-  <img src="../images/UAV/uav_3.png" width = "80%">
+  <img src="../images/UAV/uav_3.png" width = "100%">
 
 
 
@@ -44,7 +44,7 @@ This project aims to implement an inverse learning framework for Autonomous Vehi
 ## Goal 3
  The third objective is utilizing the developed framework to predict network topology and channel conditions to enhance networking efficiency (Al-based networking) and identify malicious nodes that make networking decisions inconsistent with the network status based on their own decision-making approach.
 
- <img src="../images/UAV/uav_5.png" width = "100%">
+ <img src="../images/UAV/uav_5.png" width = "80%">
 
 
 <br>
@@ -92,7 +92,7 @@ We are delighted that our activities resulted in several high-quality papers (4 
 
 # Project Team
 
-## PI: Dr. Abolfazl Razi <a href="mailto:arazi@clemson.edu">arazi@clemson.edu</a>
+## PI: Dr. Abolfazl Razi [arazi@clemson.edu](mailto:arazi@clemson.edu)
 
 ## Graduate Students:
 - Xiwen Chen
