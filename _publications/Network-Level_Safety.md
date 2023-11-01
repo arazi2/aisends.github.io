@@ -1,7 +1,7 @@
 ---
 title: "Network-Level Safety Metrics for Overall Traffic Safety Assessment: A Case Study"
 collection: publications
-permalink: /publication/Network-Level Safety Metrics for Overall Traffic Safety Assessment: A Case Study
+permalink: /publication/Network-Level Safety
 excerpt: 'This paper is published on Optics Express.'
 date: 2023-03-06
 venue: 'Optics Express'
