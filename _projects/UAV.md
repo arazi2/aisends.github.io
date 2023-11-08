@@ -21,18 +21,16 @@ This project aims to implement an inverse learning framework for Autonomous Vehi
 
 A smart observation system will be developed to constantly monitor the behavior of autonomous agents to identify suspicious activities by measuring their deviation from the most rational behavior under given conditions. The proposed research includes several steps: (i) to develop mechanisms to simulate the target node's perception of its surrounding environment (i.e., seeing the word from the target's eyes) using deep learning methods, (ii) to predict its rational behavior(s) under given conditions and available resources by modeling the target's decision making procedure through inverse learning (reading the target's brain), and (iii) to measure the level of trust by detecting rare but critical episodes of deviating from its expected rational behavior. In particular, the mobility of UAVs and their networking activities will be investigated as two important scenarios of malicious activities. This project is expected to result in developing new tools and algorithms for the action analysis of smart nodes that will be shared with the research community.
 
-## Goal 1
+## Research Goal 1
   Develop a unified framework for mobility prediction while offering sufficient flexibility to consider class-specific properties for both aerial and ground unmanned vehicles (UAV/UGV). Our approach integrates model-based kinematics equations with a learning-based data-driven generative mode to enable online learning of class-specific motion capabilities with adaptive processing. Our method addresses the three largely overlooked properties of current methods, including (i) considering class-specific motion properties, (ii) addressing mixed traffic in the presence of human-controlled and Al-based autonomous vehicles, and (iii) addressing rare but informative events.
 
 
   <img src="../images/UAV/uav_1.png" width = "80%">
-  Generative Model to simulate Class-Specific Trajectories based on Motion Dynamics of Different UVs
-
-
   <img src="../images/UAV/uav_2.png" width = "80%">
+<br>
+For more information read this [Article] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8533579) 
 
-
-  <img src="../images/UAV/uav_3.png" width = "100%">
+[//]: #  <img src="../images/UAV/uav_3.png" width = "100%">
 
 
 
