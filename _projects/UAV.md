@@ -89,20 +89,7 @@ For more information, please read this [article] (https://ieeexplore.ieee.org/st
 
 
 ## Undergraduate Research
-Two new undergraduate students (Michael Elrod, Rayid Masoo) are recruitted to simulate the testing scenarios in simulation environments, including Carla (for AVs), and Microsoft AirSIM or ROS/Gazebo (for drones). These two students are wlso working on developing collective path planning algorithms for UAV swamrs to collectively accomplsih a designated tasks under imperfect observations.
-
-
-
-<br>
-<br>
-<br>
-
-
-** Goal 2
-
- <img src="../images/UAV/uav_4.png" width = "80%">
-
-
+Three new undergraduate students (Michael Elrod, Rayid Masoo, John Suchanek)  are recruitted to simulate the testing scenarios in simulation environments such as Microsoft AirSIM or ROS/Gazebo (for drones). These two students are wlso working on developing collective path planning algorithms for UAV swamrs to collectively accomplsih a designated tasks under imperfect observations. Another student is working to develop practical platform for actuator drones.
 
 
 
@@ -180,7 +167,8 @@ The following papers are the outcome of completing this project. 4 accepted, 1 u
 
 
 # Training Opportunities
-Content for CPSC 4820/6820 titled "AI for Autonomous Vehicles", especially developing several hands-on projects, training modules, and simulation scenarios in virtual environments (SUMO, Webots, Carla).
+This project provides content for CPSC 4820/6820 titled "AI for Autonomous Vehicles", especially developing several hands-on projects, training modules, and simulation scenarios in virtual environments (SUMO, Webots, Carla).
+Here is the syllabus for this [course] ().
 
 
 
