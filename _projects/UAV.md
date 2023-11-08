@@ -13,7 +13,7 @@ date: 2023-10-31
 
 # Project Synopsis
 
-This project aims to implement an inverse learning framework for Autonomous Vehicles (AVs) for motion-based anomaly detection by modeling and discovering the target decision-making process. we consider the mobility of AVs as a key example of AI-based action planning and aim to identify suspicious activities taken by intruding nodes.
+This project aims to implement an inverse learning framework for Autonomous Vehicles (AVs) for motion-based anomaly detection by modeling and discovering the target decision-making process. We consider the mobility of AVs as a key example of AI-based action planning and aim to identify suspicious activities taken by intruding nodes.
 
 # NSF Project Number #2204721
 
