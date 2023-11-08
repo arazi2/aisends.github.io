@@ -101,6 +101,8 @@ Three new undergraduate students (Michael Elrod, Rayid Masoo, John Suchanek)  ar
 
 
 # Project Team
+<img src="../images/Lab/RaziTeam2.jpeg" width = "100%">
+<img src="../images/Lab/RaziUndergrads.jpg" width = "100%">
 
 ## PI: Dr. Abolfazl Razi [arazi@clemson.edu](mailto:arazi@clemson.edu)
 
@@ -173,6 +175,27 @@ This project provides content for CPSC 4820/6820 titled "AI for Autonomous Vehic
 Here is the syllabus for this [course] ().
 
 # Capstone Projects
+EduPlatCommPro-S19. The Educational Platform for Communication Protocols: AY2018-19
+Team Members: Christopher Thompson, Tyler Halperin, Tyler Criss, Huayu Li
+[Link:] (https://ceias.nau.edu/capstone/projects/EE/2019/EduPlatCommPro-S19/)
+
+Links: wrong!
+
+Ground Robotic Design for Predictive Communications
+Team Members: Fahad Almaraghi, Yuting Zhang, Qiyuan Huang, Chaoju Wang, Hanxiao Lu
+<img src="../images/Undergrads/robot1.png" width = "100%">
+[Link:] (/)
+
+
+Ground Robotic Design for Predictive Communications
+Team Members: Fahad Almaraghi, Yuting Zhang, Qiyuan Huang, Chaoju Wang, Hanxiao Lu
+<img src="../images/Undergrads/robot2.png" width = "100%">
+[Link:] (https://ceias.nau.edu/capstone/projects/EE/2018/OrdnanceDisposal1/)
+
+Explosive Ordnance Disposal Robot Design
+Team Members: Cody Warner, Sixian Zhang, Yazhou Li, Zening Wen, Huiwen Chu
+<img src="../images/Undergrads/EOD.png" width = "100%">
+[Link:] (https://ceias.nau.edu/capstone/projects/EE/2018/OrdnanceDisposal2/home.html)
 
 
 <br>
