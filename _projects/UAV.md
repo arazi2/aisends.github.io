@@ -1,5 +1,5 @@
 ---
-title: "UAV Networks"
+title: "Proactive Inverse Learning of Network Topology for Predictive Communication among Unmanned Vehicles"
 collection: projects
 permalink: /project/UAV
 # excerpt: 'TBD'
@@ -15,7 +15,10 @@ date: 2023-10-31
 
 This project aims to implement an inverse learning framework for Autonomous Vehicles (AVs) for motion-based anomaly detection by modeling and discovering the target decision-making process. we consider the mobility of AVs as a key example of AI-based action planning and aim to identify suspicious activities taken by intruding nodes.
 
+# NSF PRoject Number #2204721
+Abstract: The use of unmanned aerial vehicles (UAVs) has become commonplace in many applications nowadays. Like many other technologies, UAVs brings comfort and efficiency to the current practice in many applications while posing threats and safety issues. This project will advance the frontier of science in developing safer and more reliable aerial monitoring platforms while offering privacy and safety. Towards this goal, this project aims to make accurate predictions in a network of unmanned aerial vehicles, by using inverse learning techniques, so as to enable safer and more efficient operations.
 
+A smart observation system will be developed to constantly monitor the behavior of autonomous agents to identify suspicious activities by measuring their deviation from the most rational behavior under given conditions. The proposed research includes several steps: (i) to develop mechanisms to simulate the target node's perception of its surrounding environment (i.e., seeing the word from the target's eyes) using deep learning methods, (ii) to predict its rational behavior(s) under given conditions and available resources by modeling the target's decision making procedure through inverse learning (reading the target's brain), and (iii) to measure the level of trust by detecting rare but critical episodes of deviating from its expected rational behavior. In particular, the mobility of UAVs and their networking activities will be investigated as two important scenarios of malicious activities. This project is expected to result in developing new tools and algorithms for the action analysis of smart nodes that will be shared with the research community.
 
 ## Goal 1
   Develop a unified framework for mobility prediction while offering sufficient flexibility to consider class-specific properties for both aerial and ground unmanned vehicles (UAV/UGV). Our approach integrates model-based kinematics equations with a learning-based data-driven generative mode to enable online learning of class-specific motion capabilities with adaptive processing. Our method addresses the three largely overlooked properties of current methods, including (i) considering class-specific motion properties, (ii) addressing mixed traffic in the presence of human-controlled and Al-based autonomous vehicles, and (iii) addressing rare but informative events.
