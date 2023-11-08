@@ -55,15 +55,26 @@ This is an in-progress work and the early results will appear on Asilomar Confer
 ## Research Task 4: Daviesity-Maximizing Data Accumulation
 The broaden the impact of this project to a more general setup of federated learning among autonomous vehicles, the second student is tasked to develop a theoretical foundation for diversity-maximizing data aggregation from autonomous nodes under uncertain networking environments. To this end, we developed a new framework that integrates rate-distortion (RD) theory with determinantal point processes (DPP) to develop a diversity-enhancing data aggregation policy for unmanned ground and aerial vehicles (UGV/UAV) that enhances the quality of deep learning algorithms under federate learning paradigm.  The core idea is to gather imagery from distributed data sets among UAV/UGV nodes that collectively best represent the geometrical features of the entire data set. 
 
-<img src="../images/UAV/DPP1.png" width = "80%">
-This is an in-progress work and the early results will are presented in this [Preprint] (https://arxiv.org/pdf/2306.02497.pdf) . 
-
-
-
-## Research Taks 4: Networking Under Predicted Topology
- The third objective is utilizing the developed framework to predict network topology and channel conditions to enhance networking efficiency (Al-based networking) and identify malicious nodes that make networking decisions inconsistent with the network status based on their own decision-making approach.
-
+<img src="../images/UAV/DPP1.jpg" width = "80%">
 <img src="../images/UAV/DPP2.jpg" width = "80%">
+
+This is an in-progress work and the early results will are presented in this [Preprint] (https://arxiv.org/pdf/2306.02497.pdf) and [Preprint] (https://arxiv.org/pdf/2306.02497.pdf). 
+
+## Research Taks 5: Networking Under Predicted Topology
+A Key objective of this project is utilizing the predicted network topology and channel conditions to enhance networking efficiency (Al-based networking). To this end, we implemented an application-oriented data-centric communication framework for drones operate using WiFi and LTE communications in collaboration with MIT-Lincoln Lab.
+
+<img src="../images/UAV/AppSys.png" width = "80%">
+For more details, read [this paper] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10060823)
+
+
+## Research Taks 6: Acutator Trajectory Planning
+We made some initial tests on extending the trajectory planning for actuator UAVs taht onclude overhead manipulators. The goal is to develop RL algorithms to achive a desired tip trajectory for a given base trajectory.
+
+<img src="../images/UAV/Actuator.png" width = "100%">
+
+Preliminary results can be found in [this paper presented in SwarmNet 2023 Workshop] (https://arxiv.org/pdf/2308.12843.pdf)
+
+
 
 
 <br>
