@@ -128,7 +128,7 @@ Three new undergraduate students (Michael Elrod, Rayid Masoo, John Suchanek)  ar
 # Outcomes
 The following papers are the outcome of completing this project. 4 accepted, 1 under review, and 1 in preparation.
 
-## A PhD dissertation titled "Predictive Communications for UAVs" by Arnau Rovira-Sugranes, who was supported by this project.
+## A PhD dissertation titled "Predictive Communications for UAVs" by Arnau Rovira-Sugranes, who was supported by this project. Here is the [Link] (https://www.proquest.com/docview/2572567413?pq-origsite=gscholar&fromopenview=true)
 
 ## Journal articles:
   - Razi, A., Chen, X., Li, H., Wang, H., Russo, B., Chen, Y., & Yu, H. (2022). Deep learning serves traffic safety analysis: A forward‐looking review. IET Intelligent Transport Systems.
@@ -172,6 +172,7 @@ The following papers are the outcome of completing this project. 4 accepted, 1 u
 This project provides content for CPSC 4820/6820 titled "AI for Autonomous Vehicles", especially developing several hands-on projects, training modules, and simulation scenarios in virtual environments (SUMO, Webots, Carla).
 Here is the syllabus for this [course] ().
 
+# Capstone Projects
 
 
 <br>
@@ -189,18 +190,6 @@ Here is the syllabus for this [course] ().
 <br>
 <br>
 <br>
-
-
-# Outreach
-
-
-
-
-<br>
-<br>
-<br>
-
-
 
 
 # Broader Impacts
