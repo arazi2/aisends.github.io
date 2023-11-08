@@ -74,6 +74,12 @@ We made some initial tests on extending the trajectory planning for actuator UAV
 
 Preliminary results can be found in [this paper presented in SwarmNet 2023 Workshop] (https://arxiv.org/pdf/2308.12843.pdf)
 
+## Research Taks 7: Anomaly Detection and Safety Monitoring
+An ultimate goal of thsi project is Anomaly Detection, or identifying Agents' actions that are not fully aligned with the expected rational behavior obtained by Inverse Learning.  This Aspect includes (i) developing a reverse engineering framework that monitors the environment and target's actions to discover its decision-making strategy, as a baseline, and (ii)  to identify deviations from predicted behavior. The challenges include projecting the observer's perception of the environment to the target's perspective (seeing the world from the target's eyes), determining the target's ultimate goal and reward-generation process (reading the agent's brain), and including potentially unknown factors in the decision-making strategy. To this end, we develoed a set of Network-Level Safety Metrics (NSM) to guage the overal safety of traffic highway for mixture traffic. 
+
+<img src="../images/UAV/TSafety.png" width = "100%">
+
+For more information, please read this [article] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9954361)
 
 
 
@@ -82,22 +88,8 @@ Preliminary results can be found in [this paper presented in SwarmNet 2023 Works
 <br>
 
 
-
-# Project Activities
-
-
-
-
-
-## Task 3
-  In order to implement the developed protocols in more realistic setups and investigate their performance in real-world conditions, we implemented an application-oriented data-centric communication framework for drones operate using WiFi and LTE communications in collaboration with MIT-Lincoln Lab that resulted in a paper in the IEEE 20th Consumer Com Consumer Communications & Networking Conference (CCNC). 
-
-
-## Task 4
-  We also included two new undergraduate students to simulate the testing scenarios in simulation environments, including Carla (for AVs), and Microsoft AirSIM (for drones). These two students already graduated. We requested REU supplement funding to include two new undergraduate students in the coming year. We appreciate NSF for approving our requests. Currently, I am in the process of identifying and recruiting new two qualified students to work on implementing test scenarios in simulation environments and drone platforms to validate our previous research results and explore new research problems. 
-
-
-### Beyond the developed activities, we further extended the activities by developing trajectory planning for drones equipped with overhead manipulators, with preliminary results published at the PiMRC conference. 
+## Undergraduate Research
+Two new undergraduate students (Michael Elrod, Rayid Masoo) are recruitted to simulate the testing scenarios in simulation environments, including Carla (for AVs), and Microsoft AirSIM or ROS/Gazebo (for drones). These two students are wlso working on developing collective path planning algorithms for UAV swamrs to collectively accomplsih a designated tasks under imperfect observations.
 
 
 
@@ -107,17 +99,12 @@ Preliminary results can be found in [this paper presented in SwarmNet 2023 Works
 
 
 ** Goal 2
-The second goal of our project is to develop a reverse engineering framework that monitors the environment and target's actions to discover its decision-making strategy, as a baseline to identify deviations from predicted behavior. The challenges include projecting the observer's perception of the environment to the target's perspective (seeing the world from the target's eyes), determining the target's ultimate goal and reward-generation process (reading the agent's brain), and including potentially unknown factors in the decision-making strategy.
-
 
  <img src="../images/UAV/uav_4.png" width = "80%">
 
 
 
 
-
-# Significant Results
-We are delighted that our activities resulted in several high-quality papers (4 accepted and 2 under review). The key achievement of our activities in the last year was bridging two independent research paradigms based (RD) on rate-distortion theory and determinantal point processes (DPP) which provides a mathematical foundation to assess the quality of defeated learning applications for autonomous ground and aerial vehicles. This work is completed for unconstrained networking, and we are working toward addressing constrained networking and dynamic conditions. We also have implemented an optimization framework by imposing fairness on class labels (instead of network resources) and using game theoretic optimization that implicitly promotes diversity among aggregated data batches. Beyond our planned activities and to broaden the impacts of the developed research, we explore new extensions by integrating the developed networking protocols with trajectory design for actuator drones and also to extend the developed strategies to secure networking in the supply chain. The preliminary results of these new dimensions are presented at two IEEE conferences (CCSI, and CCNC). 
 
 <br>
 <br>
