@@ -71,6 +71,8 @@ For more details, read [this paper] (https://ieeexplore.ieee.org/stamp/stamp.jsp
 We made some initial tests on extending the trajectory planning for actuator UAVs taht onclude overhead manipulators. The goal is to develop RL algorithms to achive a desired tip trajectory for a given base trajectory.
 
 <img src="../images/UAV/Actuator.png" width = "100%">
+<img src="../images/UAV/Actuator1.gif" width = "100%">
+![]("../images/UAV/Actuator1.gif")
 
 Preliminary results can be found in [this paper presented in SwarmNet 2023 Workshop] (https://arxiv.org/pdf/2308.12843.pdf)
 
