@@ -21,7 +21,9 @@ This project aims to implement an inverse learning framework for Autonomous Vehi
 
 A smart observation system will be developed to constantly monitor the behavior of autonomous agents to identify suspicious activities by measuring their deviation from the most rational behavior under given conditions. The proposed research includes several steps: (i) to develop mechanisms to simulate the target node's perception of its surrounding environment (i.e., seeing the word from the target's eyes) using deep learning methods, (ii) to predict its rational behavior(s) under given conditions and available resources by modeling the target's decision making procedure through inverse learning (reading the target's brain), and (iii) to measure the level of trust by detecting rare but critical episodes of deviating from its expected rational behavior. In particular, the mobility of UAVs and their networking activities will be investigated as two important scenarios of malicious activities. This project is expected to result in developing new tools and algorithms for the action analysis of smart nodes that will be shared with the research community.
 
-## Research Goal 1
+The following are some Activites/Products of this Research.
+
+## Research Tasks 1
   Develop a unified framework for mobility prediction while offering sufficient flexibility to consider class-specific properties for both aerial and ground unmanned vehicles (UAV/UGV). Our approach integrates model-based kinematics equations with a learning-based data-driven generative mode to enable online learning of class-specific motion capabilities with adaptive processing. Our method addresses the three largely overlooked properties of current methods, including (i) considering class-specific motion properties, (ii) addressing mixed traffic in the presence of human-controlled and Al-based autonomous vehicles, and (iii) addressing rare but informative events.
 
 
@@ -36,15 +38,23 @@ For more information read this [Article] (https://ieeexplore.ieee.org/stamp/stam
 
 
 
-## Goal 2
- The second goal of our project is to develop a reverse engineering framework that monitors the environment and target's actions to discover its decision-making strategy, as a baseline to identify deviations from predicted behavior. The challenges include projecting the observer's perception of the environment to the target's perspective (seeing the world from the target's eyes), determining the target's ultimate goal and reward-generation process (reading the agent's brain), and including potentially unknown factors in the decision-making strategy.
+## Research Tasks 2
+We develop optimal data aggregation methods for autonomous vehicles under dynamic environments, by predicting the motion of surrounding vehicles. This project involved developing AI-based scheduling and cooperative perception algorithms for autonomous vehicles and supporting infrastructure. The AI-based scheduling aims to collect data from roadside units (RSUs) to develop learning-based models while accommodating the requirements of dynamic network topology and networking constraints. Our approach to this problem is imposing fairness on class labels (instead of node resources) that enhance the quality of developed models by enhancing the diversity of collected data. We use game theoretic optimization to solve the resulting non-linear non-convex problem. The work opens a new avenue to develop federated learning applications among drones and AVs while meticulously addressing the networking constraints in terms of available channel bandwidth and affordable delay. The results of this research are published as two conference papers in the 48th IEEE Conference on Local Computer Networks (LCN) and the Asilomar Conference on Signals, Systems, and Computers. 
+<img src="../images/UAV/AV_1.jpg" width = "80%">
+For more information read this [Article] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10223373)
+
+
+
+
+
+The second goal of our project is to develop a reverse engineering framework that monitors the environment and target's actions to discover its decision-making strategy, as a baseline to identify deviations from predicted behavior. The challenges include projecting the observer's perception of the environment to the target's perspective (seeing the world from the target's eyes), determining the target's ultimate goal and reward-generation process (reading the agent's brain), and including potentially unknown factors in the decision-making strategy.
 
 
  <img src="../images/UAV/uav_4.png" width = "80%">
 
 
 
-## Goal 3
+## Research Taks 3
  The third objective is utilizing the developed framework to predict network topology and channel conditions to enhance networking efficiency (Al-based networking) and identify malicious nodes that make networking decisions inconsistent with the network status based on their own decision-making approach.
 
  <img src="../images/UAV/uav_5.png" width = "80%">
@@ -59,7 +69,7 @@ For more information read this [Article] (https://ieeexplore.ieee.org/stamp/stam
 # Project Activities
 
 ## Task 1
-  We develop optimal data aggregation methods for autonomous vehicles under dynamic environments, by predicting the motion of surrounding vehicles. This project involved developing AI-based scheduling and cooperative perception algorithms for autonomous vehicles and supporting infrastructure. The AI-based scheduling aims to collect data from roadside units (RSUs) to develop learning-based models while accommodating the requirements of dynamic network topology and networking constraints. Our approach to this problem is imposing fairness on class labels (instead of node resources) that enhance the quality of developed models by enhancing the diversity of collected data. We use game theoretic optimization to solve the resulting non-linear non-convex problem. The work opens a new avenue to develop federated learning applications among drones and AVs while meticulously addressing the networking constraints in terms of available channel bandwidth and affordable delay. The results of this research are published as two conference papers in the 48th IEEE Conference on Local Computer Networks (LCN) and the Asilomar Conference on Signals, Systems, and Computers. 
+We develop optimal data aggregation methods for autonomous vehicles under dynamic environments, by predicting the motion of surrounding vehicles. This project involved developing AI-based scheduling and cooperative perception algorithms for autonomous vehicles and supporting infrastructure. The AI-based scheduling aims to collect data from roadside units (RSUs) to develop learning-based models while accommodating the requirements of dynamic network topology and networking constraints. Our approach to this problem is imposing fairness on class labels (instead of node resources) that enhance the quality of developed models by enhancing the diversity of collected data. We use game theoretic optimization to solve the resulting non-linear non-convex problem. The work opens a new avenue to develop federated learning applications among drones and AVs while meticulously addressing the networking constraints in terms of available channel bandwidth and affordable delay. The results of this research are published as two conference papers in the 48th IEEE Conference on Local Computer Networks (LCN) and the Asilomar Conference on Signals, Systems, and Computers. 
 
 
 
