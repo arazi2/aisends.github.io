@@ -23,7 +23,7 @@ A smart observation system will be developed to constantly monitor the behavior 
 
 The following are some Activites/Products of this Research.
 
-## Research Tasks 1
+## Research Tasks 1: Mobility Prediction and Profiling
   Develop a unified framework for mobility prediction while offering sufficient flexibility to consider class-specific properties for both aerial and ground unmanned vehicles (UAV/UGV). Our approach integrates model-based kinematics equations with a learning-based data-driven generative mode to enable online learning of class-specific motion capabilities with adaptive processing. Our method addresses the three largely overlooked properties of current methods, including (i) considering class-specific motion properties, (ii) addressing mixed traffic in the presence of human-controlled and Al-based autonomous vehicles, and (iii) addressing rare but informative events.
 
 
@@ -38,26 +38,32 @@ For more information read this [Article] (https://ieeexplore.ieee.org/stamp/stam
 
 
 
-## Research Tasks 2
-We develop optimal data aggregation methods for autonomous vehicles under dynamic environments, by predicting the motion of surrounding vehicles. This project involved developing AI-based scheduling and cooperative perception algorithms for autonomous vehicles and supporting infrastructure. The AI-based scheduling aims to collect data from roadside units (RSUs) to develop learning-based models while accommodating the requirements of dynamic network topology and networking constraints. Our approach to this problem is imposing fairness on class labels (instead of node resources) that enhance the quality of developed models by enhancing the diversity of collected data. We use game theoretic optimization to solve the resulting non-linear non-convex problem. The work opens a new avenue to develop federated learning applications among drones and AVs while meticulously addressing the networking constraints in terms of available channel bandwidth and affordable delay. The results of this research are published as two conference papers in the 48th IEEE Conference on Local Computer Networks (LCN) and the Asilomar Conference on Signals, Systems, and Computers. 
+## Research Tasks 2: Perception and Collective Learning Under Imperfect Communication
+We develop optimal data aggregation methods for Autonomous Vehicles (AVs) under dynamic environments, by predicting the motion of surrounding vehicles. This project involved developing AI-based scheduling and cooperative perception algorithms for autonomous vehicles and supporting infrastructure. The AI-based scheduling aims to collect data from roadside units (RSUs) to develop learning-based models while accommodating the requirements of dynamic network topology and networking constraints. Our approach to this problem is imposing fairness on class labels (instead of node resources) that enhance the quality of developed models by enhancing the diversity of collected data. We use game theoretic optimization to solve the resulting non-linear non-convex problem. The work opens a new avenue to develop federated learning applications among drones and AVs while meticulously addressing the networking constraints in terms of available channel bandwidth and affordable delay. The preliminary results of this research are published in the 48th IEEE Conference on Local Computer Networks (LCN). 
 <img src="../images/UAV/AV_1.jpg" width = "80%">
 For more information read this [Article] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10223373)
 
 
 
+## Research Tasks 3: Cooperative Perception
+To enable better perception of Environment, we are working to develop cooperative perception algorithm, where different vehicles share their cameras to extend their visual range. 
+
+ <img src="../images/UAV/AV_2.png" width = "80%">
+This is an in-progress work and the early results will appear on Asilomar Conference on Signals Systems and Computers, 2023.
 
 
-The second goal of our project is to develop a reverse engineering framework that monitors the environment and target's actions to discover its decision-making strategy, as a baseline to identify deviations from predicted behavior. The challenges include projecting the observer's perception of the environment to the target's perspective (seeing the world from the target's eyes), determining the target's ultimate goal and reward-generation process (reading the agent's brain), and including potentially unknown factors in the decision-making strategy.
+## Research Task 4: Daviesity-Maximizing Data Accumulation
+The broaden the impact of this project to a more general setup of federated learning among autonomous vehicles, the second student is tasked to develop a theoretical foundation for diversity-maximizing data aggregation from autonomous nodes under uncertain networking environments. To this end, we developed a new framework that integrates rate-distortion (RD) theory with determinantal point processes (DPP) to develop a diversity-enhancing data aggregation policy for unmanned ground and aerial vehicles (UGV/UAV) that enhances the quality of deep learning algorithms under federate learning paradigm.  The core idea is to gather imagery from distributed data sets among UAV/UGV nodes that collectively best represent the geometrical features of the entire data set. 
+
+<img src="../images/UAV/DPP1.png" width = "80%">
+This is an in-progress work and the early results will are presented in this [Preprint] (https://arxiv.org/pdf/2306.02497.pdf) . 
 
 
- <img src="../images/UAV/uav_4.png" width = "80%">
 
-
-
-## Research Taks 3
+## Research Taks 4: Networking Under Predicted Topology
  The third objective is utilizing the developed framework to predict network topology and channel conditions to enhance networking efficiency (Al-based networking) and identify malicious nodes that make networking decisions inconsistent with the network status based on their own decision-making approach.
 
- <img src="../images/UAV/uav_5.png" width = "80%">
+<img src="../images/UAV/DPP2.jpg" width = "80%">
 
 
 <br>
@@ -68,14 +74,8 @@ The second goal of our project is to develop a reverse engineering framework tha
 
 # Project Activities
 
-## Task 1
-We develop optimal data aggregation methods for autonomous vehicles under dynamic environments, by predicting the motion of surrounding vehicles. This project involved developing AI-based scheduling and cooperative perception algorithms for autonomous vehicles and supporting infrastructure. The AI-based scheduling aims to collect data from roadside units (RSUs) to develop learning-based models while accommodating the requirements of dynamic network topology and networking constraints. Our approach to this problem is imposing fairness on class labels (instead of node resources) that enhance the quality of developed models by enhancing the diversity of collected data. We use game theoretic optimization to solve the resulting non-linear non-convex problem. The work opens a new avenue to develop federated learning applications among drones and AVs while meticulously addressing the networking constraints in terms of available channel bandwidth and affordable delay. The results of this research are published as two conference papers in the 48th IEEE Conference on Local Computer Networks (LCN) and the Asilomar Conference on Signals, Systems, and Computers. 
 
 
-
-
-## Task 2
-  The broaden the impact of this project to a more general setup of federated learning among autonomous vehicles, the second student is tasked to develop a theoretical foundation for diversity-maximizing data aggregation from autonomous nodes under uncertain networking environments. To this end, we developed a new framework that integrates rate-distortion (RD) theory with determinantal point processes (DPP) to develop a diversity-enhancing data aggregation policy for unmanned ground and aerial vehicles (UGV/UAV) that enhances the quality of deep learning algorithms under federate learning paradigm.  The core idea is to collect imagery from distributed data sets among UAV/UGV nodes that collectively best represent the geometrical features of the entire data set. A paper presenting the results of this RD-DPP framework is under review for the AAAI Conference and hopefully will be reported in the reporting cycle. 
 
 
 ## Task 3
@@ -93,6 +93,16 @@ We develop optimal data aggregation methods for autonomous vehicles under dynami
 <br>
 <br>
 <br>
+
+
+** Goal 2
+The second goal of our project is to develop a reverse engineering framework that monitors the environment and target's actions to discover its decision-making strategy, as a baseline to identify deviations from predicted behavior. The challenges include projecting the observer's perception of the environment to the target's perspective (seeing the world from the target's eyes), determining the target's ultimate goal and reward-generation process (reading the agent's brain), and including potentially unknown factors in the decision-making strategy.
+
+
+ <img src="../images/UAV/uav_4.png" width = "80%">
+
+
+
 
 
 # Significant Results
