@@ -31,22 +31,31 @@ The following are some Activities/Products of this Research.
   <img src="../images/UAV/uav_2.png" width = "80%">
 <br>
 
-For more information read this [Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8533579) 
+For more information read this [JCN Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8533579) 
+<br>
+<br>
 
 
 
 ## Research Tasks 2: Perception and Collective Learning Under Imperfect Communication
 We develop optimal data aggregation methods for Autonomous Vehicles (AVs) under dynamic environments, by predicting the motion of surrounding vehicles. This project involved developing AI-based scheduling and cooperative perception algorithms for autonomous vehicles and supporting infrastructure. The AI-based scheduling aims to collect data from roadside units (RSUs) to develop learning-based models while accommodating the requirements of dynamic network topology and networking constraints. Our approach to this problem is imposing fairness on class labels (instead of node resources) that enhance the quality of developed models by enhancing the diversity of collected data. We use game theoretic optimization to solve the resulting non-linear non-convex problem. The work opens a new avenue to develop federated learning applications among drones and AVs while meticulously addressing the networking constraints in terms of available channel bandwidth and affordable delay. The preliminary results of this research are published in the 48th IEEE Conference on Local Computer Networks (LCN). 
+<br>
 <img src="../images/UAV/AV_1.jpg" width = "80%">
+<br>
 For more information read this [Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10223373)
 
+<br>
+<br>
 
 
 ## Research Tasks 3: Cooperative Perception
 To enable a better perception of the environment, we are working to develop an algorithm for cooperative perception, where different agents (AVs, or UAVs) share their cameras to extend their visual range. 
 
  <img src="../images/UAV/AV_cop.jpg" width = "80%">
+<br>
 This is an in-progress work and the early results will appear in the proceedings of the Asilomar Conference on Signals Systems and Computers, 2023.
+<br>
+<br>
 
 
 ## Research Task 4: Daviesity-Maximizing Data Accumulation
@@ -55,14 +64,20 @@ To broaden the impact of this project to a more general setup of federated learn
 <img src="../images/UAV/DPP1.jpg" width = "80%">
 <img src="../images/UAV/DPP2.jpg" width = "80%">
 
+<br>
 This is an in-progress work and the early results will be presented in this [Preprint](https://arxiv.org/pdf/2306.02497.pdf) and [Preprint](https://arxiv.org/pdf/2306.02497.pdf). 
+<br>
+<br>
 
 ## Research Task 5: Networking Under Predicted Topology
 A Key objective of this project is utilizing the predicted network topology and channel conditions to enhance networking efficiency (Al-based networking). To this end, we implemented an application-oriented data-centric communication framework for drones to operate using WiFi and LTE communications in collaboration with MIT-Lincoln Lab.
 
 <img src="../images/UAV/AppSys.png" width = "80%">
+<br>
 For more details, read [this paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10060823)
 
+<br>
+<br>
 
 ## Research Task 6: Actuator Trajectory Planning
 We made some initial tests on extending the trajectory planning for actuator UAVs that include overhead manipulators. The goal is to develop RL algorithms to achieve a desired tip trajectory for a given base trajectory.
@@ -71,14 +86,20 @@ We made some initial tests on extending the trajectory planning for actuator UAV
 <img src="../images/UAV/Actuator1.gif" width = "100%">
 ![]("../images/UAV/Actuator2.gif")
 
+<br>
 Preliminary results can be found in [this paper presented in SwarmNet 2023 Workshop](https://arxiv.org/pdf/2308.12843.pdf)
+<br>
+<br>
 
 ## Research Task 7: Anomaly Detection and Safety Monitoring
 The ultimate goal of this project is Anomaly Detection, or identifying Agents' actions that are not fully aligned with the expected rational behavior obtained by Inverse Learning.  This Aspect includes (i) developing a reverse engineering framework that monitors the environment and target's actions to discover its decision-making strategy, as a baseline, and (ii)  identifying deviations from predicted behavior. The challenges include projecting the observer's perception of the environment to the target's perspective (seeing the world from the target's eyes), determining the target's ultimate goal and reward-generation process (reading the agent's brain), and including potentially unknown factors in the decision-making strategy. To this end, we develop a set of Network-Level Safety Metrics (NSM) to gauge the overall safety of traffic highways with mixt traffic of regular and self-driving vehicles. 
 
 <img src="../images/UAV/TSafety.png" width = "100%">
+<br>
 
 For more information, please read this [article](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9954361)
+<br>
+<br>
 
 ## Other Research Tasks
 Other tasks include developing a learning-based framework for channel error recovery that utilizes sequential learning for exploiting long-term relations among video frames at a bit level.  We also developed algorithms for small object tracking with UAVs as part of this project. 
@@ -173,31 +194,42 @@ Here is the syllabus for this [course](<a href="file:///files/file.pdf">link</a>
 
 # Capstone Projects
 EduPlatCommPro-S19. The Educational Platform for Communication Protocols: AY2018-19
+<br>
 Team Members: Christopher Thompson, Tyler Halperin, Tyler Criss, Huayu Li
+<br>
 [Link:](https://ceias.nau.edu/capstone/projects/EE/2019/EduPlatCommPro-S19/)
+<br>
+<br>
 
 
 Ground Robotic Design for Predictive Communications
+<br>
 Team Members: Fahad Almaraghi, Yuting Zhang, Qiyuan Huang, Chaoju Wang, Hanxiao Lu
+<br>
 <img src="../images/Undergrads/robot1.png" width = "100%">
 ([Link:](https://ceias.nau.edu/capstone/projects/EE/2018/OrdnanceDisposal1/))
+<br>
+<br>
 
 
 Explosive Ordnance Disposal Robot Design
+<br>
 Team Members: Cody Warner, Sixian Zhang, Yazhou Li, Zening Wen, Huiwen Chu
+<br>
 <img src="../images/Undergrads/EOD.png" width = "100%">
 [Link:](https://ceias.nau.edu/capstone/projects/EE/2018/OrdnanceDisposal2/home.html)
+<br>
+<br>
+<br>
 
 
-<br>
-<br>
-<br>
 
 
 
 # Codes
 
 [Network Level Safety Metrics] (https://github.com/XiwenChen-Clemson/Network-level-safety-metrics)
+<br>
 [Subband Pyramid Network: A new Attention Mechanism for DL] (https://github.com/HuayuLiNAU/Subband-Pyramid-Network)
 
 
@@ -210,5 +242,7 @@ Team Members: Cody Warner, Sixian Zhang, Yazhou Li, Zening Wen, Huiwen Chu
 # Broader Impacts
 This project will produce new methods, algorithms, tools, software packages, and product prototypes usable by the CISE research community. This project is expected to advance the frontier of knowledge in the intersection of AI and wireless networking by developing learning algorithms for networking protocols. Our plan will impact the US economy by reducing the networking cost by lubricating the information flow machinery by incorporating the perception of the surrounding environment into networking protocols. The developed knowledge will be incorporated as project topics into related courses in both networking and AI fields taught by the PI and other faculty that impact the large population of female and underrepresented students, especially from Native American and Hispanic origins at NAU. The PI’s several years of industrial experience will help him to translate the developed technology into proof-of-concept products, demos, and patents. The PI plans to apply for the supplement NSF REU grant to translate the research results into projects appropriate for undergraduate students.
 
+<br>
+<br>
 
 
