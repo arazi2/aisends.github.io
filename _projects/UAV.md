@@ -190,7 +190,7 @@ The following papers are the outcome of completing this project. 4 accepted, 1 u
 
 # Training Opportunities
 This project provides content for CPSC 4820/6820 titled "AI for Autonomous Vehicles", especially developing several hands-on projects, training modules, and simulation scenarios in virtual environments (SUMO, Webots, Carla).
-Here is the syllabus for this [course](//files/file.pdf).
+Here is the syllabus for this [course](//files/CPSC4820Syllabus.pdf).
 
 # Capstone Projects
 EduPlatCommPro-S19. The Educational Platform for Communication Protocols: AY2018-19
