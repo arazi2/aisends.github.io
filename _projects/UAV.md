@@ -228,9 +228,9 @@ Team Members: Cody Warner, Sixian Zhang, Yazhou Li, Zening Wen, Huiwen Chu
 
 # Codes
 
-[Network Level Safety Metrics] (https://github.com/XiwenChen-Clemson/Network-level-safety-metrics)
+[Network Level Safety Metrics](https://github.com/XiwenChen-Clemson/Network-level-safety-metrics)
 <br>
-[Subband Pyramid Network: A new Attention Mechanism for DL] (https://github.com/HuayuLiNAU/Subband-Pyramid-Network)
+[Subband Pyramid Network: A new Attention Mechanism for DL](https://github.com/HuayuLiNAU/Subband-Pyramid-Network)
 
 
 
