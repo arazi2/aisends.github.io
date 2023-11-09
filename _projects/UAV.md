@@ -30,11 +30,8 @@ The following are some Activities/Products of this Research.
   <img src="../images/UAV/uav_1.png" width = "80%">
   <img src="../images/UAV/uav_2.png" width = "80%">
 <br>
+
 For more information read this [Article] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8533579) 
-
-[//]: #  <img src="../images/UAV/uav_3.png" width = "100%">
-
-
 
 
 
@@ -48,7 +45,7 @@ For more information read this [Article] (https://ieeexplore.ieee.org/stamp/stam
 ## Research Tasks 3: Cooperative Perception
 To enable a better perception of the environment, we are working to develop an algorithm for cooperative perception, where different agents (AVs, or UAVs) share their cameras to extend their visual range. 
 
- <img src="../images/UAV/AV_2.png" width = "80%">
+ <img src="../images/UAV/AV_cop.png" width = "80%">
 This is an in-progress work and the early results will appear in the proceedings of the Asilomar Conference on Signals Systems and Computers, 2023.
 
 
@@ -92,7 +89,7 @@ Other tasks include developing a learning-based framework for channel error reco
 
 
 ## Undergraduate Research
-Three undergraduate students (Michael Elrod, Rayid Masoo, and John Suchanek)  are recruited to simulate the testing scenarios in simulation environments such as Microsoft AirSIM or ROS/Gazebo (for drones). These two students are also working on developing collective path-planning algorithms for UAV swarms to collectively accomplish a designated task under imperfect observations. Another student is working to develop practical platform for actuator drones.
+Three undergraduate students (Michael Elrod, Rayid Masoo, and John Suchanek)  are recruited to simulate the testing scenarios in simulation environments such as Microsoft AirSIM or ROS/Gazebo (for drones). These two students are also working on developing collective path-planning algorithms for UAV swarms to collectively accomplish a designated task under imperfect observations. Another student is working to develop a practical platform for actuator drones.
 
 
 
@@ -102,9 +99,6 @@ Three undergraduate students (Michael Elrod, Rayid Masoo, and John Suchanek)  ar
 
 
 # Project Team
-<img src="../images/Lab/RaziTeam2.jpeg" width = "100%">
-<img src="../images/Lab/RaziUndergrads.jpg" width = "100%">
-
 ## PI: Dr. Abolfazl Razi [arazi@clemson.edu](mailto:arazi@clemson.edu)
 
 ## Graduate Students:
@@ -120,6 +114,8 @@ Three undergraduate students (Michael Elrod, Rayid Masoo, and John Suchanek)  ar
 -	Rayid Alimasoo
 -	John Suchanek
 
+<img src="../images/Lab/RaziTeam2.jpeg" width = "80%">
+<img src="../images/Lab/RaziUndergrads.jpg" width = "80%">
 
 <br>
 <br>
@@ -200,7 +196,7 @@ Team Members: Cody Warner, Sixian Zhang, Yazhou Li, Zening Wen, Huiwen Chu
 
 
 # Codes
-[DPP (Xiwen Chen)]()
+
 [Network Level Safety Metrics] (https://github.com/XiwenChen-Clemson/Network-level-safety-metrics)
 [Subband Pyramid Network: A new Attention Mechanism for DL] (https://github.com/HuayuLiNAU/Subband-Pyramid-Network)
 
