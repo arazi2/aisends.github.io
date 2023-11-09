@@ -45,7 +45,7 @@ For more information read this [Article] (https://ieeexplore.ieee.org/stamp/stam
 ## Research Tasks 3: Cooperative Perception
 To enable a better perception of the environment, we are working to develop an algorithm for cooperative perception, where different agents (AVs, or UAVs) share their cameras to extend their visual range. 
 
- <img src="../images/UAV/AV_cop.png" width = "80%">
+ <img src="../images/UAV/AV_cop.jpg" width = "80%">
 This is an in-progress work and the early results will appear in the proceedings of the Asilomar Conference on Signals Systems and Computers, 2023.
 
 
@@ -69,7 +69,7 @@ We made some initial tests on extending the trajectory planning for actuator UAV
 
 <img src="../images/UAV/Actuator.png" width = "100%">
 <img src="../images/UAV/Actuator1.gif" width = "100%">
-![]("../images/UAV/Actuator1.gif")
+![]("../images/UAV/Actuator2.gif")
 
 Preliminary results can be found in [this paper presented in SwarmNet 2023 Workshop] (https://arxiv.org/pdf/2308.12843.pdf)
 
@@ -209,12 +209,6 @@ Team Members: Cody Warner, Sixian Zhang, Yazhou Li, Zening Wen, Huiwen Chu
 
 # Broader Impacts
 This project will produce new methods, algorithms, tools, software packages, and product prototypes usable by the CISE research community. This project is expected to advance the frontier of knowledge in the intersection of AI and wireless networking by developing learning algorithms for networking protocols. Our plan will impact the US economy by reducing the networking cost by lubricating the information flow machinery by incorporating the perception of the surrounding environment into networking protocols. The developed knowledge will be incorporated as project topics into related courses in both networking and AI fields taught by the PI and other faculty that impact the large population of female and underrepresented students, especially from Native American and Hispanic origins at NAU. The PI’s several years of industrial experience will help him to translate the developed technology into proof-of-concept products, demos, and patents. The PI plans to apply for the supplement NSF REU grant to translate the research results into projects appropriate for undergraduate students.
-
-
-
-
-
-
 
 
 
