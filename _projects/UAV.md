@@ -17,11 +17,11 @@ This project aims to implement an inverse learning framework for Autonomous Vehi
 
 # NSF Project Number #2204721
 
-**Abstract:** The use of unmanned aerial vehicles (UAVs) has become commonplace in many applications nowadays. Like many other technologies, UAVs brings comfort and efficiency to the current practice in many applications while posing threats and safety issues. This project will advance the frontier of science in developing safer and more reliable aerial monitoring platforms while offering privacy and safety. Towards this goal, this project aims to make accurate predictions in UAV networks, by using ** Inverse Learning** techniques, so as to enable safer and more efficient operations.
+**Abstract:** The use of unmanned aerial vehicles (UAVs) has become commonplace in many applications nowadays. Like many other technologies, UAVs bring comfort and efficiency to the current practice in many applications while posing threats and safety issues. This project will advance the frontier of science in developing safer and more reliable aerial monitoring platforms while offering privacy and safety. Towards this goal, this project aims to make accurate predictions in UAV networks, by using ** Inverse Learning** techniques, so as to enable safer and more efficient operations.
 
-A smart observation system will be developed to constantly monitor the behavior of autonomous agents to identify suspicious activities by measuring their deviation from the most rational behavior under given conditions. The proposed research includes several steps: (i) to develop mechanisms to simulate the target node's perception of its surrounding environment (i.e., seeing the word from the target's eyes) using deep learning methods, (ii) to predict its rational behavior(s) under given conditions and available resources by modeling the target's decision making procedure through inverse learning (reading the target's brain), and (iii) to measure the level of trust by detecting rare but critical episodes of deviating from its expected rational behavior. In particular, the mobility of UAVs and their networking activities will be investigated as two important scenarios of malicious activities. This project is expected to result in developing new tools and algorithms for the action analysis of smart nodes that will be shared with the research community.
+A smart observation system will be developed to constantly monitor the behavior of autonomous agents to identify suspicious activities by measuring their deviation from the most rational behavior under given conditions. The proposed research includes several steps: (i) to develop mechanisms to simulate the target node's perception of its surrounding environment (i.e., seeing the word from the target's eyes) using deep learning methods, (ii) to predict its rational behavior(s) under given conditions and available resources by modeling the target's decision-making procedure through inverse learning (reading the target's brain), and (iii) to measure the level of trust by detecting rare but critical episodes of deviating from its expected rational behavior. In particular, the mobility of UAVs and their networking activities will be investigated as two important scenarios of malicious activities. This project is expected to result in the development of new tools and algorithms for the action analysis of smart nodes that will be shared with the research community.
 
-The following are some Activites/Products of this Research.
+The following are some Activities/Products of this Research.
 
 ## Research Tasks 1: Mobility Prediction and Profiling
   Develop a unified framework for mobility prediction while offering sufficient flexibility to consider class-specific properties for both aerial and ground unmanned vehicles (UAV/UGV). Our approach integrates model-based kinematics equations with a learning-based data-driven generative mode to enable online learning of class-specific motion capabilities with adaptive processing. Our method addresses the three largely overlooked properties of current methods, including (i) considering class-specific motion properties, (ii) addressing mixed traffic in the presence of human-controlled and Al-based autonomous vehicles, and (iii) addressing rare but informative events.
@@ -46,29 +46,29 @@ For more information read this [Article] (https://ieeexplore.ieee.org/stamp/stam
 
 
 ## Research Tasks 3: Cooperative Perception
-To enable better perception of Environment, we are working to develop cooperative perception algorithm, where different vehicles share their cameras to extend their visual range. 
+To enable a better perception of the environment, we are working to develop an algorithm for cooperative perception, where different agents (AVs, or UAVs) share their cameras to extend their visual range. 
 
  <img src="../images/UAV/AV_2.png" width = "80%">
-This is an in-progress work and the early results will appear on Asilomar Conference on Signals Systems and Computers, 2023.
+This is an in-progress work and the early results will appear in the proceedings of the Asilomar Conference on Signals Systems and Computers, 2023.
 
 
 ## Research Task 4: Daviesity-Maximizing Data Accumulation
-The broaden the impact of this project to a more general setup of federated learning among autonomous vehicles, the second student is tasked to develop a theoretical foundation for diversity-maximizing data aggregation from autonomous nodes under uncertain networking environments. To this end, we developed a new framework that integrates rate-distortion (RD) theory with determinantal point processes (DPP) to develop a diversity-enhancing data aggregation policy for unmanned ground and aerial vehicles (UGV/UAV) that enhances the quality of deep learning algorithms under federate learning paradigm.  The core idea is to gather imagery from distributed data sets among UAV/UGV nodes that collectively best represent the geometrical features of the entire data set. 
+To broaden the impact of this project to a more general setup of federated learning among autonomous vehicles, the second student is tasked to develop a theoretical foundation for diversity-maximizing data aggregation from autonomous nodes under uncertain networking environments. To this end, we developed a new framework that integrates rate-distortion (RD) theory with determinantal point processes (DPP) to develop a diversity-enhancing data aggregation policy for unmanned ground and aerial vehicles (UGV/UAV) that enhances the quality of deep learning algorithms under federate learning paradigm.  The core idea is to gather imagery from distributed data sets among UAV/UGV nodes that collectively best represent the geometrical features of the entire data set. 
 
 <img src="../images/UAV/DPP1.jpg" width = "80%">
 <img src="../images/UAV/DPP2.jpg" width = "80%">
 
-This is an in-progress work and the early results will are presented in this [Preprint] (https://arxiv.org/pdf/2306.02497.pdf) and [Preprint] (https://arxiv.org/pdf/2306.02497.pdf). 
+This is an in-progress work and the early results will be presented in this [Preprint] (https://arxiv.org/pdf/2306.02497.pdf) and [Preprint] (https://arxiv.org/pdf/2306.02497.pdf). 
 
-## Research Taks 5: Networking Under Predicted Topology
-A Key objective of this project is utilizing the predicted network topology and channel conditions to enhance networking efficiency (Al-based networking). To this end, we implemented an application-oriented data-centric communication framework for drones operate using WiFi and LTE communications in collaboration with MIT-Lincoln Lab.
+## Research Task 5: Networking Under Predicted Topology
+A Key objective of this project is utilizing the predicted network topology and channel conditions to enhance networking efficiency (Al-based networking). To this end, we implemented an application-oriented data-centric communication framework for drones to operate using WiFi and LTE communications in collaboration with MIT-Lincoln Lab.
 
 <img src="../images/UAV/AppSys.png" width = "80%">
 For more details, read [this paper] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10060823)
 
 
-## Research Taks 6: Acutator Trajectory Planning
-We made some initial tests on extending the trajectory planning for actuator UAVs taht onclude overhead manipulators. The goal is to develop RL algorithms to achive a desired tip trajectory for a given base trajectory.
+## Research Task 6: Actuator Trajectory Planning
+We made some initial tests on extending the trajectory planning for actuator UAVs that include overhead manipulators. The goal is to develop RL algorithms to achieve a desired tip trajectory for a given base trajectory.
 
 <img src="../images/UAV/Actuator.png" width = "100%">
 <img src="../images/UAV/Actuator1.gif" width = "100%">
@@ -76,14 +76,15 @@ We made some initial tests on extending the trajectory planning for actuator UAV
 
 Preliminary results can be found in [this paper presented in SwarmNet 2023 Workshop] (https://arxiv.org/pdf/2308.12843.pdf)
 
-## Research Taks 7: Anomaly Detection and Safety Monitoring
-An ultimate goal of thsi project is Anomaly Detection, or identifying Agents' actions that are not fully aligned with the expected rational behavior obtained by Inverse Learning.  This Aspect includes (i) developing a reverse engineering framework that monitors the environment and target's actions to discover its decision-making strategy, as a baseline, and (ii)  to identify deviations from predicted behavior. The challenges include projecting the observer's perception of the environment to the target's perspective (seeing the world from the target's eyes), determining the target's ultimate goal and reward-generation process (reading the agent's brain), and including potentially unknown factors in the decision-making strategy. To this end, we develoed a set of Network-Level Safety Metrics (NSM) to guage the overal safety of traffic highway for mixture traffic. 
+## Research Task 7: Anomaly Detection and Safety Monitoring
+The ultimate goal of this project is Anomaly Detection, or identifying Agents' actions that are not fully aligned with the expected rational behavior obtained by Inverse Learning.  This Aspect includes (i) developing a reverse engineering framework that monitors the environment and target's actions to discover its decision-making strategy, as a baseline, and (ii)  identifying deviations from predicted behavior. The challenges include projecting the observer's perception of the environment to the target's perspective (seeing the world from the target's eyes), determining the target's ultimate goal and reward-generation process (reading the agent's brain), and including potentially unknown factors in the decision-making strategy. To this end, we develop a set of Network-Level Safety Metrics (NSM) to gauge the overall safety of traffic highways with mixt traffic of regular and self-driving vehicles. 
 
 <img src="../images/UAV/TSafety.png" width = "100%">
 
 For more information, please read this [article] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9954361)
 
-
+## Other Research Tasks
+Other tasks include developing a learning-based framework for channel error recovery that utilizes sequential learning for exploiting long-term relations among video frames at a bit level.  We also developed algorithms for small object tracking with UAVs as part of this project. 
 
 <br>
 <br>
@@ -91,7 +92,7 @@ For more information, please read this [article] (https://ieeexplore.ieee.org/st
 
 
 ## Undergraduate Research
-Three new undergraduate students (Michael Elrod, Rayid Masoo, John Suchanek)  are recruitted to simulate the testing scenarios in simulation environments such as Microsoft AirSIM or ROS/Gazebo (for drones). These two students are wlso working on developing collective path planning algorithms for UAV swamrs to collectively accomplsih a designated tasks under imperfect observations. Another student is working to develop practical platform for actuator drones.
+Three undergraduate students (Michael Elrod, Rayid Masoo, and John Suchanek)  are recruited to simulate the testing scenarios in simulation environments such as Microsoft AirSIM or ROS/Gazebo (for drones). These two students are also working on developing collective path-planning algorithms for UAV swarms to collectively accomplish a designated task under imperfect observations. Another student is working to develop practical platform for actuator drones.
 
 
 
@@ -146,7 +147,7 @@ The following papers are the outcome of completing this project. 4 accepted, 1 u
 ## Conference Proceedings:
   - Li, H., Wu, H., Chen, X., Wang, H., & Razi, A. (2021, August). Towards boosting channel attention for real image denoising: Sub-band pyramid attention. In International Conference on Image and Graphics (pp. 303-314). Springer, Cham, 2021.
 
-  -  Qu, J., Zhang, Y., Zhou, K., & Razi, A. (2021, September). Long-Time Target Tracking Algorithm Based on Multi Feature Fusion and Correlation Filtering. In 2021 4th International Conference on Artificial Intelligence and Pattern Recognition (pp. 29-35), 2021.
+  -  Qu, J., Zhang, Y., Zhou, K., & Razi, A. (2021, September). Long-Time Target Tracking Algorithm Based on Multi-Feature Fusion and Correlation Filtering. In 2021 4th International Conference on Artificial Intelligence and Pattern Recognition (pp. 29-35), 2021.
 
   - Chen, X., Li, H., Qu, J., & Razi, A. (2021, January). Boosting Belief Propagation for LDPC Codes with Deep Convolutional Neural Network Predictors. In 2021 IEEE 18th Annual Consumer Communications & Networking Conference (CCNC) (pp. 1-6). IEEE.
   
