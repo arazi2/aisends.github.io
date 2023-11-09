@@ -206,7 +206,7 @@ Ground Robotic Design for Predictive Communications
 <br>
 Team Members: Fahad Almaraghi, Yuting Zhang, Qiyuan Huang, Chaoju Wang, Hanxiao Lu
 <br>
-<img src="../images/Undergrads/robot1.png" width = "100%">
+<img src="../images/UAV/robot1.png" width = "100%">
 ([Link:](https://ceias.nau.edu/capstone/projects/EE/2018/OrdnanceDisposal1/))
 <br>
 <br>
@@ -216,7 +216,7 @@ Explosive Ordnance Disposal Robot Design
 <br>
 Team Members: Cody Warner, Sixian Zhang, Yazhou Li, Zening Wen, Huiwen Chu
 <br>
-<img src="../images/Undergrads/EOD.png" width = "100%">
+<img src="../images/UAV/EOD.png" width = "100%">
 [Link:](https://ceias.nau.edu/capstone/projects/EE/2018/OrdnanceDisposal2/home.html)
 <br>
 <br>
