@@ -10,10 +10,10 @@ author_profile: true
 
 # Teaching at Clemson University
 ## Fall 2021, Fall 2022, Fall 2023
-* CPSC 4420/6420  Artificial Intelligence, [Syllabus](files/CPSC4420F23Syllabus.pdf)
+* CPSC 4420/6420  Artificial Intelligence, [Syllabus, Last Update: Spring 2023](files/CPSC4420F23Syllabus.pdf)
 
 ## Spring 2022, Spring 2023
-* CPSC 4820 AI Autonomous Vehicle, [Syllabus](../files/CPSC4820S23Syllabus.pdf)
+* CPSC 4820 AI Autonomous Vehicle, [Syllabus: Last Update Fall 2023](../files/CPSC4820S23Syllabus.pdf)
 
 
 <br>
