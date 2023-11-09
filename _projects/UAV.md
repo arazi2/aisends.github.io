@@ -190,34 +190,28 @@ The following papers are the outcome of completing this project. 4 accepted, 1 u
 
 # Training Opportunities
 This project provides content for CPSC 4820/6820 titled "AI for Autonomous Vehicles", especially developing several hands-on projects, training modules, and simulation scenarios in virtual environments (SUMO, Webots, Carla).
-Here is the syllabus for this [course](//files/CPSC4820S23Syllabus.pdf).
+Here is the [CPSC4820/6820 syllabus](../files/CPSC4820S23Syllabus.pdf).
 
 # Capstone Projects
-EduPlatCommPro-S19. The Educational Platform for Communication Protocols: AY2018-19
+[EduPlatCommPro-S19. The Educational Platform for Communication Protocols](https://ceias.nau.edu/capstone/projects/EE/2019/EduPlatCommPro-S19/)
 <br>
 Team Members: Christopher Thompson, Tyler Halperin, Tyler Criss, Huayu Li
 <br>
-[Link:](https://ceias.nau.edu/capstone/projects/EE/2019/EduPlatCommPro-S19/)
-<br>
-<br>
 
 
-Ground Robotic Design for Predictive Communications
+[Ground Robotic Design for Predictive Communications](https://ceias.nau.edu/capstone/projects/EE/2018/OrdnanceDisposal1/))
 <br>
 Team Members: Fahad Almaraghi, Yuting Zhang, Qiyuan Huang, Chaoju Wang, Hanxiao Lu
-<br>
 <img src="../images/UAV/robot1.png" width = "100%">
-([Link:](https://ceias.nau.edu/capstone/projects/EE/2018/OrdnanceDisposal1/))
+
 <br>
 <br>
 
 
-Explosive Ordnance Disposal Robot Design
+[Explosive Ordnance Disposal Robot Design](https://ceias.nau.edu/capstone/projects/EE/2018/OrdnanceDisposal2/home.html)
 <br>
 Team Members: Cody Warner, Sixian Zhang, Yazhou Li, Zening Wen, Huiwen Chu
-<br>
 <img src="../images/UAV/EOD.png" width = "100%">
-[Link:](https://ceias.nau.edu/capstone/projects/EE/2018/OrdnanceDisposal2/home.html)
 <br>
 <br>
 <br>
