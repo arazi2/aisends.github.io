@@ -84,7 +84,7 @@ We made some initial tests on extending the trajectory planning for actuator UAV
 
 <img src="../images/UAV/Actuator.png" width = "100%">
 <img src="../images/UAV/Actuator1.gif" width = "100%">
-![Actuator Drone Design]("../images/UAV/Actuator2.gif")
+![Actuator Drone Design](../images/UAV/Actuator2.gif)
 
 <br>
 Preliminary results can be found in [this paper presented in SwarmNet 2023 Workshop](https://arxiv.org/pdf/2308.12843.pdf)
