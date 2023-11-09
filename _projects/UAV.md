@@ -180,7 +180,6 @@ EduPlatCommPro-S19. The Educational Platform for Communication Protocols: AY2018
 Team Members: Christopher Thompson, Tyler Halperin, Tyler Criss, Huayu Li
 [Link:] (https://ceias.nau.edu/capstone/projects/EE/2019/EduPlatCommPro-S19/)
 
-Links: wrong!
 
 Ground Robotic Design for Predictive Communications
 Team Members: Fahad Almaraghi, Yuting Zhang, Qiyuan Huang, Chaoju Wang, Hanxiao Lu
