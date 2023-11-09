@@ -55,13 +55,13 @@ To broaden the impact of this project to a more general setup of federated learn
 <img src="../images/UAV/DPP1.jpg" width = "80%">
 <img src="../images/UAV/DPP2.jpg" width = "80%">
 
-This is an in-progress work and the early results will be presented in this [Preprint] (https://arxiv.org/pdf/2306.02497.pdf) and [Preprint] (https://arxiv.org/pdf/2306.02497.pdf). 
+This is an in-progress work and the early results will be presented in this [Preprint](https://arxiv.org/pdf/2306.02497.pdf) and [Preprint](https://arxiv.org/pdf/2306.02497.pdf). 
 
 ## Research Task 5: Networking Under Predicted Topology
 A Key objective of this project is utilizing the predicted network topology and channel conditions to enhance networking efficiency (Al-based networking). To this end, we implemented an application-oriented data-centric communication framework for drones to operate using WiFi and LTE communications in collaboration with MIT-Lincoln Lab.
 
 <img src="../images/UAV/AppSys.png" width = "80%">
-For more details, read [this paper] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10060823)
+For more details, read [this paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10060823)
 
 
 ## Research Task 6: Actuator Trajectory Planning
@@ -71,14 +71,14 @@ We made some initial tests on extending the trajectory planning for actuator UAV
 <img src="../images/UAV/Actuator1.gif" width = "100%">
 ![]("../images/UAV/Actuator2.gif")
 
-Preliminary results can be found in [this paper presented in SwarmNet 2023 Workshop] (https://arxiv.org/pdf/2308.12843.pdf)
+Preliminary results can be found in [this paper presented in SwarmNet 2023 Workshop](https://arxiv.org/pdf/2308.12843.pdf)
 
 ## Research Task 7: Anomaly Detection and Safety Monitoring
 The ultimate goal of this project is Anomaly Detection, or identifying Agents' actions that are not fully aligned with the expected rational behavior obtained by Inverse Learning.  This Aspect includes (i) developing a reverse engineering framework that monitors the environment and target's actions to discover its decision-making strategy, as a baseline, and (ii)  identifying deviations from predicted behavior. The challenges include projecting the observer's perception of the environment to the target's perspective (seeing the world from the target's eyes), determining the target's ultimate goal and reward-generation process (reading the agent's brain), and including potentially unknown factors in the decision-making strategy. To this end, we develop a set of Network-Level Safety Metrics (NSM) to gauge the overall safety of traffic highways with mixt traffic of regular and self-driving vehicles. 
 
 <img src="../images/UAV/TSafety.png" width = "100%">
 
-For more information, please read this [article] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9954361)
+For more information, please read this [article](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9954361)
 
 ## Other Research Tasks
 Other tasks include developing a learning-based framework for channel error recovery that utilizes sequential learning for exploiting long-term relations among video frames at a bit level.  We also developed algorithms for small object tracking with UAVs as part of this project. 
@@ -127,7 +127,7 @@ Three undergraduate students (Michael Elrod, Rayid Masoo, and John Suchanek)  ar
 # Outcomes
 The following papers are the outcome of completing this project. 4 accepted, 1 under review, and 1 in preparation.
 
-## A PhD dissertation titled "Predictive Communications for UAVs" by Arnau Rovira-Sugranes, who was supported by this project. Here is the [Link] (https://www.proquest.com/docview/2572567413?pq-origsite=gscholar&fromopenview=true)
+## A PhD dissertation titled "Predictive Communications for UAVs" by Arnau Rovira-Sugranes, who was supported by this project. Here is the [Link](https://www.proquest.com/docview/2572567413?pq-origsite=gscholar&fromopenview=true)
 
 ## Journal articles:
   - Razi, A., Chen, X., Li, H., Wang, H., Russo, B., Chen, Y., & Yu, H. (2022). Deep learning serves traffic safety analysis: A forward‐looking review. IET Intelligent Transport Systems.
@@ -169,24 +169,24 @@ The following papers are the outcome of completing this project. 4 accepted, 1 u
 
 # Training Opportunities
 This project provides content for CPSC 4820/6820 titled "AI for Autonomous Vehicles", especially developing several hands-on projects, training modules, and simulation scenarios in virtual environments (SUMO, Webots, Carla).
-Here is the syllabus for this [course] (<a href="file:///files/file.pdf">link</a>).
+Here is the syllabus for this [course](<a href="file:///files/file.pdf">link</a>).
 
 # Capstone Projects
 EduPlatCommPro-S19. The Educational Platform for Communication Protocols: AY2018-19
 Team Members: Christopher Thompson, Tyler Halperin, Tyler Criss, Huayu Li
-[Link:] (https://ceias.nau.edu/capstone/projects/EE/2019/EduPlatCommPro-S19/)
+[Link:](https://ceias.nau.edu/capstone/projects/EE/2019/EduPlatCommPro-S19/)
 
 
 Ground Robotic Design for Predictive Communications
 Team Members: Fahad Almaraghi, Yuting Zhang, Qiyuan Huang, Chaoju Wang, Hanxiao Lu
 <img src="../images/Undergrads/robot1.png" width = "100%">
-([Link:] (https://ceias.nau.edu/capstone/projects/EE/2018/OrdnanceDisposal1/))
+([Link:](https://ceias.nau.edu/capstone/projects/EE/2018/OrdnanceDisposal1/))
 
 
 Explosive Ordnance Disposal Robot Design
 Team Members: Cody Warner, Sixian Zhang, Yazhou Li, Zening Wen, Huiwen Chu
 <img src="../images/Undergrads/EOD.png" width = "100%">
-[Link:] (https://ceias.nau.edu/capstone/projects/EE/2018/OrdnanceDisposal2/home.html)
+[Link:](https://ceias.nau.edu/capstone/projects/EE/2018/OrdnanceDisposal2/home.html)
 
 
 <br>
