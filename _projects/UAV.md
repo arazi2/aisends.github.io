@@ -184,13 +184,8 @@ Team Members: Christopher Thompson, Tyler Halperin, Tyler Criss, Huayu Li
 Ground Robotic Design for Predictive Communications
 Team Members: Fahad Almaraghi, Yuting Zhang, Qiyuan Huang, Chaoju Wang, Hanxiao Lu
 <img src="../images/Undergrads/robot1.png" width = "100%">
-[Link:] (/)
+([Link:] (https://ceias.nau.edu/capstone/projects/EE/2018/OrdnanceDisposal1/))
 
-
-Ground Robotic Design for Predictive Communications
-Team Members: Fahad Almaraghi, Yuting Zhang, Qiyuan Huang, Chaoju Wang, Hanxiao Lu
-<img src="../images/Undergrads/robot2.png" width = "100%">
-[Link:] (https://ceias.nau.edu/capstone/projects/EE/2018/OrdnanceDisposal1/)
 
 Explosive Ordnance Disposal Robot Design
 Team Members: Cody Warner, Sixian Zhang, Yazhou Li, Zening Wen, Huiwen Chu
@@ -206,7 +201,8 @@ Team Members: Cody Warner, Sixian Zhang, Yazhou Li, Zening Wen, Huiwen Chu
 
 # Codes
 [DPP (Xiwen Chen)]()
-
+[Network Level Safety Metrics] (https://github.com/XiwenChen-Clemson/Network-level-safety-metrics)
+[Subband Pyramid Network: A new Attention Mechanism for DL] (https://github.com/HuayuLiNAU/Subband-Pyramid-Network)
 
 
 
