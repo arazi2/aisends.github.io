@@ -31,14 +31,14 @@ The following are some Activities/Products of this Research.
   <img src="../images/UAV/uav_2.png" width = "80%">
 <br>
 
-For more information read this [Article] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8533579) 
+For more information read this [Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8533579) 
 
 
 
 ## Research Tasks 2: Perception and Collective Learning Under Imperfect Communication
 We develop optimal data aggregation methods for Autonomous Vehicles (AVs) under dynamic environments, by predicting the motion of surrounding vehicles. This project involved developing AI-based scheduling and cooperative perception algorithms for autonomous vehicles and supporting infrastructure. The AI-based scheduling aims to collect data from roadside units (RSUs) to develop learning-based models while accommodating the requirements of dynamic network topology and networking constraints. Our approach to this problem is imposing fairness on class labels (instead of node resources) that enhance the quality of developed models by enhancing the diversity of collected data. We use game theoretic optimization to solve the resulting non-linear non-convex problem. The work opens a new avenue to develop federated learning applications among drones and AVs while meticulously addressing the networking constraints in terms of available channel bandwidth and affordable delay. The preliminary results of this research are published in the 48th IEEE Conference on Local Computer Networks (LCN). 
 <img src="../images/UAV/AV_1.jpg" width = "80%">
-For more information read this [Article] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10223373)
+For more information read this [Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10223373)
 
 
 
