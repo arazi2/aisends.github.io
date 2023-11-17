@@ -40,7 +40,7 @@ author_profile: true
 
 <img src="../images/Lab/20180427_134300.jpg" width="80%">
 
-<img src="../images/Lab/RaziTeam1.jpg" width="80%">
+<img src="../images/Lab/RaziTeam1.jpeg" width="80%">
 
 <img src="../images/Lab/IMG_4748.JPG" width="80%">
 
