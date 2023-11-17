@@ -8,6 +8,8 @@ author_profile: true
 
 {% include base_path %}
 
+<img src="../images/Lab/IMG_1825.jpeg" width="80%">
+
 <img src="../images/Lab/IMG_0393.JPG" width="80%">
 
 <img src="../images/Lab/IMG_6298.JPG" width="80%">
