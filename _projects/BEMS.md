@@ -13,7 +13,7 @@ date: 2023-10-31
 
 For the code of this project, please see <a href="https://github.com/AIS-Clemson/DRL-BEMS">this link</a>
 
-<img src="./plot/HVAC_2.0.gif" alt="Training process monitoring" width='80%'>
+<br>
 
 
 # Citation
