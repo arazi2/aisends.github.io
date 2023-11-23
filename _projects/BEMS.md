@@ -8,8 +8,32 @@ date: 2023-10-31
 # paperurl: 'https://arxiv.org/abs/2211.08678'
 # citation: 'Wang, H., Chen, X. and Razi, A., 2022. Fast Key Points Detection and Matching for Tree-Structured Images. arXiv preprint arXiv:2211.03242.'
 ---
+<br>
 
-<a href="https://github.com/AIS-Clemson/DRL-BEMS">Code</a>
+
+For the code of this project, please see <a href="https://github.com/AIS-Clemson/DRL-BEMS">this link</a>
+
+<img src="./plot/HVAC_2.0.gif" alt="Training process monitoring" width='80%'>
+
+
+# Citation
+
+Recommended citation: 
+
+Wang H, Chen X, Vital N, et al. Energy Optimization for HVAC Systems in Multi-VAV Open Offices: A Deep Reinforcement Learning Approach[J]. arXiv preprint arXiv:2306.13333, 2023.
+
+@article{wang2023energy,
+  title={Energy Optimization for HVAC Systems in Multi-VAV Open Offices: A Deep Reinforcement Learning Approach},
+  author={Wang, Hao and Chen, Xiwen and Vital, Natan and Duffy, Edward and Razi, Abolfazl},
+  journal={arXiv preprint arXiv:2306.13333},
+  year={2023}
+}
+
+<br>
+<br>
+<br>
+<br>
+
 
 # Project Overview
 we present a DRL-based HVAC control method to optimize building energy consumption in such floor plans. Our specifically designed open office model consists of multiple interconnected spaces, and the DRL algorithm is applied to control multiple VAV units jointly.
@@ -24,6 +48,11 @@ The global energy outlook is witnessing a continuous surge in the demand for ene
 
 Despite the popularity of open-plan offices in commercial buildings, limited research has been conducted to address the importance of energy optimization in these types of spaces. For instance, VAV units in such offices often operate independently, without considering the interconnectivity of these spaces, which can result in a disparity in heating and cooling, with areas located close to vents receiving more ventilation-based heating/cooling, while spaces near windows receive more heat from solar radiation.
 <img src="../images/BEMS/multi_VAV_2.jpg" width="80%">
+
+<br>
+<br>
+<br>
+<br>
 
 
 ## In short, the contributions of this paper can be summarized as follows:
@@ -43,8 +72,21 @@ Despite the popularity of open-plan offices in commercial buildings, limited res
 <img src="../images/BEMS/framework_2.jpg" width="80%">
 
 
+<br>
+<br>
+<br>
+<br>
+
+
 For the demonstration of this project, please see <a href="https://github.com/AIS-Clemson/DRL-BEMS">this link</a>
 
+<img src="../images/BEMS/HVAC_2.0.gif" alt="Training process monitoring" width='80%'>
+
+
+<br>
+<br>
+<br>
+<br>
 
 
 # Citation
