@@ -1,12 +1,12 @@
 ---
 title: "Nano-Resolution Visual Identifiers Enable Secure Monitoring in Next-Generation Cyber-Physical Systems"
 collection: projects
-permalink: /project/Nano CPS
-excerpt: 'This paper is proceeding to CSCI 2022.'
+permalink: /project/dendrite
+# excerpt: 'This paper is proceeding to CSCI 2022.'
 date: 2023-04-15
-venue: 'CSCI 2022'
-paperurl: 'https://arxiv.org/abs/2211.08678'
-citation: 'Wang, H., Chen, X. and Razi, A., 2022. Fast Key Points Detection and Matching for Tree-Structured Images. arXiv preprint arXiv:2211.03242.'
+# venue: 'CSCI 2022'
+# paperurl: 'https://arxiv.org/abs/2211.08678'
+# citation: 'Wang, H., Chen, X. and Razi, A., 2022. Fast Key Points Detection and Matching for Tree-Structured Images. arXiv preprint arXiv:2211.03242.'
 ---
 
 # Project Overview
