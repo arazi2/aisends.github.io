@@ -111,6 +111,8 @@ Compare to the conventional barcode or QR code-based methods, our solution provi
 
 
 
+
+
 ## Subproject 1: Top-Down Graph Matching Algorithm 
 Recently, Physically Unclonable Functions (PUFs) received considerable attention in order to developing security mechanisms for applications such as Internet of Things (IoT) by exploiting the natural randomness in device-specific characteristics. This approach complements and improves the conventional security algorithms that are vulnerable to security attacks due to recent advances in computational technology and fully automated hacking systems. In this project, we propose a new authentication mechanism based on a specific implementation of PUF using metallic dendrites. Dendrites are nanomaterial devices that contain unique, complex and unclonable patterns (similar to human DNAs). We propose a method to process dendrite images. The proposed framework comprises several steps including denoising, skeletonizing, pruning and feature points extraction. The feature points are represented in terms of a tree-based weighted algorithm that converts the authentication problem to a graph matching problem. The test object is compared against a database of valid patterns using a novel algorithm to perform user identification and authentication. The proposed method demonstrates a high level of accuracy and a low computational complexity that grows linearly with the number of extracted points and database size. It also significantly reduces the required in-network storage capacity and communication rates to maintain database of users in large-scale networks.
 
@@ -138,7 +140,6 @@ Chi, Zaoyi, et al. "Consistency penalized graph matching for image-based identif
 
 
 <br><br><br><br>
-
 
 
 
