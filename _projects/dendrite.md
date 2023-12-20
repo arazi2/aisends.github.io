@@ -44,7 +44,7 @@ redirect_from:
 # Research Products
 
 Valehi, Ali, et al. "A graph matching algorithm for user authentication in data networks using image-based physical unclonable functions." 2017 Computing Conference. IEEE, 2017.
-<a href="https://ieeexplore.ieee.org/abstract/document/8252196">Paper Link</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/8252196" target="_blank">Paper Link</a>
 <a href="">Code</a>
 
 
@@ -52,31 +52,31 @@ Valehi, Ali, et al. "A graph matching algorithm for user authentication in data 
 <br>
 
 Chi, Zaoyi, et al. "Consistency penalized graph matching for image-based identification of dendritic patterns." IEEE Access 8 (2020): 118623-118637.
-<a href="https://ieeexplore.ieee.org/abstract/document/9126787">Paper Link</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9126787" target="_blank">Paper Link</a>
 <a href="">Code</a>
 
 <br>
 
 Li, Huayu, et al. "Deep DIH: Statistically inferred reconstruction of digital in-line holography by deep learning." arXiv preprint arXiv:2004.12231 (2020).
-<a href="https://arxiv.org/abs/2004.12231">Paper Link</a>
+<a href="https://arxiv.org/abs/2004.12231" target="_blank">Paper Link</a>
 <a href="">Code</a>
 
 <br>
 
 Chen, Xiwen, et al. "DH-GAN: a physics-driven untrained generative adversarial network for holographic imaging." Optics Express 31.6 (2023): 10114-10135.
-<a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-6-10114&id=527879">Paper Link</a>
+<a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-6-10114&id=527879" target="_blank">Paper Link</a>
 <a href="">Code</a>
 
 <br>
 
 Wang, Hao, et al. "Fast key points detection and matching for tree-structured images." 2022 International Conference on Computational Science and Computational Intelligence (CSCI). IEEE, 2022.
-<a href="https://ieeexplore.ieee.org/abstract/document/10216721">Paper Link</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/10216721" target="_blank">Paper Link</a>
 <a href="">Code</a>
 
 <br>
 
 H. Wang, X. Chen, A. Razi, M. Kozicki, R. Amin and M. Manfredo, "Nano-Resolution Visual Identifiers Enable Secure Monitoring in Next-Generation Cyber-Physical Systems," 2022 International Conference on Computational Science and Computational Intelligence (CSCI), Las Vegas, NV, USA, 2022, pp. 856-861, doi: 10.1109/CSCI58124.2022.00155.
-<a href="https://ieeexplore.ieee.org/document/10216773">Paper Link</a>
+<a href="https://ieeexplore.ieee.org/document/10216773" target="_blank">Paper Link</a>
 <a href="">Code</a>
 
 <br><br><br><br>
@@ -92,13 +92,15 @@ H. Wang, X. Chen, A. Razi, M. Kozicki, R. Amin and M. Manfredo, "Nano-Resolution
 We present a solution for secure monitoring in supply chains with nano-resolution visual identifiers-based cyber-physical systems.
 In this project, nano-reoslution samples are used for identification and authentication process. 
 
-<img src="../images/Nano/sample.png" width="30%">
+<p align="center">
+  <img src="../images/Nano/sample.png" width="30%">
+</p>
 
 The dendritic samples are electro-chemical generated nano-materials and is customizable in terms of scale and morphology complexity. 
 
 Compare to the conventional barcode or QR code-based methods, our solution provide high-level security due to the randomness and high entropy information of dendritic samples. Meanwhile, our computer vision-based algorithm provides a competitive computation cost.
 
-<img src="../images/Nano/2_2.jpg" width="80%">
+<img src="../images/Nano/2_2.jpg" width="100%">
 
 
 
@@ -110,6 +112,7 @@ Compare to the conventional barcode or QR code-based methods, our solution provi
 
 ## Subproject #1: Top-Down Graph Matching Algorithm 
 <img src="../images/Nano/ali_1.png" width="80%">
+
 Demonstration of the proposed algorithm to find similarity between the test graph and a set of reference graphs. Top row presents sub graph mapping stage. The bottom row, represents identification and recovery of level change by the proposed modified algorithm.
 
 ### Research Publication:
@@ -121,6 +124,7 @@ Valehi, Ali, et al. "A graph matching algorithm for user authentication in data 
 
 ## Subproject #2: Ad-hoc Consistency Penalized Probabilistic Graph Matching 
 <img src="../images/Nano/zaoyi_1.png" width="80%">
+
 The image processing steps applied to the reference dendrite (top row) and the noisy version of the test dendrite (bottom row). The columns represent: (a) the original image, (b) the Image in YCbCr space, (c) the image after segmentation, (d) the binarized image, (e) the extracted and thinned skeleton, (f) the extracted graph vertices (feature points), and (g) the representative graph.
 
 ### Research Publication:
