@@ -1,7 +1,7 @@
 ---
 title: "FLAME 2 Wildfire Dataset"
-collection: publications
-permalink: /publication/FLAME 2 Wildfire Dataset
+collection: projects
+permalink: /project/flame
 excerpt: 'This paper is published on the IEEE Access.'
 date: 2022-11-17
 venue: 'IEEE Access'
