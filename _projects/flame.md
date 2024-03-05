@@ -1,19 +1,22 @@
 ---
-title: "FLAME 2 Wildfire Dataset"
+title: "FLAME Project: Wildfire Detection"
 collection: projects
 permalink: /project/flame
-excerpt: 'This paper is published on the IEEE Access.'
+# excerpt: ''
 date: 2022-11-17
-venue: 'IEEE Access'
-paperurl: 'https://ieee-dataport.org/open-access/flame-2-fire-detection-and-modeling-aerial-multi-spectral-image-dataset'
-citation: 'Chen, X., Hopkins, B., Wang, H., O’Neill, L., Afghah, F., Razi, A., Fulé, P., Coen, J., Rowell, E. and Watts, A., 2022. Wildland Fire Detection and Monitoring Using a Drone-Collected RGB/IR Image Dataset. IEEE Access, 10, pp.121301-121317.'
+# venue: ''
+# paperurl: ''
+# citation: ''
 ---
-# Citation
+
+<br>
+
+<!-- # Citation -->
 <!-- [Paper link:](http://academicpages.github.io/files/paper3.pdf) -->
-<a href="https://ieee-dataport.org/open-access/flame-2-fire-detection-and-modeling-aerial-multi-spectral-image-dataset">FLAME 2: FIRE DETECTION AND MODELING: AERIAL MULTI-SPECTRAL IMAGE DATASET</a>
+<!-- <a href="https://ieee-dataport.org/open-access/flame-2-fire-detection-and-modeling-aerial-multi-spectral-image-dataset">FLAME 2: FIRE DETECTION AND MODELING: AERIAL MULTI-SPECTRAL IMAGE DATASET</a> -->
 
 <!-- Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). -->
-
+<!-- 
 @article{chen2022wildland,
   title={Wildland Fire Detection and Monitoring Using a Drone-Collected RGB/IR Image Dataset},
   author={Chen, Xiwen and Hopkins, Bryce and Wang, Hao and O’Neill, Leo and Afghah, Fatemeh and Razi, Abolfazl and Ful{\'e}, Peter and Coen, Janice and Rowell, Eric and Watts, Adam},
@@ -22,7 +25,7 @@ citation: 'Chen, X., Hopkins, B., Wang, H., O’Neill, L., Afghah, F., Razi, A.,
   pages={121301--121317},
   year={2022},
   publisher={IEEE}
-}
+} -->
 
 
 Avalible datasets for previous papers:
