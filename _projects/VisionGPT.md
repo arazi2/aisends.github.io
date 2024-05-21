@@ -3,7 +3,7 @@ title: "Assistive Visual Navigation"
 collection: projects
 permalink: /project/VisionGPT
 # excerpt: 'TBD'
-date: 2024
+date: 2024-5-20
 # venue: 'TBD'
 # paperurl: 'TBD'
 # citation: 'TBD'
