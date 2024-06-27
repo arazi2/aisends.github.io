@@ -36,7 +36,7 @@ Wildfires have devastating impacts on natural environments and human settlements
 
 ## FLAME-SD Dataset
 
-<img src="../images/FLAME_SD/sample.jpg" width=70%>
+<img src="../images/FLAME_SD/sample.jpg" width="500px">
 
 - **Content:** 10,000 RGB Synthesized images, each paired with binary masks and metadata.
 - **Quality Control Tool:** CLIP-based filtering ensures high confidence and relevance of wildfire content.
@@ -48,7 +48,10 @@ For more details, visit the [GitHub - FLAME_SD](https://github.com/AIS-Clemson/F
 
 **Funding:** This project is supported by the National Science Foundation under Grant Number CNS-2204445. Special thanks to USDA Forest Service and Kaibab National Forest administration.
 
-
+<br>
+<br>
+<br>
+<br>
 
 
 
