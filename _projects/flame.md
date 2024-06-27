@@ -30,6 +30,8 @@ date: 2024-6-17
 
 # NEW: FLAME Diffuser: Wildfire Image Synthesis using Mask Guided Diffusion
 
+For more details, visit the project page: [GitHub - FLAME_SD](https://github.com/AIS-Clemson/FLAME_SD).
+
 ## Introduction
 
 Wildfires have devastating impacts on natural environments and human settlements. Existing fire detection systems rely on large, annotated datasets that often lack geographic diversity, leading to decreased generalizability. To address this, we introduce the **FLAME Diffuser**, a diffusion-based framework that synthesizes high-quality wildfire images with precise flame location control. This training-free framework eliminates the need for model fine-tuning and provides a dataset of 10,000 high-quality images, enhancing the development of robust wildfire detection models.
@@ -42,7 +44,7 @@ Wildfires have devastating impacts on natural environments and human settlements
 - **Quality Control Tool:** CLIP-based filtering ensures high confidence and relevance of wildfire content.
 - **Dataset:** Download from [Google Drive](https://drive.google.com/drive/folders/1Brt5TvkdTUqJPGtXSLGQNCc3kgk2NygD?usp=sharing)
 
-For more details, visit the [GitHub - FLAME_SD](https://github.com/AIS-Clemson/FLAME_SD).
+For more details, visit the project page: [GitHub - FLAME_SD](https://github.com/AIS-Clemson/FLAME_SD).
 
 ---
 
