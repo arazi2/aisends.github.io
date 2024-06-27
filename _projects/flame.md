@@ -38,7 +38,7 @@ Wildfires have devastating impacts on natural environments and human settlements
 
 ## FLAME-SD Dataset
 
-<img src="../images/FLAME_SD/sample.jpg" width="500px">
+<img src="../images/FLAME_SD/sample.jpg" width="70%">
 
 - **Content:** 10,000 RGB Synthesized images, each paired with binary masks and metadata.
 - **Quality Control Tool:** CLIP-based filtering ensures high confidence and relevance of wildfire content.
