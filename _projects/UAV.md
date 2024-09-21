@@ -182,6 +182,24 @@ The following papers are the outcome of completing this project. 4 accepted, 1 u
 
   -	Chen, Xiwen, Huayu Li, Rahul Amin, and Abolfazl Razi. "Learning on Bandwidth Constrained Multi-Source Data with MIMO-inspired DPP MAP Inference." arXiv preprint arXiv:2306.02497 (2023). Under Preparation [potentially for IEEE Transactions on Machine Learning in Communications and Networking].
 
+  - X. Chen, H. Li, R. Amin, and A. Razi, "Learning on Bandwidth Constrained Multi-Source Data with MIMO-inspired DPP MAP Inference," IEEE Transactions on Machine Learning in Communications and Networking, 2024.
+
+
+  - X. Chen, P. Qiu, W. Zhu, H. Li, H. Wang, A. Sotiras, Y. Wang, and A. Razi, "TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning," ICML 2024.
+  - X. Chen, H. Li, R. Amin, and A. Razi, "RD-DPP: Rate-distortion theory meets determinantal point process to diversify learning data samples," Accepted in WACV2024
+  - A. Bastola, H. Wang, X. Chen, and A. Razi, "FedMIL: Federated-Multiple Instance Learning for Video Analysis with Optimized DPP Scheduling," DCOSS-IOT, 2024.
+  - A. Sarlak, H. Alzorgan, S. P. H. Boroujeni, A. Razi, and R. Amin, "Enhanced Cooperative Perception for Autonomous Vehicles Using Imperfect Communication," DCOSS-IOT, 2024.
+  - X. Chen, S. P. H. Boroujeni, X. Shu, H. Li, and A. Razi, "Enhancing Graph Neural Networks in Large-scale Traffic Incident Analysis with Concurrency Hypothesis," Accepted in ACM SIGSPATIAL2024.
+  - W. Zhu, X. Chen, P. Qiu, A. Sotiras, A. Razi, and Y. Wang, "DGR-MIL: Exploring Diverse Global Representation in Multiple Instance Learning for Whole Slide Image Classification," Accepted in ECCV2024, Available at: https://arxiv.org/pdf/2407.03575.
+  - M. Kaur, A. Razi, L. Cheng, R. Amin, and J. Martin, "Design and evaluation of an application-oriented data-centric communication framework for emerging cyber-physical systems," in 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC), 2023, pp. 875–878.
+  - A. Sarlak, A. Razi, X. Chen, and R. Amin, "Diversity maximized scheduling in roadside units for traffic monitoring applications," in 2023 IEEE 48th Conference on Local Computer Networks (LCN), 2023, pp. 1–4.
+  - H. Alzorgan, A. Razi, and A. J. Moshayedi, "Actuator trajectory planning for UAVs with overhead manipulator using reinforcement learning," in 2023 IEEE 34th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), 2023, pp. 1–6.
+  - A. Sarlak, S. P. H. Boroujeni, H. Alzorgan, R. Amin, A. Razi, and H. Rajoli, "Cooperative Perception for Connected Autonomous Vehicles Under Constrained V2V Networking," in 2023 57th Asilomar Conference on Signals, Systems, and Computers, 2023, pp. 210–214.
+  - X. Chen, W. Zhu, P. Qiu, and A. Razi, "Imaging Signal Recovery Using Neural Network Priors Under Uncertain Forward Model Parameters," in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024, pp. 1420–1429.
+  - Mehrabi, S. P. H. Boroujeni, and A. Razi, "Turbo-IRL: Enhancing Multi-Agent Systems using Turbo Decoding-Inspired Deep Maximum Entropy Inverse Reinforcement Learning," in preparation (Under preparation).
+  - N. Mehrabi, S. P. H. Boroujeni, A. Razi, and R. Amin, "Adaptive Data Transport Mechanism for UAV Surveillance Missions in Lossy Environments," under review, CCNC 2025.
+
+
 
 <br>
 <br>
