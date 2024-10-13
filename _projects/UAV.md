@@ -151,6 +151,9 @@ The following papers are the outcome of completing this project. 4 accepted, 1 u
 ## A PhD dissertation titled "Predictive Communications for UAVs" by Arnau Rovira-Sugranes, who was supported by this project. Here is the [Link](https://www.proquest.com/docview/2572567413?pq-origsite=gscholar&fromopenview=true)
 
 ## Journal articles:
+
+  - X. Chen, H. Li, R. Amin, and A. Razi, "Learning on Bandwidth Constrained Multi-Source Data with MIMO-inspired DPP MAP Inference," IEEE Transactions on Machine Learning in Communications and Networking, 2024, 2831-316X.
+  
   - Razi, A., Chen, X., Li, H., Wang, H., Russo, B., Chen, Y., & Yu, H. (2023). Deep learning serves traffic safety analysis: A forward‐looking review. IET Intelligent Transport Systems, 17(1), 22-71.
 
   - Qu, J., Tang, C., Zhang, Y., Zhou, K., & Razi, A. (2022). Long‐time target tracking algorithm based on re‐detection multi‐feature fusion. IET Cyber‐Systems and Robotics, 4(1), 38-50.
@@ -172,8 +175,6 @@ The following papers are the outcome of completing this project. 4 accepted, 1 u
 ### 2024
 - X. Chen, W. Zhu, P. Qiu, and A. Razi, "Imaging Signal Recovery Using Neural Network Priors Under Uncertain Forward Model Parameters," in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024, pp. 1420–1429.
 
-- X. Chen, H. Li, R. Amin, and A. Razi, "Learning on Bandwidth Constrained Multi-Source Data with MIMO-inspired DPP MAP Inference," IEEE Transactions on Machine Learning in Communications and Networking, 2024, 2831-316X.
-  
 - X. Chen, P. Qiu, W. Zhu, H. Li, H. Wang, A. Sotiras, Y. Wang, and A. Razi, "TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning," ICML 2024, 2640-3498.
   
 - X. Chen, H. Li, R. Amin, and A. Razi, "RD-DPP: Rate-distortion theory meets determinantal point process to diversify learning data samples," Accepted in WACV 2024, 2472-6737.
@@ -194,10 +195,6 @@ The following papers are the outcome of completing this project. 4 accepted, 1 u
 - M. Kaur, A. Razi, L. Cheng, R. Amin, and J. Martin, "Design and evaluation of an application-oriented data-centric communication framework for emerging cyber-physical systems," in 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC), 2023, pp. 875–878.
   
 - H. Alzorgan, A. Razi, and A. J. Moshayedi, "Actuator trajectory planning for UAVs with overhead manipulator using reinforcement learning," in 2023 IEEE 34th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), 2023, pp. 1–6.
-  
-- Chen, Xiwen, Huayu Li, Rahul Amin, and Abolfazl Razi. "Learning on Bandwidth Constrained Multi-Source Data with MIMO-inspired DPP MAP Inference." arXiv preprint arXiv:2306.02497 (2023). Under preparation [potentially for IEEE Transactions on Machine Learning in Communications and Networking].
-  
-- Chen, Xiwen, Huayu Li, Rahul Amin, and Abolfazl Razi. "RD-DPP: Rate-Distortion Theory Meets Determinantal Point Process to Diversify Learning Data Samples." arXiv preprint arXiv:2304.04137 (2023). Under review for AAAI.
 
 ### 2022
 - Wang, Hao, Xiwen Chen, Abolfazl Razi, Michael Kozicki, Rahul Amin, and Mark Manfredo. "Nano-Resolution Visual Identifiers Enable Secure Monitoring in Next-Generation Cyber-Physical Systems." In 2022 International Conference on Computational Science and Computational Intelligence (CSCI). DOI 10.1109/CSCI58124.2022.00227, 2022.
