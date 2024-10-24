@@ -22,7 +22,7 @@ Wildfires have devastating impacts on natural environments and human settlements
 
 ## Sample Dataset
 
-<img src="./Figure/grid.jpg" width=100%>
+<img src="../images/FLAME2/grid.jpg" width=100%>
 
 - **Dataset:** Download from [Google Drive](https://drive.google.com/drive/folders/1Brt5TvkdTUqJPGtXSLGQNCc3kgk2NygD?usp=sharing)
 
@@ -35,7 +35,7 @@ Wildfires have devastating impacts on natural environments and human settlements
 
 ## Methodology
 
-<img src="./Figure/diffuser_2.jpg" width=90%>
+<img src="../images/FLAME2/diffuser_2.jpg" width=90%>
 
 1. **Mask Generation:** 
    - Masks are generated to define areas for fire elements using fundamental shapes like rectangles and circles.
@@ -47,12 +47,12 @@ Wildfires have devastating impacts on natural environments and human settlements
 
 ## Experimental Results
 
-<img src="./Figure/fid.jpg" width=90%>
+<img src="../images/FLAME2/fid.jpg" width=90%>
 
 - **High-Quality:** Lowest FID score compared to other methods, indicating better realistic styles.
 - **Consistency:** Image content does not shift, the semantic information is well-kept in synthesized images.
 
-<img src="./Figure/table.jpg" width=70%>
+<img src="../images/FLAME2/table.jpg" width=70%>
 
 ---
 
