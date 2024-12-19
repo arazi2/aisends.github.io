@@ -23,6 +23,8 @@ Wildfires have devastating impacts on natural environments and human settlements
 ## Sample Dataset
 
 <img src="../images/FLAME_SD/grid.jpg" width=100%>
+<img src="../images/FLAME2/FLAME_arc.jpg" width="500px">
+![Sample of Dataset](../images/FLAME_SD/grid.jpg)
 
 - **Dataset:** Download from [Google Drive](https://drive.google.com/drive/folders/1Brt5TvkdTUqJPGtXSLGQNCc3kgk2NygD?usp=sharing)
 
