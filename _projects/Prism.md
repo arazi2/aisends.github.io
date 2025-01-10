@@ -23,7 +23,8 @@ Diffusion Prism is a training-free framework that efficiently transforms binary 
 
 ## Sample Dataset
 
-<img src="../images/Diffusion/Prism/teaser_2.jpg" width=70%>
+<!-- <img src="../images/Diffusion/Prism/teaser_2.jpg" width=70%> -->
+![Sample of Dataset](../images/Diffusion/Prism/teaser_2.jpg)
 
 - **Dataset:** Download from [Google Drive]()
 
@@ -35,7 +36,8 @@ Diffusion Prism is a training-free framework that efficiently transforms binary 
 
 ## Methodology
 
-<img src="../images/Diffusion/Prism/latent_4.jpg" width=100%>
+<!-- <img src="../images/Diffusion/Prism/latent_4.jpg" width=100%> -->
+![Sample of Dataset](../images/Diffusion/Prism/latent_4.jpg)
 
 **Diffusion Process:**
    - Combines masks with controllable noise, processed through a Variational Autoencoder (VAE) to generate latent variables.
@@ -44,12 +46,14 @@ Diffusion Prism is a training-free framework that efficiently transforms binary 
 
 ## Experimental Results
 
-<img src="../images/Diffusion/Prism/grid_3.jpg" width=100%>
+<!-- <img src="../images/Diffusion/Prism/grid_3.jpg" width=100%> -->
+![Sample of Dataset](../images/Diffusion/Prism/grid_3.jpg)
 
 - **High-Quality:** Lowest FID score compared to other methods, indicating better realistic styles.
 - **Consistency:** Morphology preserving, the skeleton shape is well-kept in synthesized images.
 
-<img src="../images/Diffusion/Prism/abl.png" width=70%>
+<!-- <img src="../images/Diffusion/Prism/abl.png" width=70%> -->
+![Sample of Dataset](../images/Diffusion/Prism/abl.png)
 
 For more details, visit the [Project Page](https://arazi2.github.io/aisends.github.io/project/Prism).
 
