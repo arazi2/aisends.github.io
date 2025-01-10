@@ -1,5 +1,5 @@
 ---
-title: "FLAME Project: Wildfire Detection"
+title: "Diffusion Project"
 collection: projects
 permalink: /project/Prism
 # excerpt: ''
@@ -71,7 +71,7 @@ For more details, visit the [Project Page](https://arazi2.github.io/aisends.gith
 
 
 
-## Please cite our work if you think this project helps your research.
+## Related work:
 
 <a href="https://arxiv.org/abs/2403.03463">FLAME Diffuser: Wildfire Image Synthesis using Mask Guided Diffusion</a>
 
