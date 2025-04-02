@@ -31,19 +31,26 @@ Globally, over two billion people suffer from vision impairment, with approximat
 
 
 ## Computer Vision
+To assist visually impaired users in perceiving their surroundings, we integrate real-time computer vision capabilities. Our system captures live video from a user-worn camera and processes the stream to identify objects, detect motion patterns, and simulate various vision impairment conditions. These capabilities form the foundation for further semantic reasoning and audio-based feedback generation.
+
 
 ### Object detection/segmentation
+We apply state-of-the-art object detection and segmentation models YOLO to identify and localize important entities within the user's environment. These include dynamic obstacles (e.g., vehicles, people) and static infrastructure (e.g., staircases, signboards). The detected objects are then analyzed for spatial layout, proximity, and potential interaction, enabling context-aware guidance and warnings.
+
 <div align="center">
     <img src="../images/VisionGPT/JP_Shinjuku_1.gif" alt="" style="width: 100%;">
 </div>
 
 ### Motion-based analysis
+In complex, dynamic scenes, recognizing motion is critical for timely intervention. Our system tracks moving objects and analyzes their trajectories to predict potential collisions or abnormal behaviors (e.g., a person running against the flow). This allows the agent to prioritize hazards and issue real-time alerts, even in crowded urban settings.
+
 <div align="center">
     <img src="../images/VisionGPT/JP_Shinjuku_4.gif" alt="" style="width: 100%;">
 </div>
 
 ### Simulated visual impairment-sensing
-"Less is better." 
+"Less is better." To understand the visual limitations of different eye diseases, we simulate vision loss scenarios such as tunnel vision, blurred vision, or night blindness. These simulations help us evaluate the system's effectiveness under various impairment models and guide the design of compensation strategies such as auditory cues or zoomed-in focus detection.
+
 <div align="center">
     <img src="../images/VisionGPT/JP_Shinjuku_3.gif" alt="" style="width: 100%;">
 </div>
@@ -51,13 +58,21 @@ Globally, over two billion people suffer from vision impairment, with approximat
 
 
 ## Assistive agent
+Beyond perception, VIA-LLM incorporates reasoning and interaction modules that bridge the gap between raw visual data and meaningful user feedback. Using large language models, the system can interpret scene context, anticipate risks, and generate natural-language responses for real-time assistance.
+
+
 ### Early detection & feedback
+The system continuously monitors the scene to detect potentially hazardous situations in advance—such as a fast-approaching vehicle or an unexpected object on the path. It prioritizes urgency and relevance, enabling timely and intuitive feedback to the user through auditory signals or haptic cues.
+
 <div align="center">
     <img src="../images/VisionGPT/JP_Shinjuku_4.gif" alt="" style="width: 100%;">
 </div>
 
 
 ### Voice boardcast & alert
+To maximize accessibility, our system employs a voice-based interface to broadcast situational awareness updates and urgent alerts. For example, it can announce, “Crosswalk ahead, wait for green light,” or “Bicycle approaching from the left.” This interactive voice feedback, powered by LLM-driven semantic analysis, ensures that users are not overwhelmed by raw data but instead receive concise, contextually relevant guidance.
+
+
 <div align="center">
     <img src="../images/VisionGPT/JP_1.gif" alt="" style="width: 100%;">
 </div>
