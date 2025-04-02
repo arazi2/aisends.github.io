@@ -3,7 +3,7 @@ title: "Assistive Visual Navigation"
 collection: projects
 permalink: /project/VisionGPT
 # excerpt: 'TBD'
-date: 2024-5-20
+date: 2025-3-20
 # venue: 'TBD'
 # paperurl: 'TBD'
 # citation: 'TBD'
@@ -22,6 +22,54 @@ See our poster at the BSN 2024:
 See our project page for the practical implementation and testing:
 <a href="https://github.com/AIS-Clemson/VisionGPT" target="_blank">AIS-Clemson/VisionGPT</a>
 <a href="https://github.com/JiayouQin/H-Splitter/tree/main" target="_blank">AIS-Clemson/MotorFocus</a>
+
+
+
+# VIA-LLM: Visually Impaired Assistive Tool with LLM Reasoning (under developing) 
+Globally, over two billion people suffer from vision impairment, with approximately 43 million classified as legally blind \cite{who_blindness}. Some eye diseases, such as Retinitis Pigmentosa (RP), lead to gradual vision loss and currently have no cure. Most treatments for such genetics-driven diseases – including gene therapy (e.g., Luxturna for specific mutations), stem cells, artificial retinal implants, and vitamin A supplementation – have shown only minor effects in restoring lost vision and remain in exploratory stages for decades. For such conditions, developing assistive tools arises as a promising alternative to enable patients to manage their daily tasks and live more independently. 
+
+
+
+## Computer Vision
+
+### Object detection/segmentation
+<div align="center">
+    <img src="../images/VisionGPT/JP_Shinjuku_1.gif" alt="" style="width: 100%;">
+</div>
+
+### Motion-based analysis
+<div align="center">
+    <img src="../images/VisionGPT/JP_Shinjuku_4.gif" alt="" style="width: 100%;">
+</div>
+
+### Simulated visual impairment-sensing
+"Less is better." 
+<div align="center">
+    <img src="../images/VisionGPT/JP_Shinjuku_3.gif" alt="" style="width: 100%;">
+</div>
+
+
+
+## Assistive agent
+### Early detection & feedback
+<div align="center">
+    <img src="../images/VisionGPT/JP_Shinjuku_4.gif" alt="" style="width: 100%;">
+</div>
+
+
+### Voice boardcast & alert
+<div align="center">
+    <img src="../images/VisionGPT/JP_1.gif" alt="" style="width: 100%;">
+</div>
+
+
+
+
+
+
+
+
+
 
 
 # Ego-Motion Prediction with All-Pixel Matching 
