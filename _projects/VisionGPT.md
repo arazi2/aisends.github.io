@@ -29,7 +29,7 @@ See our project page for the practical implementation and testing:
 Globally, over two billion people suffer from vision impairment, with approximately 43 million classified as legally blind \cite{who_blindness}. Some eye diseases, such as Retinitis Pigmentosa (RP), lead to gradual vision loss and currently have no cure. Most treatments for such genetics-driven diseases – including gene therapy (e.g., Luxturna for specific mutations), stem cells, artificial retinal implants, and vitamin A supplementation – have shown only minor effects in restoring lost vision and remain in exploratory stages for decades. For such conditions, developing assistive tools arises as a promising alternative to enable patients to manage their daily tasks and live more independently. 
 
 
-
+<!-- 
 ## Computer Vision
 
 ### Object detection/segmentation
@@ -62,7 +62,7 @@ Globally, over two billion people suffer from vision impairment, with approximat
     <img src="../images/VisionGPT/JP_1.gif" alt="" style="width: 100%;">
 </div>
 
-
+ -->
 
 
 
@@ -121,7 +121,7 @@ Our framework mainly predicts ego-motion by identifying how users physically ori
 
 
 
-
+<!-- 
 # (2024) VisionGPT: LLM-Assisted Real-Time Anomaly Detection for Safe Visual Navigation
 
 ## Use
@@ -233,7 +233,7 @@ Please cite our work if you find this project helpful.
 
 
 
-
+ -->
 
 
 
