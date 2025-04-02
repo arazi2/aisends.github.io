@@ -52,10 +52,11 @@ In complex, dynamic scenes, recognizing motion is critical for timely interventi
 "Less is better." To understand the visual limitations of different eye diseases, we simulate vision loss scenarios such as tunnel vision, blurred vision, or night blindness. These simulations help us evaluate the system's effectiveness under various impairment models and guide the design of compensation strategies such as auditory cues or zoomed-in focus detection.
 
 <div align="center">
-    <img src="../images/VisionGPT/JP_Shinjuku_3.gif" alt="" style="width: 100%;">
+    <img src="../images/VisionGPT/JP_Shinjuku_5.gif" alt="" style="width: 100%;">
 </div>
 
 
+<br>
 
 ## Assistive agent
 Beyond perception, VIA-LLM incorporates reasoning and interaction modules that bridge the gap between raw visual data and meaningful user feedback. Using large language models, the system can interpret scene context, anticipate risks, and generate natural-language responses for real-time assistance.
@@ -65,7 +66,7 @@ Beyond perception, VIA-LLM incorporates reasoning and interaction modules that b
 The system continuously monitors the scene to detect potentially hazardous situations in advance—such as a fast-approaching vehicle or an unexpected object on the path. It prioritizes urgency and relevance, enabling timely and intuitive feedback to the user through auditory signals or haptic cues.
 
 <div align="center">
-    <img src="../images/VisionGPT/JP_Shinjuku_4.gif" alt="" style="width: 100%;">
+    <img src="../images/VisionGPT/JP_Shinjuku_2.gif" alt="" style="width: 100%;">
 </div>
 
 
@@ -141,20 +142,19 @@ Please cite our work if you find this project helpful.
 
 # (2024) VisionGPT: LLM-Assisted Real-Time Anomaly Detection for Safe Visual Navigation
 
-## Use
-Copy/Download the repository, replace the API key in OPENAI_API_KEY.yaml, and run the demo.py.
 
 
 ## Demonstration
+
+## Overview
+This project explores the potential of Large Language Models(LLMs) in zero-shot anomaly detection for safe visual navigation. 
+
 <div align="center">
     <img src="../images/VisionGPT/JP_1.gif" alt="Framework" style="width: 100%;">
 </div>
 
 See our another project for the movement prediction: <a href="https://github.com/JiayouQin/H-Splitter" target="_blank">H-Splitter</a>
 
-
-## Overview
-This project explores the potential of Large Language Models(LLMs) in zero-shot anomaly detection for safe visual navigation. 
 
 <br>
 
