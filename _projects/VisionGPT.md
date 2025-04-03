@@ -12,22 +12,31 @@ date: 2025-3-20
 
 ## Project Overview
 Assistive visual navigation systems for visually impaired individuals have become increasingly popular thanks to the rise of mobile computing. Most of these devices work by translating visual information into voice commands. In complex scenarios where multiple objects are present, it is imperative to prioritize object detection and provide immediate notifications for key entities in specific directions. This brings the need for identifying the observer’s motion direction (ego-motion) by merely processing visual information, which is the key contribution of this project.
-<a href="https://arxiv.org/pdf/2404.17031" target="_blank">Paper</a>
+
+<div align="center">
+    <img src="../images/VisionGPT/vin_2.png" alt="" style="width: 100%;">
+</div>
+
 
 <br> 
-See our poster at the BSN 2024: 
+See our poster/paper at the BSN 2024: 
 <a href="../files/MotorFocus_poster_2.pdf" target="_blank">BSN 2024 Poster</a>
+<a href="https://arxiv.org/pdf/2404.17031" target="_blank">Paper</a>
+
 
 <br>
 See our project page for the practical implementation and testing:
-<a href="https://github.com/AIS-Clemson/VisionGPT" target="_blank">AIS-Clemson/VisionGPT</a>
 <a href="https://github.com/JiayouQin/H-Splitter/tree/main" target="_blank">AIS-Clemson/MotorFocus</a>
+<a href="https://github.com/AIS-Clemson/VisionGPT" target="_blank">AIS-Clemson/VisionGPT</a>
 
 
 
 # (2025) VIA-LLM: Visually Impaired Assistive Tool with LLM Reasoning (under developing) 
-Globally, over two billion people suffer from vision impairment, with approximately 43 million classified as legally blind \cite{who_blindness}. Some eye diseases, such as Retinitis Pigmentosa (RP), lead to gradual vision loss and currently have no cure. Most treatments for such genetics-driven diseases – including gene therapy (e.g., Luxturna for specific mutations), stem cells, artificial retinal implants, and vitamin A supplementation – have shown only minor effects in restoring lost vision and remain in exploratory stages for decades. For such conditions, developing assistive tools arises as a promising alternative to enable patients to manage their daily tasks and live more independently. 
+Globally, over two billion people suffer from vision impairment, with approximately 43 million classified as legally blind. Some eye diseases, such as Retinitis Pigmentosa (RP), lead to gradual vision loss and currently have no cure. Most treatments for such genetics-driven diseases – including gene therapy (e.g., Luxturna for specific mutations), stem cells, artificial retinal implants, and vitamin A supplementation – have shown only minor effects in restoring lost vision and remain in exploratory stages for decades. For such conditions, developing assistive tools arises as a promising alternative to enable patients to manage their daily tasks and live more independently. 
 
+<div align="center">
+    <img src="../images/VisionGPT/Prevalence-maponly.jpg" alt="" style="width: 60%;">
+</div>
 
 
 ## Computer Vision
@@ -61,6 +70,9 @@ In complex, dynamic scenes, recognizing motion is critical for timely interventi
 ## Assistive agent
 Beyond perception, VIA-LLM incorporates reasoning and interaction modules that bridge the gap between raw visual data and meaningful user feedback. Using large language models, the system can interpret scene context, anticipate risks, and generate natural-language responses for real-time assistance.
 
+<div align="center">
+    <img src="../images/VisionGPT/JP_Shinjuku_1.gif" alt="" style="width: 100%;">
+</div>
 
 ### Early detection & feedback
 The system continuously monitors the scene to detect potentially hazardous situations in advance—such as a fast-approaching vehicle or an unexpected object on the path. It prioritizes urgency and relevance, enabling timely and intuitive feedback to the user through auditory signals or haptic cues.
@@ -99,6 +111,9 @@ This project introduces Motor Focus -- a lightweight, image-based framework desi
     <img src="../images/VisionGPT/HsplitterV2.gif" alt="" style="width: 100%;">
 </div>
 
+<div align="center">
+    <img src="../images/VisionGPT/Picture1.png" alt="" style="width: 100%;">
+</div>
 
 ## Features
 Our framework mainly predicts ego-motion by identifying how users physically orient themselves in space through pixel-wise temporal analysis. 
@@ -110,6 +125,20 @@ Our framework mainly predicts ego-motion by identifying how users physically ori
     <img src="../images/VisionGPT/frame_3.png" alt="" style="width: 100%;">
 </div>
 
+<div align="center">
+    <img src="../images/VisionGPT/result_2.png" alt="" style="width: 100%;">
+</div>
+
+
+## Dataset
+This project also included custom datasets that are collected to train/test assistive visual navigation.
+
+<a href="https://drive.google.com/drive/folders/1HPEWBdEk4aKgus1h37ZkU2KJ964DxmwA?usp=sharing" target="_blank">Dataset</a>
+
+
+<div align="center">
+    <img src="../images/VisionGPT/data.jpg" alt="" style="width: 60%;">
+</div>
 
 
 ### Acknowledgements:
@@ -125,7 +154,6 @@ Please cite our work if you find this project helpful.
   organization={IEEE}
 }
 ```
-
 
 <br>
 <br>
