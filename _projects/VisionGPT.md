@@ -8,6 +8,7 @@ date: 2025-3-20
 # paperurl: 'TBD'
 # citation: 'TBD'
 ---
+## PI: Dr. Abolfazl Razi [arazi@clemson.edu](mailto:arazi@clemson.edu)
 
 
 ## Project Overview
@@ -20,13 +21,15 @@ Assistive visual navigation systems for visually impaired individuals have becom
 
 <br> 
 See our poster/paper at the BSN 2024: 
-<a href="../files/MotorFocus_poster_2.pdf" target="_blank">BSN 2024 Poster</a>
-<a href="https://arxiv.org/pdf/2404.17031" target="_blank">Paper</a>
+<a href="../files/MotorFocus_poster_2.pdf" target="_blank">BSN 2024 Poster</a> 
+/ 
+<a href="https://ieeexplore.ieee.org/abstract/document/10780583" target="_blank">Paper</a>
 
 
-<br>
+
 See our project page for the practical implementation and testing:
 <a href="https://github.com/JiayouQin/H-Splitter/tree/main" target="_blank">AIS-Clemson/MotorFocus</a>
+ 
 <a href="https://github.com/AIS-Clemson/VisionGPT" target="_blank">AIS-Clemson/VisionGPT</a>
 
 
@@ -35,7 +38,7 @@ See our project page for the practical implementation and testing:
 Globally, over two billion people suffer from vision impairment, with approximately 43 million classified as legally blind. Some eye diseases, such as Retinitis Pigmentosa (RP), lead to gradual vision loss and currently have no cure. Most treatments for such genetics-driven diseases – including gene therapy (e.g., Luxturna for specific mutations), stem cells, artificial retinal implants, and vitamin A supplementation – have shown only minor effects in restoring lost vision and remain in exploratory stages for decades. For such conditions, developing assistive tools arises as a promising alternative to enable patients to manage their daily tasks and live more independently. 
 
 <div align="center">
-    <img src="../images/VisionGPT/Prevalence-maponly.jpg" alt="" style="width: 60%;">
+    <img src="../images/VisionGPT/Prevalence-maponly.jpg" alt="" style="width: 70%;">
 </div>
 
 
@@ -71,7 +74,7 @@ In complex, dynamic scenes, recognizing motion is critical for timely interventi
 Beyond perception, VIA-LLM incorporates reasoning and interaction modules that bridge the gap between raw visual data and meaningful user feedback. Using large language models, the system can interpret scene context, anticipate risks, and generate natural-language responses for real-time assistance.
 
 <div align="center">
-    <img src="../images/VisionGPT/JP_Shinjuku_1.gif" alt="" style="width: 100%;">
+    <img src="../images/VisionGPT/framework.jpg" alt="" style="width: 100%;">
 </div>
 
 ### Early detection & feedback
@@ -111,6 +114,8 @@ This project introduces Motor Focus -- a lightweight, image-based framework desi
     <img src="../images/VisionGPT/HsplitterV2.gif" alt="" style="width: 100%;">
 </div>
 
+<br>
+
 <div align="center">
     <img src="../images/VisionGPT/Picture1.png" alt="" style="width: 100%;">
 </div>
@@ -124,6 +129,8 @@ Our framework mainly predicts ego-motion by identifying how users physically ori
 <div align="center">
     <img src="../images/VisionGPT/frame_3.png" alt="" style="width: 100%;">
 </div>
+
+<br>
 
 <div align="center">
     <img src="../images/VisionGPT/result_2.png" alt="" style="width: 100%;">
