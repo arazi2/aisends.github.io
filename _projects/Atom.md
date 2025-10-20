@@ -11,7 +11,7 @@ date: 2025-7-20
 
 # NEW: AtomDiffuser: Time-Aware Degradation Modeling for Drift and Beam Damage in STEM Imaging
 See our paper at the ICCV 2025: 
-<a href="../files/Poster_hao9_ICCV_2025.pdf" target="_blank">BSN 2024 Poster</a> 
+<a href="../files/Poster_hao9_ICCV_2025.pdf" target="_blank">ICCV 2025 Poster</a> 
 / 
 <a href="https://openaccess.thecvf.com/content/ICCV2025W/CV4MS/html/Wang_AtomDiffuser_Time-Aware_Degradation_Modeling_for_Drift_and_Beam_Damage_in_ICCVW_2025_paper.html" target="_blank">Paper</a>
 
