@@ -82,11 +82,16 @@ analytics:
 author:
   name             : "Abolfazl Razi"
   avatar           : "A_Razi.jpg"
-  bio              : "Room #203, 821 McMillan Rd"
+  bio              : |
+    Associate Professor  
+    School of Computing  
+    Clemson University  
+  "Room #203, 821 McMillan Rd"
   location         : "Clemson, SC, 29631"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/"
   googlescholar    :  "https://scholar.google.com/citations?user=DhwC8gsAAAAJ&hl=en"
+  cv               : "/files/RaziCV.pdf"
   email            :  "arazi@clemson.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  "https://arazi.people.clemson.edu/"
