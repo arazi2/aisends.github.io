@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Abolfazl Razi"
   avatar           : "A_Razi.jpg"
-  bio              : "Room #203, 821 McMillan Rd"
+  bio              :  "Associate Professor, School of Computing, Clemson University" # "Room #203, 821 McMillan Rd"
   location         : "Clemson, SC, 29631"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/"
