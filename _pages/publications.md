@@ -135,6 +135,7 @@ A. Razi, F. Afghah, A. Abedi, "Binary Source Estimation Using a Two-tiered Wirel
 F. Afghah, M. Ardebilipour, A. Razi, "Fast Turbo Codes Concatenated with Space-Time Block Codes", ISI Journal of Applied Science, no. 8, pp 2867-2873, 2008 <a href="https://scialert.net/abstract/?doi=jas.2008.2867.2873">(Link)</a> <a href="../files/papers/p2008_JAppliedScience_FastTurboCodesSTBC.pdf">(PDF)</a> <a href="../files/papers/p2008_JAppliedScience_FastTurboCodesSTBC.txt">(Bibtex)</a>
 
 ## Conference Papers
+
 Ashish Bastola, Nishant Luitel, Hao Wang, Danda Pani Paudel, Roshni Poudel, Abolfazl Razi, "Robust-Former: Noise-Robust Pre-training for Images and Videos," in IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), May 2026, Tucson, Arizona. <a href="the link comes here later">(Link)</a>
 
 Xiwen Chen, Wenhui Zhu, Peijie Qiu, Hao Wang, Huayu Li, Haiyu Wu, Xuanzhao Dong, Aris Sotiras, Yalin Wang, Abolfazl Razi, "Prompt-OT: An Optimal Transport Regularization Paradigm for Knowledge Preservation in Vision-Language Model Adaptation," in IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), May 2026, Tucson, Arizona. <a href="the link comes here later">(Link)</a>
