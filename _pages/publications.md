@@ -194,25 +194,25 @@ Chen, X., Wang, H., Zhang, Z., Li, Z., Li, H., Ye, T., Razi, A., "Enhancing Digi
 
 Chen, X., Zhu, W., Qiu, P., Razi, A., "Imaging Signal Recovery Using Neural Network Priors Under Uncertain Forward Model Parameters," in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, pp. 1420–1429, June 17–21, 2024, Seattle, Washington, USA. <a href="https://arxiv.org/abs/2405.02944">(Link)</a>
 
-Uma Meleti, Abolfazl Razi, Fatemeh Afghah, "Obscured Wildfire Flame Detection By Spatio-Temporal Analysis of Smoke Patterns Using Frame-Wise Transformers," in DCOSS-IoT, April 29–31, 2024, Abu Dhabi, UAE. <a href="the_link_comes_here_later">(Link)</a>
+Uma Meleti, Abolfazl Razi, Fatemeh Afghah, "Obscured Wildfire Flame Detection By Spatio-Temporal Analysis of Smoke Patterns Using Frame-Wise Transformers," in DCOSS-IoT, April 29–31, 2024, Abu Dhabi, UAE. <a href="https://ieeexplore.ieee.org/document/10621462/">(Link)</a>
 
-Sarlak, A., Alzorgan, H., Boroujeni, S. P. H., Razi, A., Amin, R., "Enhanced Cooperative Perception for Autonomous Vehicles Using Imperfect Communication," in DCOSS-IoT, April 29–31, 2024, Abu Dhabi, UAE. <a href="the_link_comes_here_later">(Link)</a>
+Sarlak, A., Alzorgan, H., Boroujeni, S. P. H., Razi, A., Amin, R., "Enhanced Cooperative Perception for Autonomous Vehicles Using Imperfect Communication," in DCOSS-IoT, April 29–31, 2024, Abu Dhabi, UAE. <a href="https://ieeexplore.ieee.org/document/10621566">(Link)</a>
 
-Bastola, A., Wang, H., Chen, X., Razi, A., "FedMIL: Federated-Multiple Instance Learning for Video Analysis with Optimized DPP Scheduling," in DCOSS-IoT, April 29–31, 2024, Abu Dhabi, UAE. <a href="the_link_comes_here_later">(Link)</a>
+Bastola, A., Wang, H., Chen, X., Razi, A., "FedMIL: Federated-Multiple Instance Learning for Video Analysis with Optimized DPP Scheduling," in DCOSS-IoT, April 29–31, 2024, Abu Dhabi, UAE. <a href="https://ieeexplore.ieee.org/document/10621553/">(Link)</a>
 
-Ahmad Sarlak, Xiwen Chen, Rahul Amin, Abolfazl Razi, "Diversity Maximized Scheduling in Road-Side Units for Traffic Monitoring Applications," in 48th Annual IEEE Conference on Local Computer Networks (LCN), October 1–5, 2023, Daytona Beach, Florida, USA. <a href="the_link_comes_here_later">(Link)</a>
+Ahmad Sarlak, Xiwen Chen, Rahul Amin, Abolfazl Razi, "Diversity Maximized Scheduling in Road-Side Units for Traffic Monitoring Applications," in 48th Annual IEEE Conference on Local Computer Networks (LCN), October 1–5, 2023, Daytona Beach, Florida, USA. <a href="https://ieeexplore.ieee.org/document/10223373/">(Link)</a>
 
-Sarlak, A., Boroujeni, S. P. H., Alzorgan, H., Amin, R., Razi, A., Rajoli, H., "Cooperative Perception for Connected Autonomous Vehicles Under Constrained V2V Networking," in 57th Asilomar Conference on Signals, Systems, and Computers, pp. 210–214, 2023. <a href="the_link_comes_here_later">(Link)</a>
+Sarlak, A., Boroujeni, S. P. H., Alzorgan, H., Amin, R., Razi, A., Rajoli, H., "Cooperative Perception for Connected Autonomous Vehicles Under Constrained V2V Networking," in 57th Asilomar Conference on Signals, Systems, and Computers, pp. 210–214, 2023. <a href="https://ieeexplore.ieee.org/document/10476810/">(Link)</a>
 
-Manveen Kaur, Abolfazl Razi, Long Cheng, Rahul Amin, Jim Martin, "Design and Evaluation of an Application-Oriented Data-Centric Communication Framework for Emerging Cyber-Physical Systems," in 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC), pp. 875–878, 2023. <a href="the_link_comes_here_later">(Link)</a>
+Manveen Kaur, Abolfazl Razi, Long Cheng, Rahul Amin, Jim Martin, "Design and Evaluation of an Application-Oriented Data-Centric Communication Framework for Emerging Cyber-Physical Systems," in 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC), pp. 875–878, 2023. <a href="https://ieeexplore.ieee.org/document/10060823/">(Link)</a>
 
-Alzorgan, H., Razi, A., "Actuator Trajectory Planning for UAVs with Overhead Manipulator using Reinforcement Learning," in 5th IEEE Workshop on Wireless Networking, Planning, and Computing for UAV Swarms (SwarmNet) at IEEE PIMRC, September 5–8, 2023, Toronto, ON, Canada. <a href="the_link_comes_here_later">(Link)</a>
+Alzorgan, H., Razi, A., "Actuator Trajectory Planning for UAVs with Overhead Manipulator using Reinforcement Learning," in 5th IEEE Workshop on Wireless Networking, Planning, and Computing for UAV Swarms (SwarmNet) at IEEE PIMRC, September 5–8, 2023, Toronto, ON, Canada. <a href="https://ieeexplore.ieee.org/document/10293891/">(Link)</a>
 
-Moshayedi, A. J., Soleimani, M., Marani, M., Yang, S., Razi, A., Andani, M. E., "Fingerprint Identification Banking (FIB); Affordable and Secure Biometric IOT Design," in 4th International Seminar on Artificial Intelligence, Networking and Information Technology (AINIT), pp. 384–390, 2023. <a href="the_link_comes_here_later">(Link)</a>
+Moshayedi, A. J., Soleimani, M., Marani, M., Yang, S., Razi, A., Andani, M. E., "Fingerprint Identification Banking (FIB); Affordable and Secure Biometric IOT Design," in 4th International Seminar on Artificial Intelligence, Networking and Information Technology (AINIT), pp. 384–390, 2023. <a href="https://ieeexplore.ieee.org/document/10212558/">(Link)</a>
 
-Hao Wang, Xiwen Chen, Abolfazl Razi, Michael Kozicki, Rahul Amin, Mark Manfredo, "Nano-Resolution Visual Identifiers Enable Secure Monitoring in Next-Generation Cyber-Physical Systems," in 9th Annual Conference on Computational Science and Computational Intelligence (CSCI’22), December 2022, Las Vegas, USA. <a href="the_link_comes_here_later">(Link)</a>
+Hao Wang, Xiwen Chen, Abolfazl Razi, Michael Kozicki, Rahul Amin, Mark Manfredo, "Nano-Resolution Visual Identifiers Enable Secure Monitoring in Next-Generation Cyber-Physical Systems," in 9th Annual Conference on Computational Science and Computational Intelligence (CSCI’22), December 2022, Las Vegas, USA. <a href="https://ieeexplore.ieee.org/document/10216773/">(Link)</a>
 
-Hao Wang, Xiwen Chen, Abolfazl Razi, Rahul Amin, "Fast Key Points Detection and Matching for Tree-Structured Images," in 9th Annual Conference on Computational Science and Computational Intelligence (CSCI’22), December 2022, Las Vegas, USA. <a href="the_link_comes_here_later">(Link)</a>
+Hao Wang, Xiwen Chen, Abolfazl Razi, Rahul Amin, "Fast Key Points Detection and Matching for Tree-Structured Images," in 9th Annual Conference on Computational Science and Computational Intelligence (CSCI’22), December 2022, Las Vegas, USA. <a href="https://ieeexplore.ieee.org/document/10216721/">(Link)</a>
 
 J. Qu, Y. Zhang, K. Zhou, A. Razi, "Long Time Target Tracking Algorithm Based on Multi-Feature Fusion and Correlation Filtering," in 4th International Conference on Artificial Intelligence and Pattern Recognition, pp. 29–35, September 2021. <a href="the_link_comes_here_later">(Link)</a>
 
