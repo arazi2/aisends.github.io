@@ -38,7 +38,7 @@ A. Abedi, A. Razi, "Sensor Design for Harsh Environments: Material Science Persp
 
 
 
-## Patents
+## Patents and Invention Disclosures
 
 A. Razi, V. Varadan, N. Dimitrova, N. Banerjee, "Integrated method and system for identifying functional patient-specific somatic aberrations using multi-omics cancer profiles'', US PAtent: US20180247010A1, Aug 2018 <a href="https://patents.google.com/patent/US20180247010A1/en">(Link)</a>
 
