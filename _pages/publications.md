@@ -174,143 +174,143 @@ Wenhui Zhu, Xiwen Chen, Peijie Qiu, Aristeidis Sotiras, Abolfazl Razi, Yalin Wan
 
 Zhu, W., Chen, X., Qiu, P., Farazi, M., Sotiras, A., Razi, A., Wang, Y., "SelfReg-UNet: Self-Regularized UNet for Medical Image Segmentation," in the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), pp. 1–10, October 6–10, 2024. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12408486/">(Link)</a>
 
-Hao Wang, Wenhui Zhu, Jiayou Qin, Xin Li, Oana Dumitrascu, Xiwen Chen, Peijie Qiu, Abolfazl Razi, Yalin Wang, "Rbad: A dataset and benchmark for retinal vessels branching angle detection," in 2024 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI), pp. 1–8, 2024. <a href="the link comes here later">(Link)</a>
+Hao Wang, Wenhui Zhu, Jiayou Qin, Xin Li, Oana Dumitrascu, Xiwen Chen, Peijie Qiu, Abolfazl Razi, Yalin Wang, "Rbad: A dataset and benchmark for retinal vessels branching angle detection," in 2024 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI), pp. 1–8, 2024. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12068685/">(Link)</a>
 
-Hao Wang, Jiayou Qin, Xiwen Chen, Ashish Bastola, John Suchanek, Zihao Gong, Abolfazl Razi, "Motor Focus: Fast Ego-Motion Prediction for Assistive Visual Navigation," in 2024 IEEE 20th International Conference on Body Sensor Networks (BSN), pp. 1–4, 2024. <a href="the link comes here later">(Link)</a>
+Hao Wang, Jiayou Qin, Xiwen Chen, Ashish Bastola, John Suchanek, Zihao Gong, Abolfazl Razi, "Motor Focus: Fast Ego-Motion Prediction for Assistive Visual Navigation," in 2024 IEEE 20th International Conference on Body Sensor Networks (BSN), pp. 1–4, 2024. <a href="https://ieeexplore.ieee.org/document/10780583/">(Link)</a>
 
-Ata Jahangir Moshayedi, Izhar Lskar, Shuxin Yang, Shashikant Kisanrao Shinde, Abolfazl Razi, Mehran Emadi Andani, "IOTToe: A Smart System for In/Out-Toeing Foot Identification," in 2024 6th International Conference on Communications, Information System and Computer Engineering (CISCE), pp. 1510–1514, 2024. <a href="the link comes here later">(Link)</a>
+Ata Jahangir Moshayedi, Izhar Lskar, Shuxin Yang, Shashikant Kisanrao Shinde, Abolfazl Razi, Mehran Emadi Andani, "IOTToe: A Smart System for In/Out-Toeing Foot Identification," in 2024 6th International Conference on Communications, Information System and Computer Engineering (CISCE), pp. 1510–1514, 2024. <a href="https://ieeexplore.ieee.org/document/10653297/">(Link)</a>
 
-Xiwen Chen, Sayed Pedram Haeri Boroujeni, Xin Shu, Huayu Li, Abolfazl Razi, "Enhancing Graph Neural Networks in Large-scale Traffic Incident Analysis with Concurrency Hypothesis," in Proceedings of the 32nd ACM International Conference on Advances in Geographic Information Systems, pp. 196–207, 2024. <a href="the link comes here later">(Link)</a>
+Xiwen Chen, Sayed Pedram Haeri Boroujeni, Xin Shu, Huayu Li, Abolfazl Razi, "Enhancing Graph Neural Networks in Large-scale Traffic Incident Analysis with Concurrency Hypothesis," in Proceedings of the 32nd ACM International Conference on Advances in Geographic Information Systems, pp. 196–207, 2024. <a href="https://dl.acm.org/doi/10.1145/3678717.3691256">(Link)</a>
 
-Xiangyu Jiang, Xiwen Chen, Hao Wang, Abolfazl Razi, "Geographical Information Alignment Boosts Traffic Analysis via Transpose Cross-attention," in 2024 IEEE International Conference on Big Data (BigData), pp. 6031–6036, 2024. <a href="the link comes here later">(Link)</a>
+Xiangyu Jiang, Xiwen Chen, Hao Wang, Abolfazl Razi, "Geographical Information Alignment Boosts Traffic Analysis via Transpose Cross-attention," in 2024 IEEE International Conference on Big Data (BigData), pp. 6031–6036, 2024. <a href="https://www.computer.org/csdl/proceedings-article/bigdata/2024/10825756/23yk5vf1YME">(Link)</a>
 
-Hao Wang, Sayed Pedram Haeri Boroujeni, Xiwen Chen, Ashish Bastola, Huayu Li, Wenhui Zhu, Abolfazl Razi, "Flame Diffuser: Wildfire Image Synthesis Using Mask Guided Diffusion," in 2024 IEEE International Conference on Big Data (BigData), pp. 6171–6179, 2024. <a href="the link comes here later">(Link)</a>
+Hao Wang, Sayed Pedram Haeri Boroujeni, Xiwen Chen, Ashish Bastola, Huayu Li, Wenhui Zhu, Abolfazl Razi, "Flame Diffuser: Wildfire Image Synthesis Using Mask Guided Diffusion," in 2024 IEEE International Conference on Big Data (BigData), pp. 6171–6179, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10826040/">(Link)</a>
 
-Xuanzhao Dong, Yalin Wang, Yanxi Chen, Xin Li, Hao Wang, Peijie Qiu, Xiwen Chen, Abolfazl Razi, Yujian Xiong, Oana M. Dumitrascu, et al., "DME-MobileNet: Fine-Tuning nnMobileNet for Diabetic Macular Edema Classification," MICCAI Challenge on Ultra-Widefield Fundus Imaging for Diabetic Retinopathy, pp. 155–164, Springer Nature Switzerland, Cham, 2024. <a href="the link comes here later">(Link)</a>
+Xuanzhao Dong, Yalin Wang, Yanxi Chen, Xin Li, Hao Wang, Peijie Qiu, Xiwen Chen, Abolfazl Razi, Yujian Xiong, Oana M. Dumitrascu, et al., "DME-MobileNet: Fine-Tuning nnMobileNet for Diabetic Macular Edema Classification," MICCAI Challenge on Ultra-Widefield Fundus Imaging for Diabetic Retinopathy, pp. 155–164, Springer Nature Switzerland, Cham, 2024. <a href="https://link.springer.com/chapter/10.1007/978-3-031-89388-9_16">(Link)</a>
 
-Chen, X., Qiu, P., Zhu, W., Li, H., Wang, H., Sotiras, A., Wang, Y., Razi, A., "TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning," in The Forty-first International Conference on Machine Learning (ICML), Vienna, Austria, July 21–27, 2024. <a href="the link comes here later">(Link)</a>
+Chen, X., Qiu, P., Zhu, W., Li, H., Wang, H., Sotiras, A., Wang, Y., Razi, A., "TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning," in The Forty-first International Conference on Machine Learning (ICML), Vienna, Austria, July 21–27, 2024. <a href="the_link_comes_here_later">(Link)</a>
 
-Chen, X., Wang, H., Zhang, Z., Li, Z., Li, H., Ye, T., Razi, A., "Enhancing Digital Hologram Reconstruction Using Reverse-Attention Loss for Untrained Physics-Driven Deep Learning Models with Uncertain Distance," SPIE AI and Optical Data Sciences, vol. 12903, pp. 132–141, March 3, 2024, Washington DC, USA. <a href="the link comes here later">(Link)</a>
+Chen, X., Wang, H., Zhang, Z., Li, Z., Li, H., Ye, T., Razi, A., "Enhancing Digital Hologram Reconstruction Using Reverse-Attention Loss for Untrained Physics-Driven Deep Learning Models with Uncertain Distance," SPIE AI and Optical Data Sciences, vol. 12903, pp. 132–141, March 3, 2024, Washington DC, USA. <a href="the_link_comes_here_later">(Link)</a>
 
-Chen, X., Zhu, W., Qiu, P., Razi, A., "Imaging Signal Recovery Using Neural Network Priors Under Uncertain Forward Model Parameters," in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, pp. 1420–1429, June 17–21, 2024, Seattle, Washington, USA. <a href="the link comes here later">(Link)</a>
+Chen, X., Zhu, W., Qiu, P., Razi, A., "Imaging Signal Recovery Using Neural Network Priors Under Uncertain Forward Model Parameters," in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, pp. 1420–1429, June 17–21, 2024, Seattle, Washington, USA. <a href="the_link_comes_here_later">(Link)</a>
 
-Uma Meleti, Abolfazl Razi, Fatemeh Afghah, "Obscured Wildfire Flame Detection By Spatio-Temporal Analysis of Smoke Patterns Using Frame-Wise Transformers," in DCOSS-IoT, April 29–31, 2024, Abu Dhabi, UAE. <a href="the link comes here later">(Link)</a>
+Uma Meleti, Abolfazl Razi, Fatemeh Afghah, "Obscured Wildfire Flame Detection By Spatio-Temporal Analysis of Smoke Patterns Using Frame-Wise Transformers," in DCOSS-IoT, April 29–31, 2024, Abu Dhabi, UAE. <a href="the_link_comes_here_later">(Link)</a>
 
-Sarlak, A., Alzorgan, H., Boroujeni, S. P. H., Razi, A., Amin, R., "Enhanced Cooperative Perception for Autonomous Vehicles Using Imperfect Communication," in DCOSS-IoT, April 29–31, 2024, Abu Dhabi, UAE. <a href="the link comes here later">(Link)</a>
+Sarlak, A., Alzorgan, H., Boroujeni, S. P. H., Razi, A., Amin, R., "Enhanced Cooperative Perception for Autonomous Vehicles Using Imperfect Communication," in DCOSS-IoT, April 29–31, 2024, Abu Dhabi, UAE. <a href="the_link_comes_here_later">(Link)</a>
 
-Bastola, A., Wang, H., Chen, X., Razi, A., "FedMIL: Federated-Multiple Instance Learning for Video Analysis with Optimized DPP Scheduling," in DCOSS-IoT, April 29–31, 2024, Abu Dhabi, UAE. <a href="the link comes here later">(Link)</a>
+Bastola, A., Wang, H., Chen, X., Razi, A., "FedMIL: Federated-Multiple Instance Learning for Video Analysis with Optimized DPP Scheduling," in DCOSS-IoT, April 29–31, 2024, Abu Dhabi, UAE. <a href="the_link_comes_here_later">(Link)</a>
 
-Ahmad Sarlak, Xiwen Chen, Rahul Amin, Abolfazl Razi, "Diversity Maximized Scheduling in Road-Side Units for Traffic Monitoring Applications," in 48th Annual IEEE Conference on Local Computer Networks (LCN), October 1–5, 2023, Daytona Beach, Florida, USA. <a href="the link comes here later">(Link)</a>
+Ahmad Sarlak, Xiwen Chen, Rahul Amin, Abolfazl Razi, "Diversity Maximized Scheduling in Road-Side Units for Traffic Monitoring Applications," in 48th Annual IEEE Conference on Local Computer Networks (LCN), October 1–5, 2023, Daytona Beach, Florida, USA. <a href="the_link_comes_here_later">(Link)</a>
 
-Sarlak, A., Boroujeni, S. P. H., Alzorgan, H., Amin, R., Razi, A., Rajoli, H., "Cooperative Perception for Connected Autonomous Vehicles Under Constrained V2V Networking," in 57th Asilomar Conference on Signals, Systems, and Computers, pp. 210–214, 2023. <a href="the link comes here later">(Link)</a>
+Sarlak, A., Boroujeni, S. P. H., Alzorgan, H., Amin, R., Razi, A., Rajoli, H., "Cooperative Perception for Connected Autonomous Vehicles Under Constrained V2V Networking," in 57th Asilomar Conference on Signals, Systems, and Computers, pp. 210–214, 2023. <a href="the_link_comes_here_later">(Link)</a>
 
-Manveen Kaur, Abolfazl Razi, Long Cheng, Rahul Amin, Jim Martin, "Design and Evaluation of an Application-Oriented Data-Centric Communication Framework for Emerging Cyber-Physical Systems," in 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC), pp. 875–878, 2023. <a href="the link comes here later">(Link)</a>
+Manveen Kaur, Abolfazl Razi, Long Cheng, Rahul Amin, Jim Martin, "Design and Evaluation of an Application-Oriented Data-Centric Communication Framework for Emerging Cyber-Physical Systems," in 2023 IEEE 20th Consumer Communications & Networking Conference (CCNC), pp. 875–878, 2023. <a href="the_link_comes_here_later">(Link)</a>
 
-Alzorgan, H., Razi, A., "Actuator Trajectory Planning for UAVs with Overhead Manipulator using Reinforcement Learning," in 5th IEEE Workshop on Wireless Networking, Planning, and Computing for UAV Swarms (SwarmNet) at IEEE PIMRC, September 5–8, 2023, Toronto, ON, Canada. <a href="the link comes here later">(Link)</a>
+Alzorgan, H., Razi, A., "Actuator Trajectory Planning for UAVs with Overhead Manipulator using Reinforcement Learning," in 5th IEEE Workshop on Wireless Networking, Planning, and Computing for UAV Swarms (SwarmNet) at IEEE PIMRC, September 5–8, 2023, Toronto, ON, Canada. <a href="the_link_comes_here_later">(Link)</a>
 
-Moshayedi, A. J., Soleimani, M., Marani, M., Yang, S., Razi, A., Andani, M. E., "Fingerprint Identification Banking (FIB); Affordable and Secure Biometric IOT Design," in 4th International Seminar on Artificial Intelligence, Networking and Information Technology (AINIT), pp. 384–390, 2023. <a href="the link comes here later">(Link)</a>
+Moshayedi, A. J., Soleimani, M., Marani, M., Yang, S., Razi, A., Andani, M. E., "Fingerprint Identification Banking (FIB); Affordable and Secure Biometric IOT Design," in 4th International Seminar on Artificial Intelligence, Networking and Information Technology (AINIT), pp. 384–390, 2023. <a href="the_link_comes_here_later">(Link)</a>
 
-Hao Wang, Xiwen Chen, Abolfazl Razi, Michael Kozicki, Rahul Amin, Mark Manfredo, "Nano-Resolution Visual Identifiers Enable Secure Monitoring in Next-Generation Cyber-Physical Systems," in 9th Annual Conference on Computational Science and Computational Intelligence (CSCI’22), December 2022, Las Vegas, USA. <a href="the link comes here later">(Link)</a>
+Hao Wang, Xiwen Chen, Abolfazl Razi, Michael Kozicki, Rahul Amin, Mark Manfredo, "Nano-Resolution Visual Identifiers Enable Secure Monitoring in Next-Generation Cyber-Physical Systems," in 9th Annual Conference on Computational Science and Computational Intelligence (CSCI’22), December 2022, Las Vegas, USA. <a href="the_link_comes_here_later">(Link)</a>
 
-Hao Wang, Xiwen Chen, Abolfazl Razi, Rahul Amin, "Fast Key Points Detection and Matching for Tree-Structured Images," in 9th Annual Conference on Computational Science and Computational Intelligence (CSCI’22), December 2022, Las Vegas, USA. <a href="the link comes here later">(Link)</a>
+Hao Wang, Xiwen Chen, Abolfazl Razi, Rahul Amin, "Fast Key Points Detection and Matching for Tree-Structured Images," in 9th Annual Conference on Computational Science and Computational Intelligence (CSCI’22), December 2022, Las Vegas, USA. <a href="the_link_comes_here_later">(Link)</a>
 
-J. Qu, Y. Zhang, K. Zhou, A. Razi, "Long Time Target Tracking Algorithm Based on Multi-Feature Fusion and Correlation Filtering," in 4th International Conference on Artificial Intelligence and Pattern Recognition, pp. 29–35, September 2021. <a href="the link comes here later">(Link)</a>
+J. Qu, Y. Zhang, K. Zhou, A. Razi, "Long Time Target Tracking Algorithm Based on Multi-Feature Fusion and Correlation Filtering," in 4th International Conference on Artificial Intelligence and Pattern Recognition, pp. 29–35, September 2021. <a href="the_link_comes_here_later">(Link)</a>
 
-H. Li, H. Wu, X. Chen, H. Wang, A. Razi, "Towards Boosting Channel Attention for Real Image Denoising: Sub-band Pyramid Attention," in Springer International Conference on Image and Graphics, pp. 303–314, Cham, August 2021. <a href="the link comes here later">(Link)</a>
+H. Li, H. Wu, X. Chen, H. Wang, A. Razi, "Towards Boosting Channel Attention for Real Image Denoising: Sub-band Pyramid Attention," in Springer International Conference on Image and Graphics, pp. 303–314, Cham, August 2021. <a href="the_link_comes_here_later">(Link)</a>
 
-Xiwen Chen, Huayu Li, Abolfazl Razi, "Boosting Belief Propagation for LDPC Codes with Deep Convolutional Neural Network Predictors," accepted in IEEE Consumer Communications & Networking Conference (CCNC), Las Vegas, 2021. <a href="the link comes here later">(Link)</a>
+Xiwen Chen, Huayu Li, Abolfazl Razi, "Boosting Belief Propagation for LDPC Codes with Deep Convolutional Neural Network Predictors," accepted in IEEE Consumer Communications & Networking Conference (CCNC), Las Vegas, 2021. <a href="the_link_comes_here_later">(Link)</a>
 
-A.R. Korenda, F. Afghah, A. Razi, B. Cambou, T. Begay, "Fuzzy Key Generator Design using ReRAM-Based Physically Unclonable Functions," in IEEE Physical Assurance and Inspection of Electronics (PAINE), pp. 1–7, 2021. <a href="the link comes here later">(Link)</a>
+A.R. Korenda, F. Afghah, A. Razi, B. Cambou, T. Begay, "Fuzzy Key Generator Design using ReRAM-Based Physically Unclonable Functions," in IEEE Physical Assurance and Inspection of Electronics (PAINE), pp. 1–7, 2021. <a href="the_link_comes_here_later">(Link)</a>
 
-Han Peng, Abolfazl Razi, "Fully Autonomous UAV-based Action Recognition System Using Aerial Imagery," accepted in International Symposium on Visual Computing (ISVC), 2020. <a href="the link comes here later">(Link)</a>
+Han Peng, Abolfazl Razi, "Fully Autonomous UAV-based Action Recognition System Using Aerial Imagery," accepted in International Symposium on Visual Computing (ISVC), 2020. <a href="the_link_comes_here_later">(Link)</a>
 
-Haiyu Wu, Huayu Li, Alireza Shamsoshoara, Abolfazl Razi, Fatemeh Afghah, "Transfer Learning for Wildfire Identification in UAV Imagery," in 54th Annual Conference on Information Sciences and Systems (CISS), pp. 1–6, March 2020. <a href="the link comes here later">(Link)</a>
+Haiyu Wu, Huayu Li, Alireza Shamsoshoara, Abolfazl Razi, Fatemeh Afghah, "Transfer Learning for Wildfire Identification in UAV Imagery," in 54th Annual Conference on Information Sciences and Systems (CISS), pp. 1–6, March 2020. <a href="the_link_comes_here_later">(Link)</a>
 
-H. Li, A. Razi, "MEDA: Multi-output Encoder-Decoder for Spatial Attention in Convolutional Neural Networks," in Asilomar Conference on Signals, Systems and Computers, pp. 2087–2091, Pacific Grove, CA, November 2019. <a href="the link comes here later">(Link)</a>
+H. Li, A. Razi, "MEDA: Multi-output Encoder-Decoder for Spatial Attention in Convolutional Neural Networks," in Asilomar Conference on Signals, Systems and Computers, pp. 2087–2091, Pacific Grove, CA, November 2019. <a href="the_link_comes_here_later">(Link)</a>
 
-S. Islam, F. Afghah, A. Razi, "Fire Frontline Monitoring by Enabling UAV-Based Virtual Reality with Adaptive Imaging Rate," in Asilomar Conference on Signals, Systems and Computers, pp. 368–372, Pacific Grove, CA, November 2019. <a href="the link comes here later">(Link)</a>
+S. Islam, F. Afghah, A. Razi, "Fire Frontline Monitoring by Enabling UAV-Based Virtual Reality with Adaptive Imaging Rate," in Asilomar Conference on Signals, Systems and Computers, pp. 368–372, Pacific Grove, CA, November 2019. <a href="the_link_comes_here_later">(Link)</a>
 
-Junsuo Qu, Ning Qiao, Abolfazl Razi, "Convolutional Neural Network for Human Behavior Recognition Based on Smart Bracelet," in Euro-China Conference on Intelligent Data Analysis and Applications (ECC), Arad, Romania, October 2019. <a href="the link comes here later">(Link)</a>
+Junsuo Qu, Ning Qiao, Abolfazl Razi, "Convolutional Neural Network for Human Behavior Recognition Based on Smart Bracelet," in Euro-China Conference on Intelligent Data Analysis and Applications (ECC), Arad, Romania, October 2019. <a href="the_link_comes_here_later">(Link)</a>
 
-A. Shamsoshoara, M. Khaledi, F. Afghah, A. Razi, J. Ashdown, K. Turck, "A Solution for Dynamic Spectrum Management in Mission-critical UAV Networks," in IEEE SECON Workshop on Networks of Autonomous Vehicles, Robots, Sensors (IAUV), Boston, June 2019. <a href="the link comes here later">(Link)</a>
+A. Shamsoshoara, M. Khaledi, F. Afghah, A. Razi, J. Ashdown, K. Turck, "A Solution for Dynamic Spectrum Management in Mission-critical UAV Networks," in IEEE SECON Workshop on Networks of Autonomous Vehicles, Robots, Sensors (IAUV), Boston, June 2019. <a href="the_link_comes_here_later">(Link)</a>
 
-J. Cheng, A. Valehi, F. Afghah, A. Razi, "A Deviation Analysis Framework for ECG Signals Using Controlled Spatial Transformation," in IEEE-EMBS International Conference on Biomedical and Health Informatics, Chicago, May 2019. <a href="the link comes here later">(Link)</a>
+J. Cheng, A. Valehi, F. Afghah, A. Razi, "A Deviation Analysis Framework for ECG Signals Using Controlled Spatial Transformation," in IEEE-EMBS International Conference on Biomedical and Health Informatics, Chicago, May 2019. <a href="the_link_comes_here_later">(Link)</a>
 
-S. Mousavi, F. Afghah, A. Razi, R. Acharya, "ECGNET: Learning Where to Attend for Detection of Atrial Fibrillation with Deep Visual Attention," in IEEE-EMBS International Conference on Biomedical and Health Informatics, Chicago, May 2019. <a href="the link comes here later">(Link)</a>
+S. Mousavi, F. Afghah, A. Razi, R. Acharya, "ECGNET: Learning Where to Attend for Detection of Atrial Fibrillation with Deep Visual Attention," in IEEE-EMBS International Conference on Biomedical and Health Informatics, Chicago, May 2019. <a href="the_link_comes_here_later">(Link)</a>
 
-F. Afghah, A. Razi, "Wildfire Monitoring in Remote Areas using Autonomous Unmanned Aerial Vehicles," in INFOCOM Workshop on Mission-Oriented Wireless Sensor, UAV and Robot Networking, Paris, France, May 2019. <a href="the link comes here later">(Link)</a>
+F. Afghah, A. Razi, "Wildfire Monitoring in Remote Areas using Autonomous Unmanned Aerial Vehicles," in INFOCOM Workshop on Mission-Oriented Wireless Sensor, UAV and Robot Networking, Paris, France, May 2019. <a href="the_link_comes_here_later">(Link)</a>
 
-S. Islam, A. Razi, "A Path Planning Algorithm for Collective Monitoring Using Autonomous Drones," in 53rd Annual Conference on Information Sciences and Systems (CISS), pp. 1–6, Baltimore, MD, March 2019. <a href="the link comes here later">(Link)</a>
+S. Islam, A. Razi, "A Path Planning Algorithm for Collective Monitoring Using Autonomous Drones," in 53rd Annual Conference on Information Sciences and Systems (CISS), pp. 1–6, Baltimore, MD, March 2019. <a href="the_link_comes_here_later">(Link)</a>
 
-A. Shamsoshoara, M. Khaledi, F. Afghah, A. Razi, J. Ashdown, "Distributed Cooperative Spectrum Sharing in UAV Networks using Multi-Agent Reinforcement Learning," in IEEE Consumer Communications and Networking Conference (CCNC), pp. 1–6, Las Vegas, January 2019. <a href="the link comes here later">(Link)</a>
+A. Shamsoshoara, M. Khaledi, F. Afghah, A. Razi, J. Ashdown, "Distributed Cooperative Spectrum Sharing in UAV Networks using Multi-Agent Reinforcement Learning," in IEEE Consumer Communications and Networking Conference (CCNC), pp. 1–6, Las Vegas, January 2019. <a href="the_link_comes_here_later">(Link)</a>
 
-A. Rovira-Sugranes, A. Razi, "Optimized Compression Policy for Flying Ad Hoc Networks," in IEEE Consumer Communications and Networking Conference (CCNC), Las Vegas, January 2019. <a href="the link comes here later">(Link)</a>
+A. Rovira-Sugranes, A. Razi, "Optimized Compression Policy for Flying Ad Hoc Networks," in IEEE Consumer Communications and Networking Conference (CCNC), Las Vegas, January 2019. <a href="the_link_comes_here_later">(Link)</a>
 
-M. Finely, A. Razi, "Musical Key Estimation with Unsupervised Pattern Recognition," in IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, January 2019. <a href="the link comes here later">(Link)</a>
+M. Finely, A. Razi, "Musical Key Estimation with Unsupervised Pattern Recognition," in IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, January 2019. <a href="the_link_comes_here_later">(Link)</a>
 
-M. Khaledi, A. Rovira-Sugranes, F. Afghah, A. Razi, "On Greedy Routing in Dynamic UAV Networks," presented in IEEE SECON, Hong Kong, 2018. <a href="the link comes here later">(Link)</a>
+M. Khaledi, A. Rovira-Sugranes, F. Afghah, A. Razi, "On Greedy Routing in Dynamic UAV Networks," presented in IEEE SECON, Hong Kong, 2018. <a href="the_link_comes_here_later">(Link)</a>
 
-F. Afghah, M. Zaeri Amirani, A. Razi, J. Chakareski, E. Bentley, "A Coalition Formation Approach to Coordinated Task Allocation in Heterogeneous UAV Networks," in IEEE American Control Conference (ACC), Milwaukee, USA, 2017. <a href="the link comes here later">(Link)</a>
+F. Afghah, M. Zaeri Amirani, A. Razi, J. Chakareski, E. Bentley, "A Coalition Formation Approach to Coordinated Task Allocation in Heterogeneous UAV Networks," in IEEE American Control Conference (ACC), Milwaukee, USA, 2017. <a href="the_link_comes_here_later">(Link)</a>
 
-S. Naqvi, J. Chakareski, N. Mastronarde, J. Xu, F. Afghah, A. Razi, "Energy Efficiency Analysis of UAV-Assisted mmWave HetNets," in IEEE International Communications Conference (ICC), Kansas City, USA, 2018. <a href="the link comes here later">(Link)</a>
+S. Naqvi, J. Chakareski, N. Mastronarde, J. Xu, F. Afghah, A. Razi, "Energy Efficiency Analysis of UAV-Assisted mmWave HetNets," in IEEE International Communications Conference (ICC), Kansas City, USA, 2018. <a href="the_link_comes_here_later">(Link)</a>
 
-A. Razi, C. Wang, F. Almaraghi, Q. Huang, Y. Zhang, H. Lu, A. Sugranes, "Predictive Routing for Wireless Networks: Robotics-Based Test and Evaluation Platform," in IEEE Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV, January 2018. <a href="the link comes here later">(Link)</a>
+A. Razi, C. Wang, F. Almaraghi, Q. Huang, Y. Zhang, H. Lu, A. Sugranes, "Predictive Routing for Wireless Networks: Robotics-Based Test and Evaluation Platform," in IEEE Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV, January 2018. <a href="the_link_comes_here_later">(Link)</a>
 
-J. Chen, A. Razi, "A Predictive Framework for ECG Signal Processing Using Controlled Nonlinear Transformation," in IEEE Conference on Biomedical and Health Informatics (BHI), Las Vegas, March 2018. <a href="the link comes here later">(Link)</a>
+J. Chen, A. Razi, "A Predictive Framework for ECG Signal Processing Using Controlled Nonlinear Transformation," in IEEE Conference on Biomedical and Health Informatics (BHI), Las Vegas, March 2018. <a href="the_link_comes_here_later">(Link)</a>
 
-A. R. Sugranes, A. Razi, "Predictive Routing for Dynamic UAV Networks," in IEEE International Conference on Wireless for Space and Extreme Environments (WiSEE), Montreal, CA, October 2017. <a href="the link comes here later">(Link)</a>
+A. R. Sugranes, A. Razi, "Predictive Routing for Dynamic UAV Networks," in IEEE International Conference on Wireless for Space and Extreme Environments (WiSEE), Montreal, CA, October 2017. <a href="the_link_comes_here_later">(Link)</a>
 
-A. Razi, F. Afghah, J. Chakareski, "Optimal Measurement Policy for Predicting UAV Network Topology," in Asilomar Conference on Signals, Systems and Computers, CA, USA, October 2017. <a href="the link comes here later">(Link)</a>
+A. Razi, F. Afghah, J. Chakareski, "Optimal Measurement Policy for Predicting UAV Network Topology," in Asilomar Conference on Signals, Systems and Computers, CA, USA, October 2017. <a href="the_link_comes_here_later">(Link)</a>
 
-J. Chen, "Remote ECG Monitoring Kit to Predict Patient-Specific Heart Abnormalities," accepted in World Multi-Conference on Systemics, Cybernetics and Informatics (WMSCI), Orlando, FL, July 2017. <a href="the link comes here later">(Link)</a>
+J. Chen, "Remote ECG Monitoring Kit to Predict Patient-Specific Heart Abnormalities," accepted in World Multi-Conference on Systemics, Cybernetics and Informatics (WMSCI), Orlando, FL, July 2017. <a href="the_link_comes_here_later">(Link)</a>
 
-A. Valehi, A. Razi, B. Cambou, W. Yu, M. Kozicki, "A graph matching algorithm for user authentication in data networks using image-based physical unclonable functions," in Computing Conference, London, UK, July 2017. <a href="the link comes here later">(Link)</a>
+A. Valehi, A. Razi, B. Cambou, W. Yu, M. Kozicki, "A graph matching algorithm for user authentication in data networks using image-based physical unclonable functions," in Computing Conference, London, UK, July 2017. <a href="the_link_comes_here_later">(Link)</a>
 
-A. Razi, A. Valehi, E. Bentley, "Delay Minimization by Adaptive Framing Policy in Cognitive Sensor Networks," in IEEE Wireless Communications and Networking Conference (WCNC), San Francisco, CA, USA, March 2017. <a href="the link comes here later">(Link)</a>
+A. Razi, A. Valehi, E. Bentley, "Delay Minimization by Adaptive Framing Policy in Cognitive Sensor Networks," in IEEE Wireless Communications and Networking Conference (WCNC), San Francisco, CA, USA, March 2017. <a href="the_link_comes_here_later">(Link)</a>
 
-H. Tavakkoli, A. Razi, "Optimizing Low Density Parity Check Code for Two Parallel Erasure Links," in International Symposium on Information Theory and Its Applications (ISITA), Monterey, CA, USA, October 2016. <a href="the link comes here later">(Link)</a>
+H. Tavakkoli, A. Razi, "Optimizing Low Density Parity Check Code for Two Parallel Erasure Links," in International Symposium on Information Theory and Its Applications (ISITA), Monterey, CA, USA, October 2016. <a href="the_link_comes_here_later">(Link)</a>
 
-A. Razi, F. Afghah, V. Varadan, "Identifying Gene Subnetworks Associated with Clinical Outcome in Ovarian Cancer Using Network Based Coalition Game," in IEEE Engineering in Medicine and Biology Society (EMBC), Milan, Italy, August 2015, PMID: 26737784. <a href="the link comes here later">(Link)</a>
+A. Razi, F. Afghah, V. Varadan, "Identifying Gene Subnetworks Associated with Clinical Outcome in Ovarian Cancer Using Network Based Coalition Game," in IEEE Engineering in Medicine and Biology Society (EMBC), Milan, Italy, August 2015, PMID: 26737784. <a href="the_link_comes_here_later">(Link)</a>
 
-F. Afghah, A. Razi, K. Najarian, "A Shapley Value Solution to Game Theoretic-Based Feature Reduction in False Alarm Detection," in Workshop on Machine Learning in Healthcare, Neural Information Processing Systems (NIPS), Montreal, Canada, December 2015. <a href="the link comes here later">(Link)</a>
+F. Afghah, A. Razi, K. Najarian, "A Shapley Value Solution to Game Theoretic-Based Feature Reduction in False Alarm Detection," in Workshop on Machine Learning in Healthcare, Neural Information Processing Systems (NIPS), Montreal, Canada, December 2015. <a href="the_link_comes_here_later">(Link)</a>
 
-F. Afghah, A. Razi, S.M.R. Soroushmehr, S. Molaei, H. Ghanbari, K. Najarian, "A Game Theoretic Predictive Modeling Approach to Reduction of False Alarm," in 2015 International Conference for Smart Health (ICSH’15), Mayo Clinic, 2015. <a href="the link comes here later">(Link)</a>
+F. Afghah, A. Razi, S.M.R. Soroushmehr, S. Molaei, H. Ghanbari, K. Najarian, "A Game Theoretic Predictive Modeling Approach to Reduction of False Alarm," in 2015 International Conference for Smart Health (ICSH’15), Mayo Clinic, 2015. <a href="the_link_comes_here_later">(Link)</a>
 
-A. Razi, N. Banerjee, N. Dimitrova, V. Vinay, "Non-linear Bayesian Framework to Determine the Transcriptional Effects of Cancer-Associated Genomic Aberrations," in IEEE Engineering in Medicine and Biology Society (EMBC), Italy, August 2015, PMID: 26737785. <a href="the link comes here later">(Link)</a>
+A. Razi, N. Banerjee, N. Dimitrova, V. Vinay, "Non-linear Bayesian Framework to Determine the Transcriptional Effects of Cancer-Associated Genomic Aberrations," in IEEE Engineering in Medicine and Biology Society (EMBC), Italy, August 2015, PMID: 26737785. <a href="the_link_comes_here_later">(Link)</a>
 
-L. Wang, A. Razi, M. Rodriges, R. Calderbank, L. Carin, "Nonlinear Information-Theoretic Compressive Projection Design," in International Conference on Machine Learning (ICML), vol. 32, China, 2014. <a href="the link comes here later">(Link)</a>
+L. Wang, A. Razi, M. Rodriges, R. Calderbank, L. Carin, "Nonlinear Information-Theoretic Compressive Projection Design," in International Conference on Machine Learning (ICML), vol. 32, China, 2014. <a href="the_link_comes_here_later">(Link)</a>
 
-A. Razi, F. Afghah, A. Belle, K. Najarian, K. Ward, "Blood Loss Severity Prediction Using Game Theoretic Based Feature," in IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI), pp. 776–780, Italy, 2014. <a href="the link comes here later">(Link)</a>
+A. Razi, F. Afghah, A. Belle, K. Najarian, K. Ward, "Blood Loss Severity Prediction Using Game Theoretic Based Feature," in IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI), pp. 776–780, Italy, 2014. <a href="the_link_comes_here_later">(Link)</a>
 
-F. Afghah, A. Razi, "Cooperative Spectrum Leasing in Cognitive Radio Networks," in National Wireless Research Collaboration Symposium (NWRCS), pp. 106–111, Idaho Falls, USA, May 2014. <a href="the link comes here later">(Link)</a>
+F. Afghah, A. Razi, "Cooperative Spectrum Leasing in Cognitive Radio Networks," in National Wireless Research Collaboration Symposium (NWRCS), pp. 106–111, Idaho Falls, USA, May 2014. <a href="the_link_comes_here_later">(Link)</a>
 
-A. Razi, A. Abedi, A. Ephremides, "Delay Minimization with Channel-Adaptive Packetization Policy for Random Data Traffic," in 48th Annual Conference on Information Sciences and Systems (CISS), Princeton University, pp. 1–6, March 2014. <a href="the link comes here later">(Link)</a>
+A. Razi, A. Abedi, A. Ephremides, "Delay Minimization with Channel-Adaptive Packetization Policy for Random Data Traffic," in 48th Annual Conference on Information Sciences and Systems (CISS), Princeton University, pp. 1–6, March 2014. <a href="the_link_comes_here_later">(Link)</a>
 
-F. Afghah, A. Razi, A. Abedi, "Power Allocation in Parallel Relay Channels Using a Near-Potential Game Theoretical Approach," in 48th Annual Conference on Information Sciences and Systems (CISS), Princeton University, pp. 1–6, March 2014. <a href="the link comes here later">(Link)</a>
+F. Afghah, A. Razi, A. Abedi, "Power Allocation in Parallel Relay Channels Using a Near-Potential Game Theoretical Approach," in 48th Annual Conference on Information Sciences and Systems (CISS), Princeton University, pp. 1–6, March 2014. <a href="the_link_comes_here_later">(Link)</a>
 
-F. Afghah, M. Costa, A. Razi, A. Abedi, A. Ephremides, "A Reputation-based Stackelberg Game Approach for Spectrum Sharing with Cognitive Cooperation," in IEEE 52nd Annual Conference on Decision and Control (CDC), pp. 3287–3292, Firenze, Italy, 2013. <a href="the link comes here later">(Link)</a>
+F. Afghah, M. Costa, A. Razi, A. Abedi, A. Ephremides, "A Reputation-based Stackelberg Game Approach for Spectrum Sharing with Cognitive Cooperation," in IEEE 52nd Annual Conference on Decision and Control (CDC), pp. 3287–3292, Firenze, Italy, 2013. <a href="the_link_comes_here_later">(Link)</a>
 
-A. Razi, A. Abedi, "Adaptive Bi-Modal Decoder for Binary Source Estimation with Two Observers," in 46th Annual Conference on Information Sciences and Systems (CISS), Princeton University, pp. 1–5, March 2012. <a href="the link comes here later">(Link)</a>
+A. Razi, A. Abedi, "Adaptive Bi-Modal Decoder for Binary Source Estimation with Two Observers," in 46th Annual Conference on Information Sciences and Systems (CISS), Princeton University, pp. 1–5, March 2012. <a href="the_link_comes_here_later">(Link)</a>
 
-A. Abedi, A. Razi, F. Afghah, "Smart Battery-Free Wireless Sensor Networks for Structural Health Monitoring," in the 8th International Workshop on Structural Health Monitoring, Stanford University, USA, September 2011. <a href="the link comes here later">(Link)</a>
+A. Abedi, A. Razi, F. Afghah, "Smart Battery-Free Wireless Sensor Networks for Structural Health Monitoring," in the 8th International Workshop on Structural Health Monitoring, Stanford University, USA, September 2011. <a href="the_link_comes_here_later">(Link)</a>
 
-A. Razi, A. Abedi, "Interference Reduction in Wireless Passive Sensor Networks Using Directional Antennas," Best Paper Award, IEEE Fly by Wireless Workshop, pp. 1–4, Montreal, Canada, June 2011. <a href="the link comes here later">(Link)</a>
+A. Razi, A. Abedi, "Interference Reduction in Wireless Passive Sensor Networks Using Directional Antennas," Best Paper Award, IEEE Fly by Wireless Workshop, pp. 1–4, Montreal, Canada, June 2011. <a href="the_link_comes_here_later">(Link)</a>
 
-A. Razi, A. Abedi, "Study and Implementation of Distributed PCCC Coding Scheme for Binary Source Estimation Using Multiple Observations," Poster presentation, School of Information Theory, Austin, USA, May 2011. <a href="the link comes here later">(Link)</a>
+A. Razi, A. Abedi, "Study and Implementation of Distributed PCCC Coding Scheme for Binary Source Estimation Using Multiple Observations," Poster presentation, School of Information Theory, Austin, USA, May 2011. <a href="the_link_comes_here_later">(Link)</a>
 
-A. Razi, K. Yasami, A. Abedi, "On Minimum Number of Wireless Sensors Required for Reliable Binary Source Estimation," in IEEE Wireless Communications and Networking Conference (WCNC), pp. 1852–1857, Cancun, Mexico, March 2011. <a href="the link comes here later">(Link)</a>
+A. Razi, K. Yasami, A. Abedi, "On Minimum Number of Wireless Sensors Required for Reliable Binary Source Estimation," in IEEE Wireless Communications and Networking Conference (WCNC), pp. 1852–1857, Cancun, Mexico, March 2011. <a href="the_link_comes_here_later">(Link)</a>
 
-F. Afghah, A. Razi, A. Abedi, "Throughput Optimization in Relay Networks Using Markovian Game Theory," in IEEE Wireless Communications and Networking Conference (WCNC), pp. 1080–1085, Cancun, Mexico, March 2011. <a href="the link comes here later">(Link)</a>
+F. Afghah, A. Razi, A. Abedi, "Throughput Optimization in Relay Networks Using Markovian Game Theory," in IEEE Wireless Communications and Networking Conference (WCNC), pp. 1080–1085, Cancun, Mexico, March 2011. <a href="the_link_comes_here_later">(Link)</a>
 
-A. Razi, F. Afghah, A. Abedi, "Hierarchical Network Development of Wireless Passive Sensors," in IEEE Fly by Wireless Workshop, pp. 30–31, August 2010. <a href="the link comes here later">(Link)</a>
+A. Razi, F. Afghah, A. Abedi, "Hierarchical Network Development of Wireless Passive Sensors," in IEEE Fly by Wireless Workshop, pp. 30–31, August 2010. <a href="the_link_comes_here_later">(Link)</a>
 
-F. Afghah, A. Razi, A. Abedi, "Wireless Cooperative Relaying Using Game Theory," in CANEUS/IEEE Fly by Wireless Workshop, pp. 24–27, Orono, USA, August 2010. <a href="the link comes here later">(Link)</a>
+F. Afghah, A. Razi, A. Abedi, "Wireless Cooperative Relaying Using Game Theory," in CANEUS/IEEE Fly by Wireless Workshop, pp. 24–27, Orono, USA, August 2010. <a href="the_link_comes_here_later">(Link)</a>
 
-A. Razi, A. Abedi, "Distributed Coding of Sources with Unknown Correlation Parameter," in World Congress in Computer Science, Computer Engineering, and Applied Computing (WorldComp’10), pp. 566–571, Las Vegas, April 2010. <a href="the link comes here later">(Link)</a>
+A. Razi, A. Abedi, "Distributed Coding of Sources with Unknown Correlation Parameter," in World Congress in Computer Science, Computer Engineering, and Applied Computing (WorldComp’10), pp. 566–571, Las Vegas, April 2010. <a href="the_link_comes_here_later">(Link)</a>
 
-A. Razi, M. Ardebilipour, F. Afghah, "Space-Time Block Codes Assisted by Fast Turbo Codes," in the 4th International Conference on Wireless Communications, Networking and Mobile Computing (WiCOM 2008), pp. 1–6, Dalian, China, October 2008. <a href="the link comes here later">(Link)</a>
+A. Razi, M. Ardebilipour, F. Afghah, "Space-Time Block Codes Assisted by Fast Turbo Codes," in the 4th International Conference on Wireless Communications, Networking and Mobile Computing (WiCOM 2008), pp. 1–6, Dalian, China, October 2008. <a href="the_link_comes_here_later">(Link)</a>
 
-F. Afghah, M. Ardebilipour, A. Razi, "Concatenation of Space-Time Block Codes and LDPC Codes," in the 13th International Telecommunications Network Strategy and Planning Symposium (NETWORK 2008), pp. 61–66, Budapest, Hungary, September 2008. <a href="the link comes here later">(Link)</a>
+F. Afghah, M. Ardebilipour, A. Razi, "Concatenation of Space-Time Block Codes and LDPC Codes," in the 13th International Telecommunications Network Strategy and Planning Symposium (NETWORK 2008), pp. 61–66, Budapest, Hungary, September 2008. <a href="the_link_comes_here_later">(Link)</a>
 
 
 
