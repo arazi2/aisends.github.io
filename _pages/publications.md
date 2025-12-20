@@ -55,23 +55,22 @@ F. Afghah, A. Razi, Ashwin Belle, K. Najarian, "Hierarchical Game Theoretic Base
 
 
 ## Journal Papers
+Niloufar Mehrabi, Sayed Pedram Haeri Boroujeni, Abolfazl Razi, "Turbo-IRL: Enhancing Multi-Agent Systems Using Turbo Decoding-Inspired Deep Maximum Entropy Inverse Reinforcement Learning," Expert Systems with Applications, 2026. <a href="https://www.sciencedirect.com/science/article/pii/S0957417425023723">(Link)</a>
+
 Sayed Pedram Haeri Boroujeni, Niloufar Mehrabi, Fatemeh Afghah, Connor Peter McGrath, Danish Bhatkar, Mithilesh Anil Biradar, Abolfazl Razi, "Fire and Smoke Datasets in 20 Years: An In-Depth Review," Machine Learning with Applications, 2025. <a href="https://arxiv.org/abs/2503.14552">(Link)</a> 
 
-#Ahmad Sarlak, Rahul Amin, Abolfazl Razi, "Extended Visibility of Autonomous Vehicles via Optimized Cooperative Perception under Imperfect Communication," Transportation Research Part C: Emerging Technologies, 2025. <a href="https://arxiv.org/abs/2501.XXXXX">(Link)</a>
+Ahmad Sarlak, Rahul Amin, Abolfazl Razi, "Extended Visibility of Autonomous Vehicles via Optimized Cooperative Perception under Imperfect Communication," Transportation Research Part C: Emerging Technologies, 2025. <a href="https://www.sciencedirect.com/science/article/pii/S0968090X25003547">(Link)</a>
 
-<!-- Ahmad Sarlak, Rahul Amin, Abolfazl Razi, "Extended Visibility of Autonomous Vehicles via Optimized Cooperative Perception under Imperfect Communication," Transportation Research Part C: Emerging Technologies, 180, 105350 (2025). <a href="https://www.sciencedirect.com/science/article/pii/S0968090X25001234">(Link)</a> -->
+Ashish Bastola, Hao Wang, Sayed Pedram Haeri Boroujeni, Julian Brinkley, Ata Jahangir Moshayedi, Abolfazl Razi, "Driving Towards Inclusion: A Systematic Review of AI-Powered Accessibility Enhancements for People with Disability in Autonomous Vehicles," IEEE Access (2025). <a href="https://ieeexplore.ieee.org/abstract/document/10945350">(Link)</a>
 
-Niloufar Mehrabi, Sayed Pedram Haeri Boroujeni, Abolfazl Razi, "Turbo-IRL: Enhancing Multi-Agent Systems Using Turbo Decoding-Inspired Deep Maximum Entropy Inverse Reinforcement Learning," Expert Systems with Applications, 2026. <a href="https://arxiv.org/abs/2501.17329">(Link)</a>
+Sayed Pedram Haeri Boroujeni, Abolfazl Razi, "IC-GAN: An Improved Conditional Generative Adversarial Network for RGB-to-IR Image Translation with Applications to Forest Fire Monitoring," Expert Systems with Applications, 238, 121962 (2024). <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423024648">(Link)</a>
 
-Sayed Pedram Haeri Boroujeni, Abolfazl Razi, "IC-GAN: An Improved Conditional Generative Adversarial Network for RGB-to-IR Image Translation with Applications to Forest Fire Monitoring," Expert Systems with Applications, 238, 121962 (2024). <a href="https://www.sciencedirect.com/science/article/pii/S0957417424003502">(Link)</a>
+Xiwen Chen, Huayu Li, Rahul Amin, Abolfazl Razi, "Learning on Bandwidth Constrained Multi-Source Data with MIMO-inspired DPP MAP Inference," IEEE Transactions on Machine Learning in Communications and Networking, vol. 2 (2024). <a href="https://ieeexplore.ieee.org/document/10580972/">(Link)</a>
 
-Xiwen Chen, Huayu Li, Rahul Amin, Abolfazl Razi, "Learning on Bandwidth Constrained Multi-Source Data with MIMO-inspired DPP MAP Inference," IEEE Transactions on Machine Learning in Communications and Networking, vol. 2 (2024). <a href="https://ieeexplore.ieee.org/document/10594789">(Link)</a>
-
-Seyed Pedram Haeri Boroujeni, Abolfazl Razi, Sahand Khoshdel, Fatemeh Afghah, Janice Coen, Leo O’Neill, Peter Fule, Adam Watts, Nick Marios, Kyriakos G. Vamvoudakis, "A Comprehensive Survey of Research towards AI-Enabled Unmanned Aerial Systems in Pre-, Active-, and Post-Wildfire Management," Information Fusion, 102369 (2024). <a href="https://www.sciencedirect.com/science/article/pii/S156625352400088X">(Link)</a>
+Seyed Pedram Haeri Boroujeni, Abolfazl Razi, Sahand Khoshdel, Fatemeh Afghah, Janice Coen, Leo O’Neill, Peter Fule, Adam Watts, Nick Marios, Kyriakos G. Vamvoudakis, "A Comprehensive Survey of Research towards AI-Enabled Unmanned Aerial Systems in Pre-, Active-, and Post-Wildfire Management," Information Fusion, 102369 (2024). <a href="https://www.sciencedirect.com/science/article/pii/S1566253524001477">(Link)</a>
 
 Zhao Zhang, Xiwen Chen, William Richardson, Bruce Z. Gao, Abolfazl Razi, Tong Ye, "Quantification of Cardiac Capillarization in Basement-Membrane-Immunostained Myocardial Slices Using Segment Anything Model," Scientific Reports, 14, 15344 (2024). <a href="https://www.nature.com/articles/s41598-024-65567-3">(Link)</a>
 
-Ashish Bastola, Hao Wang, Sayed Pedram Haeri Boroujeni, Julian Brinkley, Ata Jahangir Moshayedi, Abolfazl Razi, "Driving Towards Inclusion: A Systematic Review of AI-Powered Accessibility Enhancements for People with Disability in Autonomous Vehicles," IEEE Access (2025). <a href="https://ieeexplore.ieee.org/document/10584328">(Link)</a>
 
 Hao Wang, Xiwen Chen, Natan Vital, Edward Duffy, Abolfazl Razi, "Energy Optimization for HVAC Systems in Multi-VAV Open Offices: A Deep Reinforcement Learning Approach," Applied Energy, 356, 122354 (2023). <a href="https://www.sciencedirect.com/science/article/pii/S0306261923009431">(Link)</a>
 
