@@ -55,9 +55,7 @@ F. Afghah, A. Razi, Ashwin Belle, K. Najarian, "Hierarchical Game Theoretic Base
 
 
 ## Journal Papers
-<!-- Sayed Pedram Haeri Boroujeni, Niloufar Mehrabi, Fatemeh Afghah, Connor Peter McGrath, Danish Bhatkar, Mithilesh Anil Biradar, Abolfazl Razi, "Fire and Smoke Datasets in 20 Years: An In-Depth Review," Machine Learning with Applications, 2025. <a href="https://arxiv.org/abs/2408.XXXXX">(Link)</a> -->
-
-Sayed Pedram Haeri Boroujeni, Niloufar Mehrabi, Fatemeh Afghah, Connor Peter McGrath, Danish Bhatkar, Mithilesh Anil Biradar, Abolfazl Razi, "Fire and Smoke Datasets in 20 Years: An In-Depth Review," Machine Learning with Applications (2025). <a href="https://www.sciencedirect.com/science/article/pii/S2666827024000670">(Link)</a>
+Sayed Pedram Haeri Boroujeni, Niloufar Mehrabi, Fatemeh Afghah, Connor Peter McGrath, Danish Bhatkar, Mithilesh Anil Biradar, Abolfazl Razi, "Fire and Smoke Datasets in 20 Years: An In-Depth Review," Machine Learning with Applications, 2025. <a href="https://arxiv.org/abs/2503.14552">(Link)</a> 
 
 #Ahmad Sarlak, Rahul Amin, Abolfazl Razi, "Extended Visibility of Autonomous Vehicles via Optimized Cooperative Perception under Imperfect Communication," Transportation Research Part C: Emerging Technologies, 2025. <a href="https://arxiv.org/abs/2501.XXXXX">(Link)</a>
 
