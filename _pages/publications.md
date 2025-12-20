@@ -79,20 +79,19 @@ Ashish Bastola, Hao Wang, Sayed Pedram Haeri Boroujeni, Julian Brinkley, Ata Jah
 
 Hao Wang, Xiwen Chen, Natan Vital, Edward Duffy, Abolfazl Razi, "Energy Optimization for HVAC Systems in Multi-VAV Open Offices: A Deep Reinforcement Learning Approach," Applied Energy, 356, 122354 (2023). <a href="https://www.sciencedirect.com/science/article/pii/S0306261923009431">(Link)</a>
 
-
-
-
-
-
-
-
 Xiwen Chen, Hao Wang, Abolfazl Razi, Michael Kozicki, and Christopher Mann, "DH-GAN: a physics-driven untrained generative adversarial network for holographic imaging," Opt. Express 31, 10114-10135 (2023) <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-6-10114&id=527879">(Link)</a>
 
 Chen, X., Wang, H., Razi, A., Russo, B., Pacheco, J., Roberts, J., Wishart, J., Head, L. and Baca, A.G., 2022. Network-level Safety Metrics for Overall Traffic Safety Assessment: A Case Study. IEEE Access. <a href="https://ieeexplore.ieee.org/document/9954361">(Link)</a>
 
 Chen, X., Hopkins, B., Wang, H., O’Neill, L., Afghah, F., Razi, A., Fulé, P., Coen, J., Rowell, E. and Watts, A., 2022. Wildland Fire Detection and Monitoring Using a Drone-Collected RGB/IR Image Dataset. IEEE Access, 10, pp.121301-121317. <a href="https://ieeexplore.ieee.org/document/9953997">(Link)</a>
 
+Arnau Rovira-Sugranes, Fatemeh Afghah, Jakob Chakareski, Abolfazl Razi, "A Review of AI-Enabled Routing Protocols for UAV Networks: Trends, Challenges, and Future Outlook," Ad Hoc Networks, 2022. <a href="https://www.sciencedirect.com/science/article/pii/S1570870522000087">(Link)</a>
+
 Razi A, Chen X, Li H, et al. Deep learning serves traffic safety analysis: A forward‐looking review[J]. IET Intelligent Transport Systems, 2022. <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12257">(Link)</a>
+
+Bahman Zolfaghari, Gautam Srivastava, Sachin Roy, H.R. Nemati, Fatemeh Afghah, Takuya Koshiba, Abolfazl Razi, Kamran Bibak, Pradipta Mitra, B.K. Rai, "Content Delivery Networks: State of the Art, Trends, and Future Roadmap," ACM Computing Surveys, 2020. <a href="https://dl.acm.org/doi/pdf/10.1145/3380613">(Link)</a>
+
+Junsuo Qu, Huan Shi, Ning Qiao, Chao Wu, Chao Su, Abolfazl Razi, "New Three-Dimensional Positioning Algorithm through Integrating TDOA and Newton’s Method," EURASIP Journal on Wireless Communications and Networking, 2020. <a href="https://link.springer.com/article/10.1186/s13638-020-01684-7">(Link)</a>
 
 A Razi, "Optimal Measurement Policy for Linear Measurement Systems with Applications to UAV Network Topology Prediction", IEEE Transactions on Vehicular Technology, Nov 2019 <a href="https://ieeexplore.ieee.org/abstract/document/8915763">(Link)</a>
 
