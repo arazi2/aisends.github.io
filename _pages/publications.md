@@ -71,7 +71,6 @@ Seyed Pedram Haeri Boroujeni, Abolfazl Razi, Sahand Khoshdel, Fatemeh Afghah, Ja
 
 Zhao Zhang, Xiwen Chen, William Richardson, Bruce Z. Gao, Abolfazl Razi, Tong Ye, "Quantification of Cardiac Capillarization in Basement-Membrane-Immunostained Myocardial Slices Using Segment Anything Model," Scientific Reports, 14, 15344 (2024). <a href="https://www.nature.com/articles/s41598-024-65567-3">(Link)</a>
 
-
 Hao Wang, Xiwen Chen, Natan Vital, Edward Duffy, Abolfazl Razi, "Energy Optimization for HVAC Systems in Multi-VAV Open Offices: A Deep Reinforcement Learning Approach," Applied Energy, 356, 122354 (2023). <a href="https://www.sciencedirect.com/science/article/pii/S0306261923009431">(Link)</a>
 
 Xiwen Chen, Hao Wang, Abolfazl Razi, Michael Kozicki, and Christopher Mann, "DH-GAN: a physics-driven untrained generative adversarial network for holographic imaging," Opt. Express 31, 10114-10135 (2023) <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-6-10114&id=527879">(Link)</a>
@@ -119,12 +118,9 @@ A. Razi, F. Afghah, A.Abedi, "Channel-Adaptive Packetization Policy For Minimal 
 
 F. Afghah, A. Razi, "Game Theoretic Study of Cooperative Spectrum Leasing in Cognitive Radio Networks",  International Journal of Handheld Computing Research, vol. 5, no. 2, 2014 <a href="https://dl.acm.org/citation.cfm?id=2747425">(Link)</a> <a href="../files/papers/p2014IJHCR_GameTheoreticSpectrumLeasing.pdf">(PDF)</a> <a href="../files/papers/p2014IJHCR_GameTheoreticSpectrumLeasing.txt">(Bibtex)</a>
 
-
 A. Razi, A. Abedi, “Convergence Analysis of Iterative Decoding for Binary CEO Problem”, IEEE transactions on Wireless  Communications, vol. 13, no. 5, pp 2944-2954, May 2014 <a href="https://ieeexplore.ieee.org/document/6799320/">(Link)</a> <a href="../files/papers/p2014TWC_ConvergenceBinaryCEO.pdf">(PDF)</a> <a href="../files/papers/p2014TWC_ConvergenceBinaryCEO.txt">(Bibtex)</a>
 
-
 A. Razi, A. Abedi, “Power Optimized DSTBC Assisted DMF Relaying in Wireless Sensor Networks with Redundant Super nodes”, IEEE transactions on Wireless Communications, vol. 12, no. 2, pp 636-645, Jan. 2013 <a href="https://ieeexplore.ieee.org/document/6399489/">(Link)</a> <a href="../files/papers/p2013TWC_PowerOptimizedDTSBC.pdf">(PDF)</a> <a href="../files/papers/p2013TWC_PowerOptimizedDTSBC.txt">(Bibtex)</a>
-
 
 F. Afghah, A. Razi, A. Abedi, "Stochastic Game Theoretical Model for Packet Forwarding in Relay Networks", Special issues in Mobile Computing and Networking Technologies Journal, Springer, vol. 25, no. 4, pp 1877-1893, April 2013 <a href="https://link.springer.com/article/10.1007/s11235-011-9471-y">(Link)</a> <a href="../files/papers/p2013Springer_StochasticGameTheoreticalModel.pdf">(PDF)</a> <a href="../files/papers/p2013Springer_StochasticGameTheoreticalModel.txt">(Bibtex)</a>
 
@@ -274,43 +270,43 @@ A. Razi, F. Afghah, V. Varadan, "Identifying Gene Subnetworks Associated with Cl
 
 F. Afghah, A. Razi, K. Najarian, "A Shapley Value Solution to Game Theoretic-Based Feature Reduction in False Alarm Detection," in Workshop on Machine Learning in Healthcare, Neural Information Processing Systems (NIPS), Montreal, Canada, December 2015. <a href="https://arxiv.org/abs/1512.01680">(Link)</a>
 
-F. Afghah, A. Razi, S.M.R. Soroushmehr, S. Molaei, H. Ghanbari, K. Najarian, "A Game Theoretic Predictive Modeling Approach to Reduction of False Alarm," in 2015 International Conference for Smart Health (ICSH’15), Mayo Clinic, 2015. <a href="the_link_comes_here_later">(Link)</a>
+F. Afghah, A. Razi, S.M.R. Soroushmehr, S. Molaei, H. Ghanbari, K. Najarian, "A Game Theoretic Predictive Modeling Approach to Reduction of False Alarm," in 2015 International Conference for Smart Health (ICSH’15), Mayo Clinic, 2015. <a href="https://link.springer.com/chapter/10.1007/978-3-319-29175-8_11">(Link)</a>
 
-A. Razi, N. Banerjee, N. Dimitrova, V. Vinay, "Non-linear Bayesian Framework to Determine the Transcriptional Effects of Cancer-Associated Genomic Aberrations," in IEEE Engineering in Medicine and Biology Society (EMBC), Italy, August 2015, PMID: 26737785. <a href="the_link_comes_here_later">(Link)</a>
+A. Razi, N. Banerjee, N. Dimitrova, V. Vinay, "Non-linear Bayesian Framework to Determine the Transcriptional Effects of Cancer-Associated Genomic Aberrations," in IEEE Engineering in Medicine and Biology Society (EMBC), Italy, August 2015, PMID: 26737785. <a href="https://pubmed.ncbi.nlm.nih.gov/26737785/">(Link)</a>
 
-L. Wang, A. Razi, M. Rodriges, R. Calderbank, L. Carin, "Nonlinear Information-Theoretic Compressive Projection Design," in International Conference on Machine Learning (ICML), vol. 32, China, 2014. <a href="the_link_comes_here_later">(Link)</a>
+L. Wang, A. Razi, M. Rodriges, R. Calderbank, L. Carin, "Nonlinear Information-Theoretic Compressive Projection Design," in International Conference on Machine Learning (ICML), vol. 32, China, 2014. <a href="https://proceedings.mlr.press/v32/wangh14.html">(Link)</a>
 
-A. Razi, F. Afghah, A. Belle, K. Najarian, K. Ward, "Blood Loss Severity Prediction Using Game Theoretic Based Feature," in IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI), pp. 776–780, Italy, 2014. <a href="the_link_comes_here_later">(Link)</a>
+A. Razi, F. Afghah, A. Belle, K. Najarian, K. Ward, "Blood Loss Severity Prediction Using Game Theoretic-Based Feature," in IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI), pp. 776–780, Italy, 2014. <a href="https://ieeexplore.ieee.org/document/6864479/">(Link)</a>
 
-F. Afghah, A. Razi, "Cooperative Spectrum Leasing in Cognitive Radio Networks," in National Wireless Research Collaboration Symposium (NWRCS), pp. 106–111, Idaho Falls, USA, May 2014. <a href="the_link_comes_here_later">(Link)</a>
+F. Afghah, A. Razi, "Cooperative Spectrum Leasing in Cognitive Radio Networks," in National Wireless Research Collaboration Symposium (NWRCS), pp. 106–111, Idaho Falls, USA, May 2014. <a href="http://ieeexplore.ieee.org/document/6942513/">(Link)</a>
 
-A. Razi, A. Abedi, A. Ephremides, "Delay Minimization with Channel-Adaptive Packetization Policy for Random Data Traffic," in 48th Annual Conference on Information Sciences and Systems (CISS), Princeton University, pp. 1–6, March 2014. <a href="the_link_comes_here_later">(Link)</a>
+A. Razi, A. Abedi, A. Ephremides, "Delay Minimization with Channel-Adaptive Packetization Policy for Random Data Traffic," in 48th Annual Conference on Information Sciences and Systems (CISS), Princeton University, pp. 1–6, March 2014. <a href="https://ieeexplore.ieee.org/document/6814128/">(Link)</a>
 
-F. Afghah, A. Razi, A. Abedi, "Power Allocation in Parallel Relay Channels Using a Near-Potential Game Theoretical Approach," in 48th Annual Conference on Information Sciences and Systems (CISS), Princeton University, pp. 1–6, March 2014. <a href="the_link_comes_here_later">(Link)</a>
+F. Afghah, A. Razi, A. Abedi, "Power Allocation in Parallel Relay Channels Using a Near-Potential Game Theoretical Approach," in 48th Annual Conference on Information Sciences and Systems (CISS), Princeton University, pp. 1–6, March 2014. <a href="https://ieeexplore.ieee.org/document/6814170/">(Link)</a>
 
-F. Afghah, M. Costa, A. Razi, A. Abedi, A. Ephremides, "A Reputation-based Stackelberg Game Approach for Spectrum Sharing with Cognitive Cooperation," in IEEE 52nd Annual Conference on Decision and Control (CDC), pp. 3287–3292, Firenze, Italy, 2013. <a href="the_link_comes_here_later">(Link)</a>
+F. Afghah, M. Costa, A. Razi, A. Abedi, A. Ephremides, "A Reputation-based Stackelberg Game Approach for Spectrum Sharing with Cognitive Cooperation," in IEEE 52nd Annual Conference on Decision and Control (CDC), pp. 3287–3292, Firenze, Italy, 2013. <a href="https://ieeexplore.ieee.org/document/6760385/">(Link)</a>
 
-A. Razi, A. Abedi, "Adaptive Bi-Modal Decoder for Binary Source Estimation with Two Observers," in 46th Annual Conference on Information Sciences and Systems (CISS), Princeton University, pp. 1–5, March 2012. <a href="the_link_comes_here_later">(Link)</a>
+A. Razi, A. Abedi, "Adaptive Bi-Modal Decoder for Binary Source Estimation with Two Observers," in 46th Annual Conference on Information Sciences and Systems (CISS), Princeton University, pp. 1–5, March 2012. <a href="https://ieeexplore.ieee.org/document/6310856/">(Link)</a>
 
 A. Abedi, A. Razi, F. Afghah, "Smart Battery-Free Wireless Sensor Networks for Structural Health Monitoring," in the 8th International Workshop on Structural Health Monitoring, Stanford University, USA, September 2011. <a href="the_link_comes_here_later">(Link)</a>
 
-A. Razi, A. Abedi, "Interference Reduction in Wireless Passive Sensor Networks Using Directional Antennas," Best Paper Award, IEEE Fly by Wireless Workshop, pp. 1–4, Montreal, Canada, June 2011. <a href="the_link_comes_here_later">(Link)</a>
+A. Razi, A. Abedi, "Interference Reduction in Wireless Passive Sensor Networks Using Directional Antennas," Best Paper Award, IEEE Fly by Wireless Workshop, pp. 1–4, Montreal, Canada, June 2011. <a href="http://ieeexplore.ieee.org/document/5965560/">(Link)</a>
 
-A. Razi, A. Abedi, "Study and Implementation of Distributed PCCC Coding Scheme for Binary Source Estimation Using Multiple Observations," Poster presentation, School of Information Theory, Austin, USA, May 2011. <a href="the_link_comes_here_later">(Link)</a>
+A. Razi, A. Abedi, "Study and Implementation of Distributed PCCC Coding Scheme for Binary Source Estimation Using Multiple Observations," Poster presentation, School of Information Theory, Austin, USA, May 2011. <a href="https://www.itsoc.org/school2011/files/posters/arazi-poster.pdf">(Link)</a>
 
-A. Razi, K. Yasami, A. Abedi, "On Minimum Number of Wireless Sensors Required for Reliable Binary Source Estimation," in IEEE Wireless Communications and Networking Conference (WCNC), pp. 1852–1857, Cancun, Mexico, March 2011. <a href="the_link_comes_here_later">(Link)</a>
+A. Razi, K. Yasami, A. Abedi, "On Minimum Number of Wireless Sensors Required for Reliable Binary Source Estimation," in IEEE Wireless Communications and Networking Conference (WCNC), pp. 1852–1857, Cancun, Mexico, March 2011. <a href="https://ieeexplore.ieee.org/document/5779415/">(Link)</a>
 
-F. Afghah, A. Razi, A. Abedi, "Throughput Optimization in Relay Networks Using Markovian Game Theory," in IEEE Wireless Communications and Networking Conference (WCNC), pp. 1080–1085, Cancun, Mexico, March 2011. <a href="the_link_comes_here_later">(Link)</a>
+F. Afghah, A. Razi, A. Abedi, "Throughput Optimization in Relay Networks Using Markovian Game Theory," in IEEE Wireless Communications and Networking Conference (WCNC), pp. 1080–1085, Cancun, Mexico, March 2011. <a href="https://ieeexplore.ieee.org/document/5779310/">(Link)</a>
 
-A. Razi, F. Afghah, A. Abedi, "Hierarchical Network Development of Wireless Passive Sensors," in IEEE Fly by Wireless Workshop, pp. 30–31, August 2010. <a href="the_link_comes_here_later">(Link)</a>
+A. Razi, F. Afghah, A. Abedi, "Hierarchical Network Development of Wireless Passive Sensors," in IEEE Fly by Wireless Workshop, pp. 30–31, August 2010. <a href="https://ieeexplore.ieee.org/document/5613796/">(Link)</a>
 
-F. Afghah, A. Razi, A. Abedi, "Wireless Cooperative Relaying Using Game Theory," in CANEUS/IEEE Fly by Wireless Workshop, pp. 24–27, Orono, USA, August 2010. <a href="the_link_comes_here_later">(Link)</a>
+F. Afghah, A. Razi, A. Abedi, "Wireless Cooperative Relaying Using Game Theory," in CANEUS/IEEE Fly by Wireless Workshop, pp. 24–27, Orono, USA, August 2010. <a href="http://ieeexplore.ieee.org/document/5613786">(Link)</a>
 
-A. Razi, A. Abedi, "Distributed Coding of Sources with Unknown Correlation Parameter," in World Congress in Computer Science, Computer Engineering, and Applied Computing (WorldComp’10), pp. 566–571, Las Vegas, April 2010. <a href="the_link_comes_here_later">(Link)</a>
+A. Razi, A. Abedi, "Distributed Coding of Sources with Unknown Correlation Parameter," in World Congress in Computer Science, Computer Engineering, and Applied Computing (WorldComp’10), pp. 566–571, Las Vegas, April 2010. <a href="https://www.researchgate.net/publication/220719421_Distributed_Coding_of_Sources_with_Unknown_Correlation_Parameter">(Link)</a>
 
-A. Razi, M. Ardebilipour, F. Afghah, "Space-Time Block Codes Assisted by Fast Turbo Codes," in the 4th International Conference on Wireless Communications, Networking and Mobile Computing (WiCOM 2008), pp. 1–6, Dalian, China, October 2008. <a href="the_link_comes_here_later">(Link)</a>
+A. Razi, M. Ardebilipour, F. Afghah, "Space-Time Block Codes Assisted by Fast Turbo Codes," in the 4th International Conference on Wireless Communications, Networking and Mobile Computing (WiCOM 2008), pp. 1–6, Dalian, China, October 2008. <a href="http://ieeexplore.ieee.org/document/4678256">(Link)</a>
 
-F. Afghah, M. Ardebilipour, A. Razi, "Concatenation of Space-Time Block Codes and LDPC Codes," in the 13th International Telecommunications Network Strategy and Planning Symposium (NETWORK 2008), pp. 61–66, Budapest, Hungary, September 2008. <a href="the_link_comes_here_later">(Link)</a>
+F. Afghah, M. Ardebilipour, A. Razi, "Concatenation of Space-Time Block Codes and LDPC Codes," in the 13th International Telecommunications Network Strategy and Planning Symposium (NETWORK 2008), pp. 61–66, Budapest, Hungary, September 2008. <a href="https://ieeexplore.ieee.org/document/6231304">(Link)</a>
 
 
 
