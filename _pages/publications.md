@@ -71,9 +71,7 @@ Xiwen Chen, Huayu Li, Rahul Amin, Abolfazl Razi, "Learning on Bandwidth Constrai
 
 Seyed Pedram Haeri Boroujeni, Abolfazl Razi, Sahand Khoshdel, Fatemeh Afghah, Janice Coen, Leo O’Neill, Peter Fule, Adam Watts, Nick Marios, Kyriakos G. Vamvoudakis, "A Comprehensive Survey of Research towards AI-Enabled Unmanned Aerial Systems in Pre-, Active-, and Post-Wildfire Management," Information Fusion, 102369 (2024). <a href="https://www.sciencedirect.com/science/article/pii/S156625352400088X">(Link)</a>
 
-Zhao Zhang, Xiwen Chen, William Richardson, Bruce Z. Gao, Abolfazl Razi, Tong Ye, "Quantification of Cardiac Capillarization in Basement-Membrane-Immunostained Myocardial Slices Using Segment Anything Model," Scientific Reports, 14, 15344 (2024). <a href="https://www.nature.com/articles/s41598-024-15344-0">(Link)</a>
-
-Zhao Zhang, Xiwen Chen, William Richardson, Bruce Z. Gao, Abolfazl Razi, Tong Ye, "Quantification of Cardiac Capillarization in Single-Immunostained Myocardial Slices Using Weakly Supervised Instance Segmentation," Scientific Reports (2024). <a href="https://www.nature.com/articles/s41598-024-15344-0">(Link)</a>
+Zhao Zhang, Xiwen Chen, William Richardson, Bruce Z. Gao, Abolfazl Razi, Tong Ye, "Quantification of Cardiac Capillarization in Basement-Membrane-Immunostained Myocardial Slices Using Segment Anything Model," Scientific Reports, 14, 15344 (2024). <a href="https://www.nature.com/articles/s41598-024-65567-3">(Link)</a>
 
 Ashish Bastola, Hao Wang, Sayed Pedram Haeri Boroujeni, Julian Brinkley, Ata Jahangir Moshayedi, Abolfazl Razi, "Driving Towards Inclusion: A Systematic Review of AI-Powered Accessibility Enhancements for People with Disability in Autonomous Vehicles," IEEE Access (2025). <a href="https://ieeexplore.ieee.org/document/10584328">(Link)</a>
 
@@ -133,16 +131,11 @@ A. Razi, A. Abedi, “Power Optimized DSTBC Assisted DMF Relaying in Wireless Se
 
 F. Afghah, A. Razi, A. Abedi, "Stochastic Game Theoretical Model for Packet Forwarding in Relay Networks", Special issues in Mobile Computing and Networking Technologies Journal, Springer, vol. 25, no. 4, pp 1877-1893, April 2013 <a href="https://link.springer.com/article/10.1007/s11235-011-9471-y">(Link)</a> <a href="../files/papers/p2013Springer_StochasticGameTheoreticalModel.pdf">(PDF)</a> <a href="../files/papers/p2013Springer_StochasticGameTheoreticalModel.txt">(Bibtex)</a>
 
-
-
 K.Yasami, A.Razi, A.Abedi, "Analysis of Channel Estimation Error in Physical Layer Network Coding", IEEE Communications Letters, vol. 15, no. 10, pp1029-1031, Oct 2011 <a href="https://ieeexplore.ieee.org/document/6005192/">(Link)</a> <a href="../files/papers/2011KayvanCLnetworkCoding.pdf">(PDF)</a> <a href="../files/papers/2011KayvanCLnetworkCoding.txt">(Bibtex)</a>
 
 A. Razi, F. Afghah, A. Abedi, "Binary Source Estimation Using a Two-tiered Wireless Sensor Networks", IEEE Communications Letters, vol. 15, no. 14, pp 449-551, April 2011 <a href="https://ieeexplore.ieee.org/document/5714764/">(Link)</a> <a href="../files/papers/p2011CL_BinarySourceTwoTieredWSN.pdf">(PDF)</a> <a href="../files/papers/p2011CL_BinarySourceTwoTieredWSN.txt">(Bibtex)</a>
 
 F. Afghah, M. Ardebilipour, A. Razi, "Fast Turbo Codes Concatenated with Space-Time Block Codes", ISI Journal of Applied Science, no. 8, pp 2867-2873, 2008 <a href="https://scialert.net/abstract/?doi=jas.2008.2867.2873">(Link)</a> <a href="../files/papers/p2008_JAppliedScience_FastTurboCodesSTBC.pdf">(PDF)</a> <a href="../files/papers/p2008_JAppliedScience_FastTurboCodesSTBC.txt">(Bibtex)</a>
-
-
-
 
 ## Conference Papers
 Chen, X., Li, H., Amin, R. and Razi, A., 2023. RD-DPP: Rate-Distortion Theory Meets Determinantal Point Process to Diversify Learning Data Samples. arXiv preprint arXiv:2304.04137. 
