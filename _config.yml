@@ -181,24 +181,27 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  #portfolio:   #razi commented
+  #  output: true
+  #  permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
   #talks:    #razi commented
   #  output: true
   #  permalink: /:collection/:path/
-  people:    #razi copy pasted
-      output: true
-      permalink: /:collection/:path/
+  # people:    #razi copy pasted
+  #     output: true
+  #     permalink: /:collection/:path/
+  team:    #razi added to merge people and lab 
+    output: true
+    permalink: /:collection/:path/
   research:   #razi copy pasted
       output: true
       permalink: /:collection/:path/
-  lab:   #razi copy pasted
-      output: true
-      permalink: /:collection/:path/
+  #lab:   #razi commented
+  #    output: true
+  #    permalink: /:collection/:path/
 
     
 
@@ -241,15 +244,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _projects
   - scope:
       path: ""
@@ -259,14 +253,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
   # _research   Razi copy pasted
   - scope:
       path: ""
@@ -275,18 +261,10 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _lab   Razi copy pasted
+  # _team   Razi copy pasted
   - scope:
       path: ""
-      type: lab
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  # _people   Razi copy pasted
-  - scope:
-      path: ""
-      type: people
+      type: team
     values:
       layout: single
       author_profile: true
