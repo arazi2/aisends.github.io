@@ -170,6 +170,8 @@ Peijie Qiu, Xiwen Chen, Abolfazl Razi, Yujian Xiong, Oana M. Dumitrascu, Wenhui 
 
 Oana M. Dumitrascu, Abolfazl Razi, Yalin Wang, "Many-MobileNet: Multi-model Augmentation for Robust Retinal Disease Classification," in Ultra-Widefield Fundus Imaging for Diabetic Retinopathy: First MICCAI Challenge (UWF4DR 2024), held in conjunction with MICCAI 2024, Marrakesh, Morocco, October 10, 2024, Proceedings, vol. 15597, p. 144, 2025. <a href="https://arxiv.org/abs/2412.02825">(Link)</a>
 
+Xuanzhao Dong, Yalin Wang, Yanxi Chen, Xin Li, Hao Wang, Peijie Qiu, Xiwen Chen, Abolfazl Razi, Yujian Xiong, Oana M. Dumitrascu, et al., "DME-MobileNet: Fine-Tuning nnMobileNet for Diabetic Macular Edema Classification," MICCAI Challenge on Ultra-Widefield Fundus Imaging for Diabetic Retinopathy, pp. 155–164, Springer Nature Switzerland, Cham, 2024. <a href="https://link.springer.com/chapter/10.1007/978-3-031-89388-9_16">(Link)</a>
+
 Wenhui Zhu, Xiwen Chen, Peijie Qiu, Aristeidis Sotiras, Abolfazl Razi, Yalin Wang, "DGR-MIL: Exploring Diverse Global Representation in Multiple Instance Learning for Whole Slide Image Classification," in European Conference on Computer Vision (ECCV), pp. 333–351, Cham: Springer Nature Switzerland, 2024. <a href="https://arxiv.org/abs/2407.03575">(Link)</a>
 
 Zhu, W., Chen, X., Qiu, P., Farazi, M., Sotiras, A., Razi, A., Wang, Y., "SelfReg-UNet: Self-Regularized UNet for Medical Image Segmentation," in the 27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), pp. 1–10, October 6–10, 2024. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12408486/">(Link)</a>
@@ -186,13 +188,11 @@ Xiangyu Jiang, Xiwen Chen, Hao Wang, Abolfazl Razi, "Geographical Information Al
 
 Hao Wang, Sayed Pedram Haeri Boroujeni, Xiwen Chen, Ashish Bastola, Huayu Li, Wenhui Zhu, Abolfazl Razi, "Flame Diffuser: Wildfire Image Synthesis Using Mask Guided Diffusion," in 2024 IEEE International Conference on Big Data (BigData), pp. 6171–6179, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10826040/">(Link)</a>
 
-Xuanzhao Dong, Yalin Wang, Yanxi Chen, Xin Li, Hao Wang, Peijie Qiu, Xiwen Chen, Abolfazl Razi, Yujian Xiong, Oana M. Dumitrascu, et al., "DME-MobileNet: Fine-Tuning nnMobileNet for Diabetic Macular Edema Classification," MICCAI Challenge on Ultra-Widefield Fundus Imaging for Diabetic Retinopathy, pp. 155–164, Springer Nature Switzerland, Cham, 2024. <a href="https://link.springer.com/chapter/10.1007/978-3-031-89388-9_16">(Link)</a>
+Chen, X., Qiu, P., Zhu, W., Li, H., Wang, H., Sotiras, A., Wang, Y., Razi, A., "TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning," in The Forty-first International Conference on Machine Learning (ICML), Vienna, Austria, July 21–27, 2024. <a href="https://arxiv.org/abs/2405.03140">(Link)</a>
 
-Chen, X., Qiu, P., Zhu, W., Li, H., Wang, H., Sotiras, A., Wang, Y., Razi, A., "TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning," in The Forty-first International Conference on Machine Learning (ICML), Vienna, Austria, July 21–27, 2024. <a href="the_link_comes_here_later">(Link)</a>
+Chen, X., Wang, H., Zhang, Z., Li, Z., Li, H., Ye, T., Razi, A., "Enhancing Digital Hologram Reconstruction Using Reverse-Attention Loss for Untrained Physics-Driven Deep Learning Models with Uncertain Distance," SPIE AI and Optical Data Sciences, vol. 12903, pp. 132–141, March 3, 2024, Washington DC, USA. <a href="https://arxiv.org/abs/2403.12056">(Link)</a>
 
-Chen, X., Wang, H., Zhang, Z., Li, Z., Li, H., Ye, T., Razi, A., "Enhancing Digital Hologram Reconstruction Using Reverse-Attention Loss for Untrained Physics-Driven Deep Learning Models with Uncertain Distance," SPIE AI and Optical Data Sciences, vol. 12903, pp. 132–141, March 3, 2024, Washington DC, USA. <a href="the_link_comes_here_later">(Link)</a>
-
-Chen, X., Zhu, W., Qiu, P., Razi, A., "Imaging Signal Recovery Using Neural Network Priors Under Uncertain Forward Model Parameters," in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, pp. 1420–1429, June 17–21, 2024, Seattle, Washington, USA. <a href="the_link_comes_here_later">(Link)</a>
+Chen, X., Zhu, W., Qiu, P., Razi, A., "Imaging Signal Recovery Using Neural Network Priors Under Uncertain Forward Model Parameters," in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, pp. 1420–1429, June 17–21, 2024, Seattle, Washington, USA. <a href="https://arxiv.org/abs/2405.02944">(Link)</a>
 
 Uma Meleti, Abolfazl Razi, Fatemeh Afghah, "Obscured Wildfire Flame Detection By Spatio-Temporal Analysis of Smoke Patterns Using Frame-Wise Transformers," in DCOSS-IoT, April 29–31, 2024, Abu Dhabi, UAE. <a href="the_link_comes_here_later">(Link)</a>
 
