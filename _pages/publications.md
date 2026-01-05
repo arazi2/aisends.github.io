@@ -124,14 +124,14 @@ F. Afghah, M. Ardebilipour, A. Razi, "Fast Turbo Codes Concatenated with Space-T
 ## Conference Papers
 
 Hao Wang, Ashish Bastola, Chaoyi Zhou, Wenhui Zhu, Xiwen Chen, Xuanzhao Dong, Siyu Huang, Abolfazl Razi, "Fast 2DGS: Efficient Image Representation with Deep Gaussian Prior," 
-in IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshop on Image/Video/Audio Quality Assessment in Computer Vision, VLM and Diffusion Model (WVAQ), May 2026, Tucson, Arizona. 
+in IEEE/CVF Winter Conference on Applications of Computer Vision Workshop on Image/Video/Audio Quality Assessment in Computer Vision, VLM and Diffusion Model (WACV: WVAQ), May 2026, Tucson, Arizona. 
 <a href="https://arxiv.org/abs/2512.12774">(Link)</a>
 
 Sayed Pedram Haeri Boroujeni, Abolfazl Razi, "VLA4CoDrive: Vision–Language–Action Dataset for Cooperative Autonomous Driving," 
-in IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD), May 2026, Tucson, Arizona.
+in IEEE/CVF Winter Conference on Applications of Computer Vision Workshop on Large Language and Vision Models for Autonomous Driving (WACV: LLVM-AD), May 2026, Tucson, Arizona.
 
 Hao Wang, Wenhui Zhu, Shao Tang, Zhipeng Wang, Xuanzhao Dong, Xin Li, Xiwen Chen, Ashish Bastola, Xinhao Huang, Yalin Wang, Abolfazl Razi, "EZBlender: Efficient 3D Editing with Plan-and-ReAct Agent," 
-in IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshop on Visual Art, Generative AI, and the Legal/Ethical Dilemma (VALED), May 2026, Tucson, Arizona.
+in IEEE/CVF Winter Conference on Applications of Computer Vision Workshop on Visual Art, Generative AI, and the Legal/Ethical Dilemma (WACV: VALED), May 2026, Tucson, Arizona.
 
 Ashish Bastola, Nishant Luitel, Hao Wang, Danda Pani Paudel, Roshni Poudel, Abolfazl Razi, "Robust-Former: Noise-Robust Pre-training for Images and Videos," in IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), May 2026, Tucson, Arizona. <a href="https://arxiv.org/pdf/2411.13040">(Link)</a>
 
