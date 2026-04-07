@@ -298,7 +298,10 @@ Please cite our work if you find this project helpful.
 # Outcomes
 
 ## Conference Proceedings:
-  -  Motor Focus: Fast Ego-Motion Prediction for Assistive Visual Navigation (BSN 2024)
+  -  Spatial-Conditioned Reasoning in Long-Egocentric Videos
+  -  Motion Focus Recognition in Fast-Moving Egocentric Video (WACV2026@CV4WS)
+  -  Motor Focus: Fast Ego-Motion Prediction for Assistive Visual Navigation (BSN2024)
+
 
 
 # Codes
@@ -320,8 +323,9 @@ Please cite our work if you find this project helpful.
 
 
 ## Acknowledgements:
--	Jiayou Qin (Stevens Institute of Technology)
--	Zihao Gong (Tokai University)
+
+Research reported in this project was supported in part by the NSF and SC EPSCoR Program under award number (NSF Award # OIA-2242812 and SC EPSCoR 26-CRP03). The views, perspective, and content do not necessarily represent the official views of the SC EPSCoR Program nor those of the NSF.
+
 
 <br>
 <br>
