@@ -18,7 +18,7 @@ Sponsored by the **South Carolina EPSCoR Program** (Award # 26-CRP03), this init
 
 <div align="center">
     <!-- Place your primary field video or main system demo here -->
-    <img src="../images/VisionGPT/vin_2.png" alt="Assistive Visual Navigation Overview" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="../images/VisionGPT/VGPTframework.png" alt="Assistive Visual Navigation Overview" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 <br>
@@ -189,3 +189,30 @@ We contribute open datasets and evaluation protocols to advance embodied AI for 
   year={2024}
 }</code></pre>
   </details>
+
+  ## Project Team
+
+* **Abolfazl Razi** — Clemson University <!-- arazi@clemson.edu -->
+* **Daniel Si-En Hong** — Clemson University <!-- sienh@clemson.edu -->
+* **Hao Wang** — Arizona State University <!-- hao9@clemson.edu -->
+* **Ashish Bastola** — Clemson University <!-- abastol@clemson.edu -->
+* **Dr. Ismahan Arslan-Ari** — University of South Carolina <!-- ARSLANAI@mailbox.sc.edu -->
+
+### Special Thanks to Our Collaborators & Contributors
+* **Dr. Brian Canada** — University of South Carolina Beaufort <!-- BCANADA@uscb.edu -->
+* **Dr. Nikunja K. Swain** — South Carolina State University <!-- nswain@scsu.edu -->
+* **Dr. Farhath Zareen** — The Citadel, The Military College of South Carolina <!-- fzareen@citadel.edu -->
+* **Dr. Zihao Gong** — Tokai University <!-- OCPD1206@mail.u-tokai.ac.jp -->
+* **James Tribble** — Clemson University <!-- jjtribb@clemson.edu -->
+* **Xiwen Chen** — Stanley Morgan Company <!-- xiwenc@g.clemson.edu -->
+* **Jiayou Qin** — Stevens Institute of Technology <!-- jqin6@stevens.edu -->
+* **Chaoyi Zhou** — Clemson University <!-- chaoyiz@clemson.edu -->
+* **Alexander Lake** — Clemson University <!-- lake8@clemson.edu -->
+* **Siyu Huang** — Clemson University <!-- siyuh@clemson.edu -->
+* **Eisa Chaudhary** — University of South Carolina Beaufort <!-- eisa@email.uscb.edu -->
+* **John Suchanek** — Clemson University <!-- jsuchan@clemson.edu -->
+
+---
+
+## Acknowledgments
+Research reported in this project is supported in part by the **South Carolina EPSCoR Program** under award number **SC EPSCoR 26-CRP03** and the **National Science Foundation (NSF)** under award number **NSF Award # OIA-2242812**. The views, perspectives, and content do not necessarily represent the official views of the SC EPSCoR Program nor those of the NSF.
