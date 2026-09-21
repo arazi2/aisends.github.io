@@ -7,7 +7,7 @@ date: 2026-04-01
 
 ## PI: Dr. Abolfazl Razi [[arazi@clemson.edu](mailto:arazi@clemson.edu)]
 **AI-SENDS Lab — School of Computing, Clemson University**  
-*In collaboration with University of South Carolina & USC Beaufort*
+*In collaboration with the University of South Carolina, Arizona State University, SC Citadel, South Carolina State University, and USC Beaufort*
 
 ---
 
