@@ -18,8 +18,19 @@ Sponsored by the **South Carolina EPSCoR Program** (Award # 26-CRP03), this init
 
 <div align="center">
     <!-- Place your primary field video or main system demo here -->
-    <img src="../images/VisionGPT/VGPTframework.png" alt="Assistive Visual Navigation Overview" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="../images/VisionGPT/VGPTframework.png" alt="Assistive Visual Navigation Overview" style="width: 60%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
+
+<div align="center" style="margin-top: 20px; margin-bottom: 25px;">
+  <video width="100%" controls autoplay loop muted playsinline style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <source src="../images/VisionGPT/VLMpoweredGuidance.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p style="font-size: 0.9em; color: #555; margin-top: 8px;">
+    <strong>Live System Demonstration:</strong> Real-time egocentric perception and conversational VLM guidance delivered to a visually impaired user during dynamic navigation.
+  </p>
+</div>
+
 
 <br>
 
