@@ -1,157 +1,153 @@
 ---
-title: "Assistive Visual Navigation"
+title: "Assistive Visual Navigation: Intelligent Edge Perception & Closed-Loop Guidance"
 collection: projects
 permalink: /project/VisionGPT
-# excerpt: 'TBD'
-date: 2025-3-20
-# venue: 'TBD'
-# paperurl: 'TBD'
-# citation: 'TBD'
+date: 2026-04-01
 ---
-## PI: Dr. Abolfazl Razi [arazi@clemson.edu](mailto:arazi@clemson.edu)
 
+## PI: Dr. Abolfazl Razi [[arazi@clemson.edu](mailto:arazi@clemson.edu)]
+**AI-SENDS Lab — School of Computing, Clemson University**  
+*In collaboration with University of South Carolina & USC Beaufort*
 
-## Project Overview
-Assistive visual navigation systems for visually impaired individuals have become increasingly popular thanks to the rise of mobile computing. Most of these devices work by translating visual information into voice commands. In complex scenarios where multiple objects are present, it is imperative to prioritize object detection and provide immediate notifications for key entities in specific directions. This brings the need for identifying the observer’s motion direction (ego-motion) by merely processing visual information, which is the key contribution of this project.
+---
 
-<div align="center">
-    <img src="../images/VisionGPT/vin_2.png" alt="" style="width: 100%;">
-</div>
+## 1. Mission & Vision
+Independent mobility remains one of the most critical challenges facing over 43 million individuals worldwide who are legally blind. While traditional white canes and guide dogs provide indispensable immediate physical detection, active individuals encounter severe safety bottlenecks during dynamic locomotion (e.g., brisk walking, running, and navigating unfamiliar urban corridors). 
 
-
-<br> 
-See our poster/paper at the BSN 2024: 
-<a href="../files/MotorFocus_poster_2.pdf" target="_blank">BSN 2024 Poster</a> 
-/ 
-<a href="https://ieeexplore.ieee.org/abstract/document/10780583" target="_blank">Paper</a>
-
-
-
-See our project page for the practical implementation and testing:
-<a href="https://github.com/JiayouQin/H-Splitter/tree/main" target="_blank">AIS-Clemson/MotorFocus</a>
- 
-<a href="https://github.com/AIS-Clemson/VisionGPT" target="_blank">AIS-Clemson/VisionGPT</a>
-
-
-
-# (2025) VIA-LLM: Visually Impaired Assistive Tool with LLM Reasoning (under developing) 
-Globally, over two billion people suffer from vision impairment, with approximately 43 million classified as legally blind. Some eye diseases, such as Retinitis Pigmentosa (RP), lead to gradual vision loss and currently have no cure. Most treatments for such genetics-driven diseases – including gene therapy (e.g., Luxturna for specific mutations), stem cells, artificial retinal implants, and vitamin A supplementation – have shown only minor effects in restoring lost vision and remain in exploratory stages for decades. For such conditions, developing assistive tools arises as a promising alternative to enable patients to manage their daily tasks and live more independently. 
+The mission of this research initiative is to develop **closed-loop, edge-deployable assistive navigation architectures** that bridge the gap between high-rate physical biomechanics and semantic spatial reasoning. By unifying body-worn inertial dynamics, high-speed ego-motion filtering, and depth-conditioned multimodal foundation models, our systems translate rich visual environments into low-latency, intuitive directional guidance without relying on cloud computation.
 
 <div align="center">
-    <img src="../images/VisionGPT/Prevalence-maponly.jpg" alt="" style="width: 70%;">
-</div>
-
-
-## Computer Vision
-To assist visually impaired users in perceiving their surroundings, we integrate real-time computer vision capabilities. Our system captures live video from a user-worn camera and processes the stream to identify objects, detect motion patterns, and simulate various vision impairment conditions. These capabilities form the foundation for further semantic reasoning and audio-based feedback generation.
-
-
-### Object detection/segmentation
-We apply state-of-the-art object detection and segmentation models YOLO to identify and localize important entities within the user's environment. These include dynamic obstacles (e.g., vehicles, people) and static infrastructure (e.g., staircases, signboards). The detected objects are then analyzed for spatial layout, proximity, and potential interaction, enabling context-aware guidance and warnings.
-
-<div align="center">
-    <img src="../images/VisionGPT/JP_Shinjuku_1.gif" alt="" style="width: 100%;">
-</div>
-
-### Motion-based analysis
-In complex, dynamic scenes, recognizing motion is critical for timely intervention. Our system tracks moving objects and analyzes their trajectories to predict potential collisions or abnormal behaviors (e.g., a person running against the flow). This allows the agent to prioritize hazards and issue real-time alerts, even in crowded urban settings.
-
-<div align="center">
-    <img src="../images/VisionGPT/JP_Shinjuku_4.gif" alt="" style="width: 100%;">
-</div>
-
-### Simulated visual impairment-sensing
-"Less is better." To understand the visual limitations of different eye diseases, we simulate vision loss scenarios such as tunnel vision, blurred vision, or night blindness. These simulations help us evaluate the system's effectiveness under various impairment models and guide the design of compensation strategies such as auditory cues or zoomed-in focus detection.
-
-<div align="center">
-    <img src="../images/VisionGPT/JP_Shinjuku_5.gif" alt="" style="width: 100%;">
-</div>
-
-
-<br>
-
-## Assistive agent
-Beyond perception, VIA-LLM incorporates reasoning and interaction modules that bridge the gap between raw visual data and meaningful user feedback. Using large language models, the system can interpret scene context, anticipate risks, and generate natural-language responses for real-time assistance.
-
-<div align="center">
-    <img src="../images/VisionGPT/framework.jpg" alt="" style="width: 100%;">
-</div>
-
-### Early detection & feedback
-The system continuously monitors the scene to detect potentially hazardous situations in advance—such as a fast-approaching vehicle or an unexpected object on the path. It prioritizes urgency and relevance, enabling timely and intuitive feedback to the user through auditory signals or haptic cues.
-
-<div align="center">
-    <img src="../images/VisionGPT/JP_Shinjuku_2.gif" alt="" style="width: 100%;">
-</div>
-
-
-### Voice boardcast & alert
-To maximize accessibility, our system employs a voice-based interface to broadcast situational awareness updates and urgent alerts. For example, it can announce, “Crosswalk ahead, wait for green light,” or “Bicycle approaching from the left.” This interactive voice feedback, powered by LLM-driven semantic analysis, ensures that users are not overwhelmed by raw data but instead receive concise, contextually relevant guidance.
-
-
-<div align="center">
-    <img src="../images/VisionGPT/JP_1.gif" alt="" style="width: 100%;">
-</div>
-
-
-<br>
-<br>
-<br>
-
-
-
-
-
-
-
-
-
-
-# (2024) Ego-Motion Prediction with All-Pixel Matching 
-This project introduces Motor Focus -- a lightweight, image-based framework designed to predict ego-motion, i.e., the movement intentions of humans (or humanoid machines), using visual input while filtering out camera motion without the need for camera calibration. The framework implements an optical flow-based pixel-wise temporal analysis to account for camera movement, enhanced by a Gaussian aggregation to smooth the predicted movement area.
-
-<div align="center">
-    <img src="../images/VisionGPT/HsplitterV2.gif" alt="" style="width: 100%;">
+    <!-- Place your primary field video or main system demo here -->
+    <img src="../images/VisionGPT/vin_2.png" alt="Assistive Visual Navigation Overview" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 <br>
 
 <div align="center">
-    <img src="../images/VisionGPT/Picture1.png" alt="" style="width: 100%;">
+  <a href="https://github.com/AIS-Clemson/VisionGPT" target="_blank" style="margin: 0 10px; font-weight: bold;">[Code: VisionGPT]</a> •
+  <a href="https://github.com/JiayouQin/H-Splitter/tree/main" target="_blank" style="margin: 0 10px; font-weight: bold;">[Code: Motor Focus]</a> •
+  <a href="https://huggingface.co/datasets/Kevius/sanpo_annotations" target="_blank" style="margin: 0 10px; font-weight: bold;">[Dataset: Sanpo-D]</a> •
+  <a href="https://ieeexplore.ieee.org/abstract/document/10780583" target="_blank" style="margin: 0 10px; font-weight: bold;">[BSN'24 IEEE Xplore]</a>
 </div>
 
-## Features
-Our framework mainly predicts ego-motion by identifying how users physically orient themselves in space through pixel-wise temporal analysis. 
+---
 
-- **Video Stabilization**: To counteract camera shake, we used SVD and optical flow to estimate the affine transformation matrix from feature points extracted in two consecutive frames.
-- **Camera Motion Compensation**: The fusion of two consecutive frames filters the camera motion, which highlights the object that moves relatively with the observer.
+## 2. Interactive System Demonstrations
+
+<table style="width: 100%; border: none; text-align: center;">
+  <tr>
+    <td style="width: 33%; vertical-align: top; padding: 10px;">
+      <img src="../images/VisionGPT/JP_Shinjuku_1.gif" alt="Dynamic Obstacle Detection" style="width: 100%; border-radius: 6px;">
+      <p><strong>Open-World Tracking</strong><br><small>Zero-shot obstacle detection and spatial layout parsing via localized YOLO backbones.</small></p>
+    </td>
+    <td style="width: 33%; vertical-align: top; padding: 10px;">
+      <img src="../images/VisionGPT/HsplitterV2.gif" alt="Ego-Motion Compensation" style="width: 100%; border-radius: 6px;">
+      <p><strong>Ego-Motion Compensation</strong><br><small>All-pixel SVD matching filtering camera jitter and heading drift at &gt;40 FPS.</small></p>
+    </td>
+    <td style="width: 33%; vertical-align: top; padding: 10px;">
+      <img src="../images/VisionGPT/JP_1.gif" alt="Real-time Voice & Audio Guidance" style="width: 100%; border-radius: 6px;">
+      <p><strong>Acoustic Spatial Feedback</strong><br><small>Cadence-coupled auditory cues and high-priority hazard alerts under 60 ms latency.</small></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 3. Core Research Pillars
+
+### Pillar A: Cadence-Adaptive Closed-Loop Guidance
+Conventional electronic travel aids rely on fixed controller parameters optimized for a single walking speed, causing severe latency and oscillatory "Z-walk" overcorrections when users accelerate. 
+* **Gait Rhythm Coupling:** By capturing real-time device motion at 100 Hz from a torso/waist-mounted sensor, our controller estimates cadence without requiring user-specific stride calibration.
+* **Dynamic Control Law:** An affine adaptation law continuously adjusts look-ahead preview horizons, temporal smoothing, and derivative damping in real time.
+* **Empirical Validation:** In controlled locomotion trials, cadence-adaptive control reduced corrective cue reversals by **71%** ($p=0.001$), decreased correction latency by **52%**, and suppressed large guideline departures by **48%** while maintaining a steady 24 FPS throughput.
 
 <div align="center">
-    <img src="../images/VisionGPT/frame_3.png" alt="" style="width: 100%;">
+    <img src="../images/VisionGPT/JP_Shinjuku_4.gif" alt="Cadence Analysis and Motion Tracking" style="width: 85%;">
 </div>
 
-<br>
+### Pillar B: Edge-Computed Spatial Reasoning & Depth Prior Fusion
+Large vision-language models (VLMs) frequently suffer from hallucination and temporal drift across long-horizon egocentric videos.
+* **Metric Depth Conditioning:** We integrate Depth Anything 3 (DA3) metric depth maps directly into RGB streams, injecting geometric inductive bias without altering underlying model weights.
+* **Compact Model Generalization:** Benchmarks demonstrate that compact 0.5B–2B parameter models (e.g., InternVL2-2B, SmolVLM2) generalize more effectively to spatial obstruction detection than ungrounded 7B/8B counterparts, enabling full on-device execution.
+* **Impairment Simulation:** To ensure clinical relevance, perception algorithms are evaluated under simulated visual pathologies, including retinitis pigmentosa (tunnel vision), macular degeneration, and cataract scatter.
 
 <div align="center">
-    <img src="../images/VisionGPT/result_2.png" alt="" style="width: 100%;">
+    <img src="../images/VisionGPT/JP_Shinjuku_5.gif" alt="Visual Impairment Simulation" style="width: 85%;">
 </div>
 
-
-## Dataset
-This project also included custom datasets that are collected to train/test assistive visual navigation.
-
-<a href="https://drive.google.com/drive/folders/1HPEWBdEk4aKgus1h37ZkU2KJ964DxmwA?usp=sharing" target="_blank">Dataset</a>
-
+### Pillar C: All-Pixel Ego-Motion & Hazard Prioritization
+Body-worn and handheld cameras suffer from extreme high-frequency shaking that degrades conventional visual odometry.
+* **Calibration-Free Ego-Motion Compensation:** Rather than relying on computationally heavy sparse keypoint matching (SIFT/ORB), our approach treats every pixel as a flow vector and solves rigid frame transformations using closed-form Singular Value Decomposition (SVD) in under 1 ms.
+* **Spatial H-Partitioning:** Frames are dynamically segmented into four functional safety zones (Ground, Front, Left, Right) to differentiate between background clutter and actionable hazards requiring immediate deceleration.
+* **Edge Hardware Benchmarking:** The end-to-end perception pipeline achieves 51–61 ms inference on mobile neural engines (Apple A16/M2 architectures).
 
 <div align="center">
-    <img src="../images/VisionGPT/data.jpg" alt="" style="width: 60%;">
+    <img src="../images/VisionGPT/H_2.jpg" alt="H-Splitter Geometry" style="width: 80%;">
 </div>
 
+---
 
-### Acknowledgements:
+## 4. Benchmark Datasets & Resources
 
-Please cite our work if you find this project helpful.
+We contribute open datasets and evaluation protocols to advance embodied AI for assistive mobility:
+
+* **VIN-Bench (Visual Assistive Navigation Benchmark):**  
+  A large-scale multimodal corpus comprising **10,046 event-anchored clips across 70 sessions (>50 hours)**. Synchronizes dual-view egocentric RGB (head-mounted POV vs. chest-mounted primary), 100 Hz IMU, LiDAR depth, and GPS trajectories with sub-100 ms cross-device acoustic alignment. Supports standardized evaluation of Vision-Language-Action (VLA) trajectory planning and safety reasoning.
+* **Sanpo-D Spatial VQA Dataset:**  
+  A navigation-oriented spatial re-annotation of the Google Sanpo dataset, featuring 647 fine-grained multimodal QA pairs probing pedestrian proximity, lateral obstructions, intersection layouts, and path affordances under long-horizon drift.  
+  👉 **Dataset Access:** [Hugging Face Sanpo-D Repository](https://huggingface.co/datasets/Kevius/sanpo_annotations)
+* **Urban Cruising & Motor Focus Corpus:**  
+  Real-world first-person walking, biking, and scooter recordings annotated for frame-by-frame motor focus intention and ego-motion compensation.  
+  👉 **Dataset Access:** [Google Drive Archive](https://drive.google.com/drive/folders/1HPEWBdEk4aKgus1h37ZkU2KJ964DxmwA?usp=sharing)
+
+---
+
+## 5. Peer-Reviewed Publications
+
+* **Cadence-Adaptive Control for Camera-Based Assistive-Running Guidance**  
+  Si-En Hong, Hao Wang, Abolfazl Razi  
+  *IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN)*, 2026.  
+  `[Accepted]`
+
+* **Spatial-Conditioned Reasoning in Long-Horizon Egocentric Videos**  
+  James Tribble, Si-En Hong, Hao Wang, Chaoyi Zhou, Ashish Bastola, Siyu Huang, Abolfazl Razi  
+  *IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN)*, 2026.  
+  `[Accepted]` • [Dataset (HuggingFace)](https://huggingface.co/datasets/Kevius/sanpo_annotations)
+
+* **Motion Focus Recognition in Fast-Moving Egocentric Video**  
+  Si-En Hong, James Tribble, Alexander Lake, Hao Wang, Chaoyi Zhou, Ashish Bastola, Siyu Huang, Eisa Chaudhary, Brian Canada, Ismahan Arslan-Ari, Abolfazl Razi  
+  *IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVw @ CV4WS)*, 2026.  
+  [arXiv:2601.07154](https://arxiv.org/abs/2601.07154)
+
+* **VIN-Bench: Benchmarking Safety Reasoning and Action Planning for Visual Assistive Navigation**  
+  *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*, 2027 Datasets Track.  
+  `[Under Review]`
+
+* **Motor Focus: Fast Ego-Motion Prediction for Assistive Visual Navigation**  
+  Hao Wang, Jiayou Qin, Xiwen Chen, Ashish Bastola, John Suchanek, Zihao Gong, Abolfazl Razi  
+  *IEEE 20th International Conference on Body Sensor Networks (BSN)*, 2024.  
+  [DOI: 10.1109/BSN63547.2024.10780583](https://ieeexplore.ieee.org/abstract/document/10780583) • [Poster](../files/MotorFocus_poster_2.pdf)
+
+* **VisionGPT: LLM-Assisted Real-Time Anomaly Detection for Safe Visual Navigation**  
+  Hao Wang, Jiayou Qin, Ashish Bastola, Xiwen Chen, John Suchanek, Zihao Gong, Abolfazl Razi  
+  *arXiv preprint arXiv:2403.12415*, 2024.  
+  [arXiv:2403.12415](https://arxiv.org/abs/2403.12415) • `50+ Citations`
+
 ```bibtex
+@inproceedings{hong2026cadence,
+  title={Cadence-Adaptive Control for Camera-Based Assistive-Running Guidance},
+  author={Hong, Si-En and Wang, Hao and Razi, Abolfazl},
+  booktitle={IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN)},
+  year={2026}
+}
+
+@inproceedings{tribble2026spatial,
+  title={Spatial-Conditioned Reasoning in Long-Horizon Egocentric Videos},
+  author={Tribble, James and Hong, Si-En and Wang, Hao and Zhou, Chaoyi and Bastola, Ashish and Huang, Siyu and Razi, Abolfazl},
+  booktitle={IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN)},
+  year={2026}
+}
+
 @inproceedings{wang2024motor,
   title={Motor Focus: Fast Ego-Motion Prediction for Assistive Visual Navigation},
   author={Wang, Hao and Qin, Jiayou and Chen, Xiwen and Bastola, Ashish and Suchanek, John and Gong, Zihao and Razi, Abolfazl},
@@ -160,174 +156,3 @@ Please cite our work if you find this project helpful.
   year={2024},
   organization={IEEE}
 }
-```
-
-<br>
-<br>
-<br>
-
-
-
-
-
-
-
-
-
-
-# (2024) VisionGPT: LLM-Assisted Real-Time Anomaly Detection for Safe Visual Navigation
-
-
-
-## Demonstration
-
-## Overview
-This project explores the potential of Large Language Models(LLMs) in zero-shot anomaly detection for safe visual navigation. 
-
-<div align="center">
-    <img src="../images/VisionGPT/JP_1.gif" alt="Framework" style="width: 100%;">
-</div>
-
-See our another project for the movement prediction: <a href="https://github.com/JiayouQin/H-Splitter" target="_blank">H-Splitter</a>
-
-
-<br>
-
-With the assistance of state-of-the-art real-time open-world
-object detection model Yolo-World and specialized prompts, the proposed framework can identify anomalies within camera-captured frames that include any possible obstacles, then generate
-concise, audio-delivered descriptions emphasizing abnormalities, assist in safe visual navigation
-in complex circumstances. 
-
-
-<div align="center">
-    <img src="../images/VisionGPT/frame.png" alt="Framework" style="width: 100%;">
-</div>
-
-Moreover, our proposed framework leverages the advantages of LLMs
-and the open-vocabulary object detection model to achieve the dynamic scenario switch, which
-allows users to transition smoothly from scene to scene, which addresses the limitation of traditional
-visual navigation. 
-
-Furthermore, this project explored the performance contribution of different prompt
-components provided the vision for future improvement in visual accessibility and paved the way
-for LLMs in video anomaly detection and vision-language understanding.
-
-
-## Method
-
-### Yolo-World
-We apply the latest Yolo-world for the open-world object detection task to adapt the system in any scenario any situation. The detection classes are generated by GPT-4 and can be replaced dynamically.
-
-<div align="center">
-    <img src="../images/VisionGPT/dt_classes.png" alt="Detection classes" style="width: 100%;">
-</div>
-
-### GPT-3.5
-We apply GPT-3.5 for fast response and low cost. We have tested GPT-4 and GPT-4V but found them not financial-friendly.
-
-<div align="center">
-    <img src="../images/VisionGPT/prompt.png" alt="Sample results" style="width: 100%;">
-</div>
-
-
-### H-splitter
-We implemented an H-splitter to assist object detection and categorize the objects into 3 different types based on the priority. 
-
-<div align="center">
-    <img src="../images/VisionGPT/H_2.jpg" alt="H-splitter" style="width: 100%;">
-</div>
-
-See our another project for more info: <a href="https://github.com/JiayouQin/H-Splitter" target="_blank">H-Splitter</a>
-
-
-
-
-## Experiments
-We use Yolo-World with the H-splitter for universal object detection. For any object that falls (a)in Area 3 or (b)in Area 1/2 with 15% of window size, we record the corresponding frame as anomalies. We set this Yolo-World-H setting as the ground truth for the benchmark.
-
-### System Sensitivity
-We pre-set the system with 3 different sensitivities to report the emergency: low, normal, and high. We find that the low system sensitivity is good for daily use due to the low false alarm rate.
-
-<div align="center">
-    <img src="../images/VisionGPT/Figure_8.png" alt="System Test" style="width: 100%;">
-</div>
-
-### Detection accuracy
-We compare the VisionGPT with low system sensitivity with the ground truth to evaluate its performance. We find that VisionGPT has high Accuracy and prefers less False Positive (unnecessary reports).
-
-<div align="center">
-    <img src="../images/VisionGPT/Figure_9.png" alt="Performance Test" style="width: 100%;">
-</div>
-
-### System Performance & Compatibility
-<div align="center">
-    <img src="../images/VisionGPT/fps.png" alt="System performance" style="width: 100%;">
-</div>
-
-### Cost Evaluation
-<div align="center">
-    <img src="../images/VisionGPT/cost.png" alt="Financial cost test" style="width: 100%;">
-</div>
-
-
-### Acknowledgements:
-
-Please cite our work if you find this project helpful.
-```bibtex
-@article{wang2024visiongpt,
-  title={VisionGPT: LLM-Assisted Real-Time Anomaly Detection for Safe Visual Navigation},
-  author={Wang, Hao and Qin, Jiayou and Bastola, Ashish and Chen, Xiwen and Suchanek, John and Gong, Zihao and Razi, Abolfazl},
-  journal={arXiv preprint arXiv:2403.12415},
-  year={2024}
-}
-```
-
-
-
-
-
-<br>
-<br>
-<br>
-
-
-
-
-
-
-# Outcomes
-
-## Conference Proceedings:
-  -  Spatial-Conditioned Reasoning in Long-Egocentric Videos
-  -  Motion Focus Recognition in Fast-Moving Egocentric Video (WACV2026@CV4WS)
-  -  Motor Focus: Fast Ego-Motion Prediction for Assistive Visual Navigation (BSN2024)
-
-
-
-# Codes
-[VisionGPT](https://github.com/AIS-Clemson/VisionGPT)
-<br>
-[Motor Focus](https://github.com/JiayouQin/H-Splitter/tree/main)
-
-
-# Project Team
-## PI: Dr. Abolfazl Razi [arazi@clemson.edu](mailto:arazi@clemson.edu)
-
-## Graduate Students:
--	Hao Wang
-- Xiwen Chen
--	Ashish Bastola
-
-## Undergraduate Students:
--	John Suchanek
-
-
-## Acknowledgements:
-
-Research reported in this project was supported in part by the NSF and SC EPSCoR Program under award number (NSF Award # OIA-2242812 and SC EPSCoR 26-CRP03). The views, perspective, and content do not necessarily represent the official views of the SC EPSCoR Program nor those of the NSF.
-
-
-<br>
-<br>
-<br>
-
