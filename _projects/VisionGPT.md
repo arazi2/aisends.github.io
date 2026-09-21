@@ -11,10 +11,10 @@ date: 2026-04-01
 
 ---
 
-## 1. Mission & Vision
-Independent mobility remains one of the most critical challenges facing over 43 million individuals worldwide who are legally blind. While traditional white canes and guide dogs provide indispensable immediate physical detection, active individuals encounter severe safety bottlenecks during dynamic locomotion (e.g., brisk walking, running, and navigating unfamiliar urban corridors). 
+## Mission & Vision
+This project develops **AI-powered closed-loop assistive navigation tools** to support blind and visually impaired individuals during dynamic locomotion, ranging from daily walking to active travel and running. To enable safe, independent mobility, we are conducting research across multiple dimensions: combining **ego-motion estimation and denoising** (compensating for natural head motion, body sway, and camera jitter without manual calibration to track true locomotion intent at over 40 FPS) with **autonomous user direction sensing (motor focus)** to disentangle camera orientation from actual physical movement; performing **real-time scene understanding and hazard interpretation** via open-vocabulary detectors and depth-conditioned vision-language models (VLMs); translating spatial perception into intuitive, low-latency **cadence-adaptive spatial acoustic cues** and haptic feedback; and **augmenting local edge control** by distilling foundation multimodal reasoning (VLMs/VLAs) into compact models executing on mobile neural engines for offline reliability under 60 ms latency.
 
-The mission of this research initiative is to develop **closed-loop, edge-deployable assistive navigation architectures** that bridge the gap between high-rate physical biomechanics and semantic spatial reasoning. By unifying body-worn inertial dynamics, high-speed ego-motion filtering, and depth-conditioned multimodal foundation models, our systems translate rich visual environments into low-latency, intuitive directional guidance without relying on cloud computation.
+Sponsored by the **South Carolina EPSCoR Program** (Award # 26-CRP03), this initiative brings together a collaborative team of researchers across **Clemson University** and participating organizations (**University of South Carolina**, **Arizona State University**, **USC Beaufort**, **South Carolina State University**, and **The Citadel**) to develop methods, tools, and datasets as follows!
 
 <div align="center">
     <!-- Place your primary field video or main system demo here -->
@@ -32,7 +32,7 @@ The mission of this research initiative is to develop **closed-loop, edge-deploy
 
 ---
 
-## 2. Interactive System Demonstrations
+## Interactive System Demonstrations
 
 <table style="width: 100%; border: none; text-align: center;">
   <tr>
@@ -53,7 +53,7 @@ The mission of this research initiative is to develop **closed-loop, edge-deploy
 
 ---
 
-## 3. Core Research Pillars
+## Core Research Pillars
 
 ### Pillar A: Cadence-Adaptive Closed-Loop Guidance
 Conventional electronic travel aids rely on fixed controller parameters optimized for a single walking speed, causing severe latency and oscillatory "Z-walk" overcorrections when users accelerate. 
@@ -87,7 +87,7 @@ Body-worn and handheld cameras suffer from extreme high-frequency shaking that d
 
 ---
 
-## 4. Benchmark Datasets & Resources
+## Benchmark Datasets & Resources
 
 We contribute open datasets and evaluation protocols to advance embodied AI for assistive mobility:
 
@@ -102,57 +102,90 @@ We contribute open datasets and evaluation protocols to advance embodied AI for 
 
 ---
 
-## 5. Peer-Reviewed Publications
+## Research Products
+
 
 * **Cadence-Adaptive Control for Camera-Based Assistive-Running Guidance**  
   Si-En Hong, Hao Wang, Abolfazl Razi  
   *IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN)*, 2026.  
   `[Accepted]`
+  <details style="margin-top: 6px; margin-bottom: 12px;">
+    <summary style="cursor: pointer; font-size: 0.9em; color: #0366d6; font-weight: 500;">📖 Show BibTeX</summary>
+    <pre style="margin-top: 6px; padding: 10px; background: #f6f8fa; border-radius: 6px; font-size: 0.82em;"><code>@inproceedings{hong2026cadence,
+  title={Cadence-Adaptive Control for Camera-Based Assistive-Running Guidance},
+  author={Hong, Si-En and Wang, Hao and Razi, Abolfazl},
+  booktitle={IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN)},
+  year={2026}
+}</code></pre>
+  </details>
 
 * **Spatial-Conditioned Reasoning in Long-Horizon Egocentric Videos**  
   James Tribble, Si-En Hong, Hao Wang, Chaoyi Zhou, Ashish Bastola, Siyu Huang, Abolfazl Razi  
   *IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN)*, 2026.  
   `[Accepted]` • [Dataset (HuggingFace)](https://huggingface.co/datasets/Kevius/sanpo_annotations)
+  <details style="margin-top: 6px; margin-bottom: 12px;">
+    <summary style="cursor: pointer; font-size: 0.9em; color: #0366d6; font-weight: 500;">📖 Show BibTeX</summary>
+    <pre style="margin-top: 6px; padding: 10px; background: #f6f8fa; border-radius: 6px; font-size: 0.82em;"><code>@inproceedings{tribble2026spatial,
+  title={Spatial-Conditioned Reasoning in Long-Horizon Egocentric Videos},
+  author={Tribble, James and Hong, Si-En and Wang, Hao and Zhou, Chaoyi and Bastola, Ashish and Huang, Siyu and Razi, Abolfazl},
+  booktitle={IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN)},
+  year={2026}
+}</code></pre>
+  </details>
 
 * **Motion Focus Recognition in Fast-Moving Egocentric Video**  
   Si-En Hong, James Tribble, Alexander Lake, Hao Wang, Chaoyi Zhou, Ashish Bastola, Siyu Huang, Eisa Chaudhary, Brian Canada, Ismahan Arslan-Ari, Abolfazl Razi  
   *IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVw @ CV4WS)*, 2026.  
   [arXiv:2601.07154](https://arxiv.org/abs/2601.07154)
+  <details style="margin-top: 6px; margin-bottom: 12px;">
+    <summary style="cursor: pointer; font-size: 0.9em; color: #0366d6; font-weight: 500;">📖 Show BibTeX</summary>
+    <pre style="margin-top: 6px; padding: 10px; background: #f6f8fa; border-radius: 6px; font-size: 0.82em;"><code>@article{hong2026motion,
+  title={Motion Focus Recognition in Fast-Moving Egocentric Video},
+  author={Hong, Si-En and Tribble, James and Lake, Alexander and Wang, Hao and Zhou, Chaoyi and Bastola, Ashish and Huang, Siyu and Chaudhary, Eisa and Canada, Brian and Arslan-Ari, Ismahan and Razi, Abolfazl},
+  journal={arXiv preprint arXiv:2601.07154},
+  year={2026}
+}</code></pre>
+  </details>
 
 * **VIN-Bench: Benchmarking Safety Reasoning and Action Planning for Visual Assistive Navigation**  
   *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*, 2027 Datasets Track.  
   `[Under Review]`
+  <details style="margin-top: 6px; margin-bottom: 12px;">
+    <summary style="cursor: pointer; font-size: 0.9em; color: #0366d6; font-weight: 500;">📖 Show BibTeX</summary>
+    <pre style="margin-top: 6px; padding: 10px; background: #f6f8fa; border-radius: 6px; font-size: 0.82em;"><code>@article{vinbench2027,
+  title={VIN-Bench: Benchmarking Safety Reasoning and Action Planning for Visual Assistive Navigation},
+  author={Anonymous},
+  journal={WACV Datasets Track (Under Review)},
+  year={2027}
+}</code></pre>
+  </details>
 
 * **Motor Focus: Fast Ego-Motion Prediction for Assistive Visual Navigation**  
   Hao Wang, Jiayou Qin, Xiwen Chen, Ashish Bastola, John Suchanek, Zihao Gong, Abolfazl Razi  
   *IEEE 20th International Conference on Body Sensor Networks (BSN)*, 2024.  
   [DOI: 10.1109/BSN63547.2024.10780583](https://ieeexplore.ieee.org/abstract/document/10780583) • [Poster](../files/MotorFocus_poster_2.pdf)
-
-* **VisionGPT: LLM-Assisted Real-Time Anomaly Detection for Safe Visual Navigation**  
-  Hao Wang, Jiayou Qin, Ashish Bastola, Xiwen Chen, John Suchanek, Zihao Gong, Abolfazl Razi  
-  *arXiv preprint arXiv:2403.12415*, 2024.  
-  [arXiv:2403.12415](https://arxiv.org/abs/2403.12415) • `50+ Citations`
-
-```bibtex
-@inproceedings{hong2026cadence,
-  title={Cadence-Adaptive Control for Camera-Based Assistive-Running Guidance},
-  author={Hong, Si-En and Wang, Hao and Razi, Abolfazl},
-  booktitle={IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN)},
-  year={2026}
-}
-
-@inproceedings{tribble2026spatial,
-  title={Spatial-Conditioned Reasoning in Long-Horizon Egocentric Videos},
-  author={Tribble, James and Hong, Si-En and Wang, Hao and Zhou, Chaoyi and Bastola, Ashish and Huang, Siyu and Razi, Abolfazl},
-  booktitle={IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN)},
-  year={2026}
-}
-
-@inproceedings{wang2024motor,
+  <details style="margin-top: 6px; margin-bottom: 12px;">
+    <summary style="cursor: pointer; font-size: 0.9em; color: #0366d6; font-weight: 500;">📖 Show BibTeX</summary>
+    <pre style="margin-top: 6px; padding: 10px; background: #f6f8fa; border-radius: 6px; font-size: 0.82em;"><code>@inproceedings{wang2024motor,
   title={Motor Focus: Fast Ego-Motion Prediction for Assistive Visual Navigation},
   author={Wang, Hao and Qin, Jiayou and Chen, Xiwen and Bastola, Ashish and Suchanek, John and Gong, Zihao and Razi, Abolfazl},
   booktitle={2024 IEEE 20th International Conference on Body Sensor Networks (BSN)},
   pages={1--4},
   year={2024},
   organization={IEEE}
-}
+}</code></pre>
+  </details>
+
+* **VisionGPT: LLM-Assisted Real-Time Anomaly Detection for Safe Visual Navigation**  
+  Hao Wang, Jiayou Qin, Ashish Bastola, Xiwen Chen, John Suchanek, Zihao Gong, Abolfazl Razi  
+  *arXiv preprint arXiv:2403.12415*, 2024.  
+  [arXiv:2403.12415](https://arxiv.org/abs/2403.12415) • `50+ Citations`
+  <details style="margin-top: 6px; margin-bottom: 12px;">
+    <summary style="cursor: pointer; font-size: 0.9em; color: #0366d6; font-weight: 500;">📖 Show BibTeX</summary>
+    <pre style="margin-top: 6px; padding: 10px; background: #f6f8fa; border-radius: 6px; font-size: 0.82em;"><code>@article{wang2024visiongpt,
+  title={VisionGPT: LLM-Assisted Real-Time Anomaly Detection for Safe Visual Navigation},
+  author={Wang, Hao and Qin, Jiayou and Bastola, Ashish and Chen, Xiwen and Suchanek, John and Gong, Zihao and Razi, Abolfazl},
+  journal={arXiv preprint arXiv:2403.12415},
+  year={2024}
+}</code></pre>
+  </details>
