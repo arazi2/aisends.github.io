@@ -47,6 +47,7 @@ F. Afghah, A. Razi, Ashwin Belle, K. Najarian, "Hierarchical Game Theoretic Base
 
 ## Journal Papers
 
+
 Sayed Pedram Haeri Boroujeni, Niloufar Mehrabi, Hamzeh Alzorgan, Mohammadreza Fazeli, Abolfazl Razi, "All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles," Image and Vision Computing, 105944, 2026. <a href="https://doi.org/10.1016/j.imavis.2026.105944">(Link)</a>
 
 Niloufar Mehrabi, Sayed Pedram Haeri Boroujeni, Abolfazl Razi, "Turbo-IRL: Enhancing Multi-Agent Systems Using Turbo Decoding-Inspired Deep Maximum Entropy Inverse Reinforcement Learning," Expert Systems with Applications, 2026. <a href="https://www.sciencedirect.com/science/article/pii/S0957417425023723">(Link)</a>
@@ -56,6 +57,12 @@ Sayed Pedram Haeri Boroujeni, Niloufar Mehrabi, Fatemeh Afghah, Connor Peter McG
 Ahmad Sarlak, Rahul Amin, Abolfazl Razi, "Extended Visibility of Autonomous Vehicles via Optimized Cooperative Perception under Imperfect Communication," Transportation Research Part C: Emerging Technologies, 2025. <a href="https://www.sciencedirect.com/science/article/pii/S0968090X25003547">(Link)</a>
 
 Ashish Bastola, Hao Wang, Sayed Pedram Haeri Boroujeni, Julian Brinkley, Ata Jahangir Moshayedi, Abolfazl Razi, "Driving Towards Inclusion: A Systematic Review of AI-Powered Accessibility Enhancements for People with Disability in Autonomous Vehicles," IEEE Access (2025). <a href="https://ieeexplore.ieee.org/abstract/document/10945350">(Link)</a>
+
+Amirreza Talebi, Sayed Pedram Haeri Boroujeni, Abolfazl Razi, "Integrating Random Regret Minimization-Based Discrete Choice Models with Mixed Integer Linear Programming for Revenue Optimization," Iran Journal of Computer Science, vol. 8, no. 1, pp. 21–35, 2025. <a href="https://doi.org/10.1007/s42044-024-00192-3">(Link)</a>
+
+Ata Jahangir Moshayedi, Mohammad Hossein Navid Skandari, Jiandong Hu, Abolfazl Razi, David Bassir, "Transient Modeling for Faster Gas Sensor Response: An Efficient Mathematical Approach for MOX Sensors in Ethanol Detection," Contemporary Mathematics, vol. 7, no. 1, pp. 1–26, 2025. <a href="https://ojs.wiserpub.com/index.php/CM/article/view/7320">(Link)</a>
+
+Hongkui Zheng, Hao Wang, Xiwen Chen, Abolfazl Razi, Kai He, "Gaussian Differential Assessment of Sequential STEM Radiation Damage in Beam-Sensitive Materials," Microscopy and Microanalysis, vol. 31, Supplement 1, pp. ozaf048.1065, 2025. <a href="https://doi.org/10.1093/mam/ozaf048.1065">(Link)</a>
 
 Sayed Pedram Haeri Boroujeni, Abolfazl Razi, "IC-GAN: An Improved Conditional Generative Adversarial Network for RGB-to-IR Image Translation with Applications to Forest Fire Monitoring," Expert Systems with Applications, 238, 121962 (2024). <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423024648">(Link)</a>
 
@@ -126,6 +133,16 @@ F. Afghah, M. Ardebilipour, A. Razi, "Fast Turbo Codes Concatenated with Space-T
 
 ## Conference Papers
 
+Hao Wang, Ashish Bastola, Abolfazl Razi, et al., "VIN-Bench: Evaluating Multimodal Reasoning in Visual Navigation," in IEEE/CVF Winter Conference on Applications of Computer Vision Workshop on Image/Video/Audio Quality Assessment in Computer Vision, VLM and Diffusion Model (WACV: WVAQ), Tucson, Arizona, 2027.
+
+Xiwen Chen, Wenhui Zhu, Jiaye Wang, Peijie Qiu, Zhiwei Wang, Huayu Li, Zheyong Dong, Xuanzhao Dong, Pankaj Tiwari, Abolfazl Razi, "S-SPPO: Semantic-Calibrated Self-Play Preference Optimization," in Proceedings of the 43rd International Conference on Machine Learning (ICML), 2026. <a href="https://proceedings.mlr.press/v306/chen26hc.html">(Link)</a>
+
+Si-En Hong, James Tribble, Hao Wang, Chaoyi Zhou, Ashish Bastola, Siyi Huang, Abolfazl Razi, "Motion Focus Recognition in Fast-Moving Egocentric Video," in International Conference on Emerging Engineering and Technology (ICEET), 2026. <a href="https://arxiv.org/abs/2601.07154">(Link)</a>
+
+Si-En Hong, Hao Wang, Landon Terry, Abolfazl Razi, "Right Cue, Wrong Turn: AirTether Personalizes Spatial Audio for Blind Navigation," in International Conference on Emerging Engineering and Technology (ICEET), 2026.
+
+Xiwen Chen, Wenhui Zhu, Gen Li, Xuanzhao Dong, Yujian Xiong, Hao Wang, Peijie Qiu, Qingquan Song, Zhipeng Wang, Shao Tang, Yalin Wang, Abolfazl Razi, "OTPrune: Distribution-Aligned Visual Token Pruning via Optimal Transport," in IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Findings, 2026. <a href="https://arxiv.org/abs/2602.20205">(Link)</a>
+
 Niloufar Mehrabi, Sayed Pedram Haeri Boroujeni, Abolfazl Razi, "From Talking Words to Sharing Thoughts: Scalable Multi-LLM Aggregation via Structured Message Passing," in Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS), 2026. <a href="https://arxiv.org/abs/2606.00405">(Link)</a>
 
 Ahmad Sarlak, Hao Wang, Rahul Amin, Abolfazl Razi, "LLM-Assisted Coalition Formation for Cooperative Perception in Autonomous Driving," in IEEE Global Communications Conference (GLOBECOM), 2026. <a href="https://arxiv.org/abs/2608.00690">(Link)</a>
@@ -145,11 +162,9 @@ Xiwen Chen, Yun-Cheng Lien, Sisi Liu, Manuel Castaños, Abolfazl Razi, Xiangyu Z
 Wenhui Zhu, Xuanzhao Dong, Xiaoman Li, Peijie Qiu, Xiwen Chen, William Northrup, Abolfazl Razi, Aris Sotiras, Yubo Su, Yalin Wang, "What Matters in Reinforcement Learning Based Training for Medical Vision Language Model: An Empirical Study," in IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Tucson, Arizona, May 2026.
 
 Hao Wang, Ashish Bastola, Chaoyi Zhou, Wenhui Zhu, Xiwen Chen, Xuanzhao Dong, Siyu Huang, Abolfazl Razi, "Fast 2DGS: Efficient Image Representation with Deep Gaussian Prior," 
-in IEEE/CVF Winter Conference on Applications of Computer Vision Workshop on Image/Video/Audio Quality Assessment in Computer Vision, VLM and Diffusion Model (WACV: WVAQ), May 2026, Tucson, Arizona. 
-<a href="https://arxiv.org/abs/2512.12774">(Link)</a>
+in IEEE/CVF Winter Conference on Applications of Computer Vision Workshop on Image/Video/Audio Quality Assessment in Computer Vision, VLM and Diffusion Model (WACV: WVAQ), May 2026, Tucson, Arizona. <a href="https://arxiv.org/abs/2512.12774">(Link)</a>
 
-Sayed Pedram Haeri Boroujeni, Abolfazl Razi, "VLA4CoDrive: Vision–Language–Action Dataset for Cooperative Autonomous Driving," 
-in IEEE/CVF Winter Conference on Applications of Computer Vision Workshop on Large Language and Vision Models for Autonomous Driving (WACV: LLVM-AD), May 2026, Tucson, Arizona.
+Sayed Pedram Haeri Boroujeni, Abolfazl Razi, "VLA4CoDrive: Vision–Language–Action Dataset for Cooperative Autonomous Driving," in IEEE/CVF Winter Conference on Applications of Computer Vision Workshop on Large Language and Vision Models for Autonomous Driving (WACV: LLVM-AD), May 2026, Tucson, Arizona.
 
 Hao Wang, Wenhui Zhu, Shao Tang, Zhipeng Wang, Xuanzhao Dong, Xin Li, Xiwen Chen, Ashish Bastola, Xinhao Huang, Yalin Wang, Abolfazl Razi, "EZBlender: Efficient 3D Editing with Plan-and-ReAct Agent," 
 in IEEE/CVF Winter Conference on Applications of Computer Vision Workshop on Visual Art, Generative AI, and the Legal/Ethical Dilemma (WACV: VALED), May 2026, Tucson, Arizona.
@@ -165,6 +180,10 @@ Xiwen Chen, Wenhui Zhu, Peijie Qiu, Hao Wang, Huayu Li, Zihan Li, Yalin Wang, Ar
 Xiwen Chen, Peijie Qiu, Wenhui Zhu, Hao Wang, Huayu Li, Xuanzhao Dong, Xiaotong Sun, Xiaobing Yu, Yalin Wang, Abolfazl Razi, et al., "Cracking Instance Jigsaw Puzzles: An Alternative to Multiple Instance Learning for Whole Slide Image Analysis," Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2025. <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Cracking_Instance_Jigsaw_Puzzles_An_Alternative_to_Multiple_Instance_Learning_ICCV_2025_paper.pdf">(Link)</a>
 
 Hao Wang, Hongkui Zheng, Kai He, Abolfazl Razi, "AtomDiffuser: Time-Aware Degradation Modeling for Drift and Beam Damage in STEM Imaging," in ICCV 2025 Workshop, 2025. <a href="https://openaccess.thecvf.com/content/ICCV2025W/CV4MS/papers/Wang_AtomDiffuser_Time-Aware_Degradation_Modeling_for_Drift_and_Beam_Damage_in_ICCVW_2025_paper.pdf">(Link)</a>
+
+Ashish Bastola, Hao Wang, Abolfazl Razi, "Anomaly Detection in Cooperative Vehicle Perception Systems under Imperfect Communication," in The 22nd International Conference on Ubiquitous Robots (UR), Texas A&M University, College Station, Texas, pp. 490–497, 2025. <a href="https://doi.org/10.1109/UR63665.2025.11100342">(Link)</a>
+
+Ata Jahangir Moshayedi, Atanu Shuvam Roy, Zeashan Hameed Khan, Shuxin Yang, Abolfazl Razi, Mehran Emadi Andani, "Path Planning for AGVs: Balancing Computational Efficiency and Optimality," in 5th International Conference on Robotics, Automation and Intelligent Control (ICRAIC), pp. 1–12, 2025. <a href="https://doi.org/10.1109/ICRAIC67376.2025.11375850">(Link)</a>
 
 Michael Elrod, Niloufar Mehrabi, Rahul Amin, Manveen Kaur, Long Cheng, Jim Martin, Abolfazl Razi, "Graph Based Deep Reinforcement Learning Aided by Transformers for Multi-Agent Cooperation," in 2nd Workshop on Emerging Technologies in Aerial and Space Networks (WS02) at IEEE International Communications Conference (ICC), June 2025, Montreal, Quebec, Canada. <a href="https://arxiv.org/pdf/2504.08195">(Link)</a>
 
@@ -330,9 +349,18 @@ A. Razi, M. Ardebilipour, F. Afghah, "Space-Time Block Codes Assisted by Fast Tu
 
 F. Afghah, M. Ardebilipour, A. Razi, "Concatenation of Space-Time Block Codes and LDPC Codes," in the 13th International Telecommunications Network Strategy and Planning Symposium (NETWORK 2008), pp. 61–66, Budapest, Hungary, September 2008. <a href="https://ieeexplore.ieee.org/document/6231304">(Link)</a>
 
+## Pre-prints
 
+Hamzeh Alzorgan, Sayed Pedram Haeri Boroujeni, Abolfazl Razi, "Meta-Adaptive Beam Search Planning for Transformer-Based Reinforcement Learning Control of UAVs with Overhead Manipulators under Flight Disturbances," Available at SSRN 5938816, 2026. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5938816">(Link)</a>
+
+Ahmad Sarlak, Abolfazl Razi, "Reliability-Aware Determinantal Point Processes for Robust Informative Data Selection in Large Language Models," arXiv:2602.00885, 2026. <a href="https://arxiv.org/abs/2602.00885">(Link)</a>
+
+Wenhui Zhu, Xuanzhao Dong, Xin Li, Peijie Qiu, Xiwen Chen, Abolfazl Razi, Aris Sotiras, Yi Su, Yalin Wang, "Toward Effective Reinforcement Learning Fine-Tuning for Medical VQA in Vision-Language Models," arXiv:2505.13973, 2025. <a href="https://arxiv.org/abs/2505.13973">(Link)</a>
+
+Ashish Bastola, Mert D. Pesé, Long Cheng, Jonathon Smereka, Abolfazl Razi, "Anomalous Decision Discovery using Inverse Reinforcement Learning," arXiv:2507.04464, 2025. <a href="https://arxiv.org/abs/2507.04464">(Link)</a>
 
 ## Book Chapters
+Ata Jahangir Moshayedi, Amir Sohail Khan, Zeashan Hameed Khan, Arash Sioofy Khoojine, Abolfazl Razi, "Road Space Rationing Using Vehicle's Automated License Plate Recognition: A Comprehensive Survey of Methods," in *Applied Neural Networks in the AI Era: From Theory to Real-World Impact*, IGI Global, pp. 93–136, 2025. <a href="https://doi.org/10.4018/979-8-3693-2782-1.ch005">(Link)</a>
 
 A. Abedi, F. Afghah, A. Razi, "Resource Management in Cyber Physical Systems", Book: "Cyber-Physical System Design with Sensor Networking Technologies", The institution of Engineering and Technology (IET) <a href="http://digital-library.theiet.org/content/books/10.1049/pbce096e_ch8">(Link)</a>
 
