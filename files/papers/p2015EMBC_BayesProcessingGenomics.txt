@@ -1,0 +1,8 @@
+@inproceedings{razi2015non,
+  title={Non-linear Bayesian framework to determine the transcriptional effects of cancer-associated genomic aberrations},
+  author={Razi, Abolfazl and Banerjee, Nilanjana and Dimitrova, Nevenka and Varadan, Vinay},
+  booktitle={Engineering in Medicine and Biology Society (EMBC), 2015 37th Annual International Conference of the IEEE},
+  pages={6514--6518},
+  year={2015},
+  organization={IEEE}
+}

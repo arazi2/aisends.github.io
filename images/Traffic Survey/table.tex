@@ -1,0 +1,76 @@
+
+\begin{table*}[]
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|l|l|l|l|}
+\hline
+Method &
+  Dataset &
+  Performance(mAP) &
+  Features \\ \hline
+\multicolumn{4}{|l|}{\textit{One-stage}} \\ \hline
+SDS (2014)\cite{hariharan2014simultaneous} &
+  \begin{tabular}[c]{@{}l@{}}PASCAL VOC 2011\\ PASCAL VOC 2012\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}52.6\%\\ 51.6\%\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}MCG\cite{arbelaez2014multiscale} to generate proposal;\\ Define Instance Segmentation.\end{tabular} \\ \hline
+DeepMask (2015)\cite{pinheiro2015learning} &
+  \begin{tabular}[c]{@{}l@{}}PASCAL VOC 2007\\ MS COCO\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}improves Fast R-CNN  to 69.9\%@1.2s/image\\ @1.6s/image\end{tabular} &
+  Bottom-up proposals generation. \\ \hline
+SharpMask (2016)\cite{pinheiro2016learning} &
+  MS COCO 2015 &
+  25.1\%(AP), 45.8\%(AP^{50}), 24.8\%(AP^{75}) &
+  \begin{tabular}[c]{@{}l@{}}Add top-down refinement network\\  to DeepMask.\end{tabular} \\ \hline
+MNC (2016) \cite{dai2016MNC}&
+  \begin{tabular}[c]{@{}l@{}}PASCAL VOC 2012\\ MS COCO 2015\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}63.5\% on validation set (mAP@0.5)\\ 29.7\% on test-dev set(mAP@0.5)\\ @360 ms/image\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}New Cascaded multi-task architecture;\\ End to End trainable;\\ No external modules.\end{tabular} \\ \hline
+Mask R-CNN (2017)\cite{he2017mask} &
+  MS COCO &
+  \begin{tabular}[c]{@{}l@{}}37.1\%(AP), 60\%(AP^{50}), 39.4\%(AP^{75})\\ @200ms/frame\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}The extension version of Faster R-CNN;\\ \textit{RoIAlign} can better retain spatial information\end{tabular} \\ \hline
+FCIS (2017)\cite{li2017fully} &
+  \begin{tabular}[c]{@{}l@{}}PASCAL VOC 2012\\ MS COCO 2016\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}65.7\% (mAP@0.5) and 52.1\% (mAP@0.7) \\ 59.9\%(mAP@0.5) \\ @0.24s/image\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}The extension version of InstanceFCN\\ End to end trainable;\\ Can detect and segment objects jointly \\ and simultaneously; \\ Propose position-sensitive inside/outside \\ score maps.\end{tabular} \\ \hline
+\multicolumn{4}{|l|}{\textit{Two-stage}} \\ \hline
+InstanceFCN(2016)\cite{dai2016instance} &
+  PASCAL VOC 2012 &
+  61.5\% (mAP@0.5) and 43.0\% (mAP@0.7) &
+  \begin{tabular}[c]{@{}l@{}}Propose instance-sensitive score maps;\\ Apply \textit{hole algorithm}\cite{chen2014semantic} to VGGNet;\\ Use  Local coherence to simplify the \\ complexity.\end{tabular} \\ \hline
+YOLACT (2019)s\cite{bolya2019yolact} &
+  \begin{tabular}[c]{@{}l@{}}MS COCO 2017\\ PASCAL VOC 2012\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}29.9\%(AP)@33fps\\ 72.3\%(AP^{50}), 56.2\%(AP^{70})@47.6fps\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}Divide the tasks into non-local prototype \\ masks generation and instance-wise \\ mask coefficients prediction\end{tabular} \\ \hline
+YOLACT++(2020)s\cite{bolya2019yolact++} &
+  \begin{tabular}[c]{@{}l@{}}MS COCO 2017\\ PASCAL VOC 2012\end{tabular} &
+  33.5(AP)@34.1fps &
+  \begin{tabular}[c]{@{}l@{}}Add re-scoring branch;\\ Add DCN to speed up;\\ Try different anchor aspect ratio and scales\end{tabular} \\ \hline
+SOLO (2019)\cite{wang2019solo} &
+  MS COCO &
+  \begin{tabular}[c]{@{}l@{}}37.1(AP)@10.4fps\\ 34.2(AP)@22.5fps (light-weight)\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}Propose instance category;\\ Only needs to perform two pixel-level \\ classification problem; \\ Global mask representation\end{tabular} \\ \hline
+SOLOv2 (2020)\cite{wang2020solov2} &
+  MS COCO &
+  \begin{tabular}[c]{@{}l@{}}38.8(AP)@18fps\\ 37.1\%(AP)@31.3fps (light-weight)\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}Improve SOLO by mask learning and\\  \textit{matrix NMS}.\end{tabular} \\ \hline
+TensorMask (2019)\cite{chen2019tensormask} &
+  MS COCO &
+  37.1\% (AP)@0.38s/image &
+  \begin{tabular}[c]{@{}l@{}}Represent masks by multi-scale \\ structured high-dimensional(4D) tensors;\\ Scale-adaptive sizes are implemented\\  by Bipyramid structure.\end{tabular} \\ \hline
+PolarMask (2020) \cite{xie2020polarmask}&
+  MS COCO &
+  32.1\% (AP)@12.3fps &
+  \begin{tabular}[c]{@{}l@{}}Introduces contour representation\\  in the Polar coordinates;\\ The complexity is close to a \\ single-shot objector.\end{tabular} \\ \hline
+BlendMask (2020)\cite{chen2020blendmask} &
+  MS COCO &
+  \begin{tabular}[c]{@{}l@{}}41.3\%(AP)@116ms/image\\ 34.5\%(AP)@39.7ms/image (real-time setting)\end{tabular} &
+  \begin{tabular}[c]{@{}l@{}}Combine benefits from both top-down \\ and bottom-up methods.\end{tabular} \\ \hline
+CondInst (2020)\cite{tian2020conditional} &
+  MS COCO &
+  35.4\%(AP)@49ms/image &
+  \begin{tabular}[c]{@{}l@{}}No need for RoI cropping and \\ feature alignment;\\ mask FCN network parameters are \\ dynamically-generated;\\ Mask prediction heads are compact.\end{tabular} \\ \hline
+\end{tabular}%
+}
+\caption{Differences between some state-of-the-art methods. The data of 'Performance' is provided by its corresponding papers. Since test it by different GPU conditions, the numbers are for reference only.}
+\label{tab:Instance segementation}
+\end{table*}

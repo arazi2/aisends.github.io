@@ -1,0 +1,8 @@
+@inproceedings{razi2011interference,
+  title={Interference reduction in Wireless Passive Sensor Networks using directional antennas},
+  author={Razi, Abolfazl and Abedi, Ali},
+  booktitle={Fly by Wireless Workshop (FBW), 2011 4th Annual Caneus},
+  pages={1--4},
+  year={2011},
+  organization={IEEE}
+}

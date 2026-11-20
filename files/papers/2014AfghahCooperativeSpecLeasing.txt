@@ -1,0 +1,8 @@
+@inproceedings{afghah2014cooperative,
+  title={Cooperative spectrum leasing in cognitive radio networks},
+  author={Afghah, Fatemeh and Razi, Abolfazl},
+  booktitle={Wireless Research Collaboration Symposium (NWRCS), 2014 National},
+  pages={106--111},
+  year={2014},
+  organization={IEEE}
+}

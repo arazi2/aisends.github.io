@@ -1,0 +1,10 @@
+@article{yasami2011analysis,
+  title={Analysis of channel estimation error in physical layer network coding},
+  author={Yasami, Keyvan and Razi, Abolfazl and Abedi, Ali},
+  journal={IEEE Communications Letters},
+  volume={15},
+  number={10},
+  pages={1029--1031},
+  year={2011},
+  publisher={IEEE}
+}

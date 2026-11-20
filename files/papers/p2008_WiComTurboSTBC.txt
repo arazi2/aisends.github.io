@@ -1,0 +1,8 @@
+@inproceedings{razi2008space,
+  title={Space-time block codes assisted by fast turbo codes},
+  author={Razi, Abolfazl and Ardebilipour, Mehrdad and Afghah, Fatemeh},
+  booktitle={Wireless Communications, Networking and Mobile Computing, 2008. WiCOM'08. 4th International Conference on},
+  pages={1--6},
+  year={2008},
+  organization={IEEE}
+}

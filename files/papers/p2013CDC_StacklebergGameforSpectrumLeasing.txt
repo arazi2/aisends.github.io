@@ -1,0 +1,8 @@
+@inproceedings{afghah2013reputation,
+  title={A reputation-based stackelberg game approach for spectrum sharing with cognitive cooperation},
+  author={Afghah, Fatemeh and Costa, Maice and Razi, Abolfazl and Abedi, Ali and Ephremides, Anthony},
+  booktitle={Decision and Control (CDC), 2013 IEEE 52nd Annual Conference on},
+  pages={3287--3292},
+  year={2013},
+  organization={IEEE}
+}

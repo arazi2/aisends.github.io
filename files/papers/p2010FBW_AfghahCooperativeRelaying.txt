@@ -1,0 +1,8 @@
+@inproceedings{afghah2010wireless,
+  title={Wireless cooperative relaying using game theory},
+  author={Afghah, Fatemeh and Razi, Abolfazl and Abedi, Ali},
+  booktitle={Fly by Wireless Workshop (FBW), 2010 Caneus},
+  pages={10--11},
+  year={2010},
+  organization={IEEE}
+}

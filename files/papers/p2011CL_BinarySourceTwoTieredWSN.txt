@@ -1,0 +1,10 @@
+@article{razi2011binary,
+  title={Binary source estimation using a two-tiered wireless sensor network},
+  author={Razi, Abolfazl and Afghah, Fatemeh and Abedi, Ali},
+  journal={IEEE Communications Letters},
+  volume={15},
+  number={4},
+  pages={449--451},
+  year={2011},
+  publisher={IEEE}
+}

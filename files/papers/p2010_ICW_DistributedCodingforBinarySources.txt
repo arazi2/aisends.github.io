@@ -1,0 +1,6 @@
+@article{abedi2010distributed,
+  title={Distributed coding of sources with unknown correlation parameter},
+  author={Abedi, Ali and Razi, Abolfazl},
+  journal={ICWN'10},
+  year={2010}
+}

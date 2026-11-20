@@ -1,0 +1,8 @@
+@inproceedings{chen2018predictive,
+  title={A predictive framework for ECG signal processing using controlled nonlinear transformation},
+  author={Chen, Jiaming and Razi, Abolfazl},
+  booktitle={Biomedical \& Health Informatics (BHI), 2018 IEEE EMBS International Conference on},
+  pages={161--165},
+  year={2018},
+  organization={IEEE}
+}

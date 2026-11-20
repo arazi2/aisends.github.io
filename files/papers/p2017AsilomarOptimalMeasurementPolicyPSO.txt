@@ -1,0 +1,8 @@
+@inproceedings{razi2017optimal,
+  title={Optimal measurement policy for predicting uav network topology},
+  author={Razi, Abolfazl and Afghah, Fatemeh and Chakareski, Jacob},
+  booktitle={Signals, Systems, and Computers, 2017 51st Asilomar Conference on},
+  pages={1374--1378},
+  year={2017},
+  organization={IEEE}
+}

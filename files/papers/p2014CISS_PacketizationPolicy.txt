@@ -1,0 +1,8 @@
+@inproceedings{razi2014delay,
+  title={Delay minimization with channel-adaptive packetization policy for random data traffic},
+  author={Razi, Abolfazl and Abediy, Ali and Ephremides, Anthony},
+  booktitle={Information Sciences and Systems (CISS), 2014 48th Annual Conference on},
+  pages={1--6},
+  year={2014},
+  organization={IEEE}
+}

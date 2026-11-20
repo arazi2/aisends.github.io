@@ -1,0 +1,8 @@
+@inproceedings{rovira2017predictive,
+  title={Predictive routing for dynamic uav networks},
+  author={Rovira-Sugranes, Arnau and Razi, Abolfazl},
+  booktitle={Wireless for Space and Extreme Environments (WiSEE), 2017 IEEE International Conference on},
+  pages={43--47},
+  year={2017},
+  organization={IEEE}
+}

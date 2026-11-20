@@ -1,0 +1,8 @@
+@inproceedings{razi2018predictive,
+  title={Predictive routing for wireless networks: Robotics-based test and evaluation platform},
+  author={Razi, Abolfazl and Wang, Chaoju and Almaraghi, Fahad and Huang, Qiyuan and Zhang, Yuting and Lu, Hanxiao and Rovira-Sugranes, Arnau},
+  booktitle={Computing and Communication Workshop and Conference (CCWC), 2018 IEEE 8th Annual},
+  pages={993--999},
+  year={2018},
+  organization={IEEE}
+}

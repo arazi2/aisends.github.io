@@ -1,0 +1,6 @@
+@article{afghah2017coalition,
+  title={A Coalition Formation Approach to Coordinated Task Allocation in Heterogeneous UAV Networks},
+  author={Afghah, Fatemeh and Zaeri-Amirani, Mohammad and Razi, Abolfazl and Chakareski, Jacob and Bentley, Elizabeth},
+  journal={arXiv preprint arXiv:1711.00214},
+  year={2017}
+}
